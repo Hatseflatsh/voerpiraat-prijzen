@@ -41,6 +41,8 @@ jobs:
             if [[ -f package.json ]]; then npm ci; fi
             node scripts/refresh-prices.mjs
             node scripts/refresh-expansion-devices.mjs
+            node scripts/refresh-round2-feeders.mjs
+            node scripts/refresh-fountains.mjs
             node scripts/refresh-parts.mjs
             node scripts/refresh-deals.mjs
             node scripts/apply-published-delivery.mjs

@@ -1,0 +1,238 @@
+[
+  {
+    "slug": "catit-pixi-smart-feeder-wit",
+    "shop": "Pets Place",
+    "url": "https://www.petsplace.nl/catit-pixi-smart-feeder-kattenvoerbak-022517437520-pps",
+    "sku": "30002428",
+    "barcode": "022517437520",
+    "adapter": "parts-single",
+    "label": "Catit Pixi Smart Feeder"
+  },
+  {
+    "slug": "catit-pixi-smart-feeder-wit",
+    "shop": "Medpets",
+    "url": "https://www.medpets.nl/catit-pixi-smart-feeder?sku=MP32114",
+    "sku": "MP32114",
+    "barcode": "0022517437520",
+    "adapter": "parts-medpets",
+    "label": "Catit PIXI Smart Feeder"
+  },
+  {
+    "slug": "catit-pixi-smart-feeder-wit",
+    "shop": "Zooplus",
+    "url": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/andere/1102103?activeVariant=1102103.0",
+    "sku": "1102103.0",
+    "barcode": "022517437520",
+    "adapter": "schema",
+    "label": "Catit PIXI Smart Voerautomaat"
+  },
+  {
+    "slug": "catit-pixi-smart-feeder-wit",
+    "shop": "Krabpaal.nl",
+    "url": "https://krabpaal.nl/products/catit-pixi-smart-feeder",
+    "sku": "L-33/43752",
+    "barcode": null,
+    "adapter": "schema",
+    "label": "Catit Pixi Smart Feeder"
+  },
+  {
+    "slug": "cat-mate-c200-wit",
+    "shop": "Zooplus",
+    "url": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/pet_mate/1212139?activeVariant=1212139.3",
+    "sku": "1212139.3",
+    "barcode": "035368004018",
+    "adapter": "schema",
+    "label": "Cat Mate voerautomaat C200"
+  },
+  {
+    "slug": "cat-mate-c200-wit",
+    "shop": "Closer Pets EU",
+    "url": "https://closerpets.eu/products/cat-mate-two-meal-automatic-pet-feeder-c200?variant=58454252749132",
+    "sku": "401",
+    "barcode": "035368004018",
+    "adapter": "schema",
+    "label": "Cat Mate Two-meal Automatic Pet Feeder"
+  },
+  {
+    "slug": "cat-mate-c200-wit",
+    "shop": "bol (Closer Pets)",
+    "url": "https://www.bol.com/nl/nl/p/cat-mate-c200-automatische-voerbak-voerbak-voerautomaat-voerbak-kat-voerbak-hond-voerbak-met-timer-voerautomaat-kat-voerautomaat-hond-wit/9300000007889102/",
+    "sku": "9300000007889102",
+    "barcode": "0035368004018",
+    "adapter": "bol",
+    "label": "Cat Mate C200",
+    "seller": "Closer Pets"
+  },
+  {
+    "slug": "cat-mate-c3000-wit",
+    "shop": "Zooplus",
+    "url": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/pet_mate/633845?activeVariant=633845.0",
+    "sku": "633845.0",
+    "barcode": "035368003479",
+    "adapter": "schema",
+    "label": "Cat Mate Voerautomaat C3000"
+  },
+  {
+    "slug": "cat-mate-c3000-wit",
+    "shop": "Closer Pets EU",
+    "url": "https://closerpets.eu/products/multi-meal-automatic-dry-food-pet-feeder-with-digital-timer-c3000?variant=41233511874752",
+    "sku": "347",
+    "barcode": "035368003479",
+    "adapter": "schema",
+    "label": "Multi-meal Automatic Dry Food Pet Feeder"
+  },
+  {
+    "slug": "cat-mate-c3000-wit",
+    "shop": "Dierencompleet",
+    "url": "https://dierencompleet.nl/product/closer-pets-catmate-automatische-voerautomaat/",
+    "sku": "80853",
+    "barcode": "0035368003479",
+    "adapter": "woocommerce",
+    "label": "Closer Pets CatMate automatische voerautomaat",
+    "post_id": "25902"
+  },
+  {
+    "slug": "trixie-tx8-smart-2-0",
+    "shop": "Huisdieren.nl",
+    "url": "https://www.huisdieren.nl/shop/trixie-voederautomaat-smart-2-0-wit-grijs/",
+    "sku": "413232",
+    "barcode": null,
+    "adapter": "schema",
+    "label": "Trixie voederautomaat smart 2.0 wit / grijs"
+  },
+  {
+    "slug": "trixie-tx8-smart-2-0",
+    "shop": "Tormino",
+    "url": "https://tormino.com/products/trixie-automatic-feeder-smart-2-0-white-gray/",
+    "sku": "9071586017599",
+    "barcode": "4011905243443",
+    "adapter": "schema",
+    "label": "Trixie Smart 2.0 automatic feeder white/grey"
+  },
+  {
+    "slug": "trixie-tx8-smart-2-0",
+    "shop": "PetShop24",
+    "url": "https://www.petshop24.nl/product/trixie-voederautomaat-smart-2-0-wit-grijs-45-ltr-24x19x38-cm/",
+    "sku": "413232",
+    "barcode": null,
+    "adapter": "schema",
+    "label": "Trixie Voederautomaat Smart 2.0 Wit / Grijs"
+  },
+  {
+    "slug": "petsafe-healthy-pet-simply-feed",
+    "shop": "PetSafe Nederland",
+    "url": "https://www.petsafe.com/nl/p/healthy-pet-simply-feed-programmeerbare-digitale-voerautomaat-voor-huisdieren/PFD19-15521/",
+    "sku": "PFD19-15521",
+    "barcode": null,
+    "adapter": "schema",
+    "label": "Healthy Pet Simply Feed"
+  },
+  {
+    "slug": "petsafe-healthy-pet-simply-feed",
+    "shop": "Ecodiervoeding.nl",
+    "url": "https://www.ecodiervoeding.nl/digitale-voerautomaat-voor-hond-en-kat.html",
+    "sku": "PFD19-15521",
+    "barcode": "0729849155213",
+    "adapter": "schema",
+    "label": "digitale voerautomaat voor hond en kat"
+  },
+  {
+    "slug": "petsafe-healthy-pet-simply-feed",
+    "shop": "Junai.nl",
+    "url": "https://www.junai.nl/healthy-pet-simply-feed.html",
+    "sku": "PFD19-15521",
+    "barcode": "729849155213",
+    "adapter": "microdata",
+    "label": "Healthy Pet Simply Feed"
+  },
+  {
+    "slug": "catit-pixi-smart-6-meal",
+    "shop": "Zoolini",
+    "url": "https://www.zoolini.nl/catit/pixi-smart-6-meal-voerautomaat",
+    "sku": "Xol-CAI-43754",
+    "barcode": "0022517437544",
+    "adapter": "schema",
+    "label": "Catit Pixi Smart 6-Meal"
+  },
+  {
+    "slug": "cat-mate-c500-wit",
+    "shop": "Closer Pets EU",
+    "url": "https://closerpets.eu/products/five-meal-automatic-pet-feeder-with-digital-timer-c500-1?variant=42104669536448",
+    "sku": "365",
+    "barcode": "035368003653",
+    "adapter": "schema",
+    "label": "Five-meal Automatic Pet Feeder"
+  },
+  {
+    "slug": "cat-mate-c300-wit",
+    "shop": "Zooplus",
+    "url": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/pet_mate/633918?activeVariant=633918.2",
+    "sku": "633918.2",
+    "barcode": "035368003660",
+    "adapter": "schema",
+    "label": "Cat Mate Voerautomaat C300"
+  },
+  {
+    "slug": "cat-mate-c300-wit",
+    "shop": "Bitiba",
+    "url": "https://www.bitiba.nl/shop/katten/voerbak/voerautomaten/637095?activeVariant=637095.2",
+    "sku": "637095.2",
+    "barcode": "035368003660",
+    "adapter": "schema",
+    "label": "Cat Mate Voerautomaat C300"
+  },
+  {
+    "slug": "cat-mate-c300-wit",
+    "shop": "Closer Pets EU",
+    "url": "https://closerpets.eu/products/three-meal-automatic-pet-feeder-with-digital-timer-c300-petmate?variant=42107123531968",
+    "sku": "366",
+    "barcode": "035368003660",
+    "adapter": "schema",
+    "label": "Three-meal Automatic Pet Feeder"
+  },
+  {
+    "slug": "catit-pixi-smart-feeder-wit",
+    "shop": "Bitiba",
+    "url": "https://www.bitiba.nl/shop/katten/voerbak/voerautomaten/1102105?activeVariant=1102105.0",
+    "sku": "1102105.0",
+    "barcode": "022517437520",
+    "adapter": "schema",
+    "label": "Catit PIXI Smart Voerautomaat"
+  },
+  {
+    "slug": "cat-mate-c200-wit",
+    "shop": "Bitiba",
+    "url": "https://www.bitiba.nl/shop/katten/voerbak/voerautomaten/1212226?activeVariant=1212226.3",
+    "sku": "1212226.3",
+    "barcode": "035368004018",
+    "adapter": "schema",
+    "label": "Cat Mate C200"
+  },
+  {
+    "slug": "cat-mate-c3000-wit",
+    "shop": "Bitiba",
+    "url": "https://www.bitiba.nl/shop/katten/voerbak/voerautomaten/637093?activeVariant=637093.0",
+    "sku": "637093.0",
+    "barcode": "035368003479",
+    "adapter": "schema",
+    "label": "Cat Mate Voerautomaat C3000"
+  },
+  {
+    "slug": "catit-pixi-smart-6-meal",
+    "shop": "Bitiba",
+    "url": "https://www.bitiba.nl/shop/katten/voerbak/voerautomaten/1388964?activeVariant=1388964.0",
+    "sku": "1388964.0",
+    "barcode": "022517437544",
+    "adapter": "schema",
+    "label": "Catit Pixi Smart 6-Meal Voerautomaat"
+  },
+  {
+    "slug": "cat-mate-c500-wit",
+    "shop": "Bitiba",
+    "url": "https://www.bitiba.nl/shop/katten/voerbak/voerautomaten/690480?activeVariant=690480.2",
+    "sku": "690480.2",
+    "barcode": "035368003653",
+    "adapter": "schema",
+    "label": "Cat Mate Voerautomaat C500"
+  }
+]

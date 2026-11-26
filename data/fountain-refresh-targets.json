@@ -1,0 +1,250 @@
+[
+  {
+    "slug": "catit-flower-fountain-3l",
+    "shop": "Zooplus",
+    "mode": "zooplus",
+    "sku": "624374.0",
+    "gtin": "022517437421",
+    "url": "https://www.zooplus.nl/shop/katten/voerbak/kattendrenkplaats/624374?activeVariant=624374.0"
+  },
+  {
+    "slug": "trixie-vital-flow-15l",
+    "shop": "Zooplus",
+    "mode": "zooplus",
+    "sku": "626578.0",
+    "gtin": "4011905244662",
+    "url": "https://www.zooplus.nl/shop/katten/voerbak/kattendrenkplaats/626578?activeVariant=626578.0"
+  },
+  {
+    "slug": "cat-mate-drinkfontein-2l-wit",
+    "shop": "Zooplus",
+    "mode": "zooplus",
+    "sku": "145972.9",
+    "gtin": "035368083358",
+    "url": "https://www.zooplus.nl/shop/katten/voerbak/kattendrenkplaats/145972?activeVariant=145972.9"
+  },
+  {
+    "slug": "petsafe-drinkwell-platinum",
+    "shop": "Zooplus",
+    "mode": "zooplus",
+    "sku": "145974.6",
+    "gtin": "729849145696",
+    "url": "https://www.zooplus.nl/shop/katten/voerbak/kattendrenkplaats/145974?activeVariant=145974.6"
+  },
+  {
+    "slug": "catit-flower-fountain-3l",
+    "shop": "Pets Place",
+    "mode": "petsplace",
+    "sku": "338800",
+    "gtin": "022517437421",
+    "url": "https://www.petsplace.nl/catit-drinkfontein-bloem-senses-kattendrinkbak-022517437421-pps"
+  },
+  {
+    "slug": "trixie-vital-flow-15l",
+    "shop": "Pets Place",
+    "mode": "petsplace",
+    "sku": "30067005",
+    "gtin": "4011905244662",
+    "url": "https://www.petsplace.nl/trixie-drinkfontein-vital-flow-kattendrinkbak-4011905244662-pps"
+  },
+  {
+    "slug": "petsafe-drinkwell-360-rvs-38l",
+    "shop": "Pets Place",
+    "mode": "petsplace",
+    "sku": "940505",
+    "gtin": "729849143609",
+    "url": "https://www.petsplace.nl/petsafe-drinkwell-360-roestvrijstalen-drinkfontein-hondendrinkbak-729849143609-pps"
+  },
+  {
+    "slug": "catit-flower-fountain-3l",
+    "shop": "Hano",
+    "mode": "ld",
+    "sku": "0022517437421",
+    "gtin": "0022517437421",
+    "url": "https://www.hano.nl/kat/voer-en-drinkbakken/catit-senses-drinkfontein-flower-br3-ltr"
+  },
+  {
+    "slug": "catit-flower-fountain-3l",
+    "shop": "PharmaPets",
+    "mode": "ld",
+    "sku": "ld_33/43742W",
+    "gtin": null,
+    "url": "https://www.pharmapets.nl/catit-2-0-flower-fountain-3l.html"
+  },
+  {
+    "slug": "trixie-vital-flow-15l",
+    "shop": "AvonturiaShop",
+    "mode": "ld",
+    "sku": "0001128752",
+    "gtin": "4011905244662",
+    "url": "https://www.avonturiashop.nl/trixie-drinkfontein-vital-flow-keramisch-15-l-grijs-wit.html"
+  },
+  {
+    "slug": "trixie-vital-flow-15l",
+    "shop": "Catsclusive",
+    "mode": "ld",
+    "sku": "24466",
+    "gtin": "4011905244662",
+    "url": "https://www.catsclusive.nl/fonteinen/drinkfontein-vital-flow-grijs"
+  },
+  {
+    "slug": "cat-mate-drinkfontein-2l-wit",
+    "shop": "Closer Pets",
+    "mode": "ld",
+    "sku": "335E",
+    "gtin": "035368083358",
+    "url": "https://closerpets.eu/products/three-level-pet-fountain-white-335-petmate?variant=47401103196492"
+  },
+  {
+    "slug": "cat-mate-drinkfontein-2l-wit",
+    "shop": "bol (Closer Pets)",
+    "mode": "bol",
+    "sku": "9200000025082996",
+    "gtin": "0035368083358",
+    "url": "https://www.bol.com/nl/nl/p/cat-mate-waterfontein-kat-kattenfontein-drinkfontein-kat-fluisterstil-poezen-fontein-dieren-drinkbakken-honden-fontein-2-l/9200000025082996/"
+  },
+  {
+    "slug": "petsafe-drinkwell-platinum",
+    "shop": "Petsonline",
+    "mode": "ld",
+    "sku": "D2-EU-45",
+    "gtin": "729849145696",
+    "url": "https://www.petsonline.nl/nl/petsafe-drinkfontein-drinkwell-platinum-5-liter.html"
+  },
+  {
+    "slug": "petsafe-drinkwell-platinum",
+    "shop": "Pips",
+    "mode": "ld",
+    "sku": "2276-D",
+    "gtin": "729849145696",
+    "url": "https://www.pips.nl/drinkwell-platinum-drinkfontein-5-liter"
+  },
+  {
+    "slug": "petsafe-drinkwell-360-rvs-38l",
+    "shop": "Pips",
+    "mode": "ld",
+    "sku": "2278-D",
+    "gtin": "729849143609",
+    "url": "https://www.pips.nl/drinkwell-360-stainless-steel-pet-fountain-3-8-l-waterbak"
+  },
+  {
+    "slug": "petsafe-drinkwell-platinum",
+    "shop": "PetSafe Nederland",
+    "mode": "petsafe",
+    "sku": "D2-EU-45",
+    "gtin": null,
+    "url": "https://www.petsafe.com/nl/p/drinkwell-platinum-huisdierenfontein/D2-EU-45/?sku=D2-EU-45"
+  },
+  {
+    "slug": "petsafe-drinkwell-360-rvs-38l",
+    "shop": "PetSafe Nederland",
+    "mode": "petsafe",
+    "sku": "D360SS-EU-45",
+    "gtin": null,
+    "url": "https://www.petsafe.com/nl/p/drinkwell-360-roestvrijstalen-huisdierenfontein/D360SS-EU-45/?sku=D360SS-EU-45"
+  },
+  {
+    "slug": "petsafe-drinkwell-360-rvs-38l",
+    "shop": "De Huisdiersuper",
+    "mode": "micro",
+    "sku": null,
+    "gtin": "729849143609",
+    "url": "https://www.dehuisdiersuper.nl/petsafe-drinkwell-360-drinkfontein-roestvrijstaal"
+  },
+  {
+    "slug": "cat-mate-drinkfontein-2l-wit",
+    "shop": "Bitiba",
+    "mode": "ld",
+    "sku": "399059.7",
+    "gtin": "035368083358",
+    "url": "https://www.bitiba.nl/shop/katten/voerbak/kattendrenkplaats/399059?activeVariant=399059.7"
+  },
+  {
+    "slug": "petsafe-drinkwell-platinum",
+    "shop": "Bitiba",
+    "mode": "ld",
+    "sku": "461927.6",
+    "gtin": "729849145696",
+    "url": "https://www.bitiba.nl/shop/katten/voerbak/kattendrenkplaats/461927?activeVariant=461927.6"
+  },
+  {
+    "slug": "trixie-vital-flow-15l",
+    "shop": "Bitiba",
+    "mode": "ld",
+    "sku": "637933.0",
+    "gtin": "4011905244662",
+    "url": "https://www.bitiba.nl/shop/katten/voerbak/kattendrenkplaats/637933?activeVariant=637933.0"
+  },
+  {
+    "slug": "catit-pixi-drinkfontein-wit",
+    "shop": "Zooplus",
+    "mode": "zooplus",
+    "sku": "1102144.2",
+    "gtin": "022517437155",
+    "url": "https://www.zooplus.nl/shop/katten/voerbak/kattendrenkplaats/1102144?activeVariant=1102144.2"
+  },
+  {
+    "slug": "catit-pixi-drinkfontein-wit",
+    "shop": "Pets Place",
+    "mode": "petsplace",
+    "sku": "30002508",
+    "gtin": "022517437155",
+    "url": "https://www.petsplace.nl/catit-pixi-fountain-kattendrinkbak-022517437155-pps"
+  },
+  {
+    "slug": "catit-pixi-drinkfontein-wit",
+    "shop": "Bitiba",
+    "mode": "ld",
+    "sku": "1102145.1",
+    "gtin": "022517437155",
+    "url": "https://www.bitiba.nl/shop/katten/voerbak/kattendrenkplaats/1102145?activeVariant=1102145.1"
+  },
+  {
+    "slug": "catit-pixi-drinkfontein-wit",
+    "shop": "Medpets",
+    "mode": "medpets",
+    "sku": "MP31233",
+    "gtin": "0022517437155",
+    "url": "https://www.medpets.nl/catit-pixi-drinkfontein?sku=MP31233"
+  },
+  {
+    "slug": "petsafe-drinkwell-butterfly",
+    "shop": "Zooplus",
+    "mode": "zooplus",
+    "sku": "1005750.0",
+    "gtin": "729849169296",
+    "url": "https://www.zooplus.nl/shop/katten/voerbak/kattendrenkplaats/1005750?activeVariant=1005750.0"
+  },
+  {
+    "slug": "petsafe-drinkwell-butterfly",
+    "shop": "Bitiba",
+    "mode": "ld",
+    "sku": "1005657.0",
+    "gtin": "729849169296",
+    "url": "https://www.bitiba.nl/shop/katten/voerbak/kattendrenkplaats/1005657?activeVariant=1005657.0"
+  },
+  {
+    "slug": "petsafe-drinkwell-butterfly",
+    "shop": "Pips",
+    "mode": "ld",
+    "sku": "5718-D",
+    "gtin": "729849169296",
+    "url": "https://www.pips.nl/drinkwell-butterfly-pet-fountain-automatische-drinkfontein"
+  },
+  {
+    "slug": "petsafe-drinkwell-butterfly",
+    "shop": "PetSafe Nederland",
+    "mode": "petsafe",
+    "sku": "PWW19-16929",
+    "gtin": null,
+    "url": "https://www.petsafe.com/nl/p/drinkwell-vlinder-huisdierenfontein/PWW19-16929/"
+  },
+  {
+    "slug": "petsafe-drinkwell-butterfly",
+    "shop": "Staywell",
+    "mode": "staywell",
+    "sku": "PWW19-16929",
+    "gtin": "0729849169296",
+    "url": "https://www.staywell.nl/drinkwell-butterfly-drinkfontein.html"
+  }
+]

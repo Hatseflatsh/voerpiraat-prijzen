@@ -4,11 +4,18 @@ import {resolve,dirname,join} from 'node:path';
 import {pathToFileURL,fileURLToPath} from 'node:url';
 import {setTimeout as wait} from 'node:timers/promises';
 
-const shops={'Medpets':'www.medpets.nl','Pets Place':'www.petsplace.nl','PETKIT Nederland':'petkit.co.nl','PETKIT Europe':'www.petkit-eu.com','Proshop':'www.proshop.nl','SB Supply':'www.sbsupply.nl','CATLINK EU':'catlinkeu.com','Kattenluiken.nl':'www.kattenluiken.nl'};
+const shops={
+  'Medpets':'www.medpets.nl','Pets Place':'www.petsplace.nl','PETKIT Nederland':'petkit.co.nl',
+  'PETKIT Europe':'www.petkit-eu.com','Proshop':'www.proshop.nl','SB Supply':'www.sbsupply.nl',
+  'CATLINK EU':'catlinkeu.com','Kattenluiken.nl':'www.kattenluiken.nl','Closer Pets EU':'closerpets.eu',
+  'Bitiba':'www.bitiba.nl','Zooplus':'www.zooplus.nl','Junai':'www.junai.nl','Coolshop':'www.coolshop.nl',
+  'De Boer Dier & Ruiter':'www.deboerdierenruiter.nl','Ecodiervoeding.nl':'www.ecodiervoeding.nl',
+  'Petsonline':'www.petsonline.nl','PetSafe Nederland':'www.petsafe.com','Welkoop':'www.welkoop.nl'
+};
 const identifier=v=>String(v??'');
 const numeric=v=>typeof v==='number' || typeof v==='string' && /^\d+(?:\.\d{1,2})?$/.test(v);
 const price=v=>numeric(v)&&Number.isFinite(Number(v))&&Number(v)>0 ? Math.round(Number(v)*100) : null;
-const stock=v=>({InStock:'in_stock',OutOfStock:'out_of_stock'})[String(v||'').split('/').at(-1)] || null;
+const stock=v=>({instock:'in_stock',outofstock:'out_of_stock'})[String(v||'').split('/').at(-1).toLowerCase()] || null;
 const same=(a,b)=>String(a).trim().toLowerCase().includes(String(b).trim().toLowerCase());
 const uniq=rows=>rows.length===1?rows[0]:null;
 const base=u=>u.split('?')[0];
@@ -45,12 +52,61 @@ function agreements(rows) {
   return rows[0];
 }
 
+function zooplusPrice(offer,html,pairs) {
+  const id=offer.match,url=new URL(offer.url);
+  if(!['Zooplus','Bitiba'].includes(offer.shop)||url.searchParams.get('activeVariant')!==id.sku||!id.gtin)return null;
+  const scripts=[...html.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script\s*>/gi)];
+  const layer=parsed(uniq(scripts.filter(m=>attribute(' '+m[1],'id')==='productDataLayer'))?.[2]);
+  if(layer?.currency!=='EUR'||layer.page_URL!==url.pathname||!Array.isArray(layer.variants))return null;
+  const v=uniq(layer.variants.filter(x=>x.sku===id.sku));
+  if(!v||v.sellerType!=='1P'||typeof v.out_stock!=='boolean'||v.isPersonalizedArticleBasedDiscount!==false)return null;
+  const hits=pairs.filter(([p,o])=>p.sku===id.sku&&p.gtin13===id.gtin&&p.name===id.label&&o.url===offer.url);
+  const result=agreements(hits.map(([,o])=>quote(o)));
+  return result&&price(v.variant_price)===result.value&&(result.stock==='out_of_stock')===v.out_stock?result:null;
+}
+
+function junaiPrice(offer,html) {
+  if(offer.shop!=='Junai')return null;
+  const values=new Map();
+  for(const [tag] of html.matchAll(/<meta\b[^>]+>/gi)){
+    const key=attribute(tag,'itemprop');
+    if(!key)continue;
+    const arr=values.get(key)||[];
+    arr.push(attribute(tag,'content'));
+    values.set(key,arr);
+  }
+  const get=k=>uniq(values.get(k)||[]);
+  const id=offer.match,barcode=get('gtin13');
+  if(!/^\d{11,13}$/.test(barcode||'')||barcode.padStart(12,'0')!==id.gtin||get('sku')!==id.sku||get('name')!==id.label)return null;
+  return quote({price:get('price'),priceCurrency:get('priceCurrency'),availability:get('availability')});
+}
+
+function retailPrice(offer,html,pairs) {
+  const id=offer.match;
+  const hits=pairs.filter(([p,o])=>{
+    if(p.name!==id.label)return false;
+    if(id.adapter==='manufacturer-sku'){
+      return offer.shop==='PetSafe Nederland'&&p.sku===id.sku&&p.url===o.url&&o.url+'/'===offer.url&&offer.url.endsWith('/'+id.sku+'/');
+    }
+    if(o.url!==offer.url)return false;
+    if(id.adapter==='mpn-gtin')return offer.shop==='Kattenluiken.nl'&&p.mpn===id.sku&&String(p.gtin13||'').trim()===id.gtin;
+    if(id.adapter==='retail-code')return offer.shop==='De Boer Dier & Ruiter'&&p.sku===id.sku&&p.sku===id.gtin&&p.mpn===id.mpn;
+    if(id.adapter==='welkoop')return offer.shop==='Welkoop'&&p.sku===id.sku&&p.mpn===id.sku&&/^\d{13}$/.test(id.gtin)&&
+      html.includes('"ean":'+JSON.stringify(id.gtin)+',"id":'+JSON.stringify(id.sku));
+    return false;
+  });
+  return agreements(hits.map(([,o])=>quote(o)));
+}
+
 export function matchPartOffer(offer,html,storefront=null) {
   const url=new URL(offer.url);
   if(url.protocol!=='https:'||url.hostname!==shops[offer.shop]||url.port||url.username||url.password)return null;
   const page=inspect(html),id=offer.match;
   if(!page.canonical||base(page.canonical)!==base(offer.url))return null;
   const pairs=page.records.flatMap(p=>[p.offers].flat().filter(Boolean).map(o=>[p,o]));
+  if(id.adapter==='bitiba'||id.adapter==='zooplus')return zooplusPrice(offer,html,pairs);
+  if(id.adapter==='junai')return junaiPrice(offer,html);
+  if(['mpn-gtin','retail-code','welkoop','manufacturer-sku'].includes(id.adapter))return retailPrice(offer,html,pairs);
   if(id.adapter==='single' || id.adapter==='petsplace'){
     if(!id.gtin||!id.sku)return null;
     const hits=pairs.filter(([p,o])=>{
@@ -61,7 +117,11 @@ export function matchPartOffer(offer,html,storefront=null) {
     });
     return agreements(hits.map(([,o])=>quote(o)));
   }
-  const hits=pairs.filter(([,o])=>o.url===offer.url);
+  const hits=pairs.filter(([,o])=>{
+    if(o.url===offer.url)return true;
+    return id.adapter==='shopify' && offer.shop==='Closer Pets EU' && typeof o.url==='string' && o.url.startsWith('/products/') &&
+      new URL(o.url,url.origin).href===offer.url && o.sku===id.sku;
+  });
   const result=agreements(hits.map(([,o])=>quote(o)));
   if(!result)return null;
   if(id.adapter==='medpets'){
@@ -74,7 +134,7 @@ export function matchPartOffer(offer,html,storefront=null) {
   if(id.adapter!=='shopify'||url.searchParams.get('variant')!==id.variant || !storefront ||
       storefront.handle!==url.pathname.split('/').at(-1) || !Array.isArray(storefront.variants))return null;
   const v=uniq(storefront.variants.filter(x=>String(x.id)===id.variant));
-  return v && v.title===id.label && Number.isSafeInteger(v.price) && v.price===result.value && typeof v.available==='boolean' &&
+  return v && v.title===id.label && (!id.sku||v.sku===id.sku) && Number.isSafeInteger(v.price) && v.price===result.value && typeof v.available==='boolean' &&
     v.available===(result.stock==='in_stock') && (!id.gtin||v.barcode===id.gtin) ? result:null;
 }
 
@@ -127,10 +187,13 @@ const dayInNL=new Intl.DateTimeFormat('sv-SE',{timeZone:'Europe/Amsterdam',year:
 const identity=(shop,code,pack,measure,unit)=>JSON.stringify([shop,code,pack,measure,unit]);
 
 function singleDelivery(o) {
-  if(o.min_order_eur>o.price_eur || o.shipping_unknown_at_eur===o.price_eur)return null;
+  if(o.min_order_eur>o.price_eur || o.shipping_unknown_at_eur===o.price_eur || o.shipping_unknown_amounts_eur?.includes(o.price_eur))return null;
   if(o.free_from_eur!=null && o.price_eur>=o.free_from_eur)return o.price_eur;
-  if(!Number.isFinite(o.shipping_eur) || o.shipping_floor)return null;
-  return (Math.round(100*o.price_eur)+Math.round(100*o.shipping_eur))/100;
+  if(o.shipping_floor)return null;
+  const tier=Array.isArray(o.shipping_tiers)?o.shipping_tiers.filter(t=>Number.isFinite(t.from_eur)&&t.from_eur<=o.price_eur).sort((a,b)=>b.from_eur-a.from_eur)[0]:null;
+  const shipping=tier?tier.shipping_eur:o.shipping_eur;
+  if(!Number.isFinite(shipping))return null;
+  return (Math.round(100*o.price_eur)+Math.round(100*shipping))/100;
 }
 
 // Keep all observed times, including separate checks on one day. The chart selects

@@ -13,6 +13,10 @@
       {
         "slug": "catit-pixi-smart-drinkfontein",
         "name": "Catit PIXI Smart Drinkfontein"
+      },
+      {
+        "slug": "catit-pixi-drinkfontein-wit",
+        "name": "Catit PIXI drinkfontein wit"
       }
     ],
     "sources": [
@@ -60,6 +64,46 @@
           "label": "6 stuks",
           "gtin": "022517437223",
           "sku": "30002510"
+        }
+      },
+      {
+        "shop": "Bitiba",
+        "url": "https://www.bitiba.nl/shop/katten/voerbak/kattendrenkplaats/1102145?activeVariant=1102145.0",
+        "pack": 6,
+        "measure": 6,
+        "pack_label": "6 filters",
+        "price_eur": 11.29,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T19:03:44.527053+00:00",
+        "min_order_eur": 9,
+        "shipping_eur": 4.99,
+        "free_from_eur": 29.01,
+        "shipping_tiers": [
+          {
+            "from_eur": 9,
+            "shipping_eur": 4.99
+          },
+          {
+            "from_eur": 19,
+            "shipping_eur": 2.99
+          },
+          {
+            "from_eur": 29.01,
+            "shipping_eur": 0
+          }
+        ],
+        "shipping_unknown_at_eur": 29,
+        "shipping_unknown_amounts_eur": [
+          19,
+          29
+        ],
+        "shipping_source": "https://www.bitiba.nl/info/about/shippingcosts",
+        "shipping_note": "De tabel noemt gratis boven €29. Boven 31 kg kan een extra pakkettoeslag gelden. Bij Bitiba overlappen de tabelbanden op precies €19.",
+        "match": {
+          "adapter": "bitiba",
+          "sku": "1102145.0",
+          "label": "Catit PIXI Drinkfontein, wit Vervangfilter 6 stuks - Catit PIXI Drinkfontein 2,5l, wit",
+          "gtin": "022517437223"
         }
       }
     ]
@@ -566,6 +610,944 @@
           "adapter": "medpets",
           "label": "SureFeed Voerbak half - 4x - Roze",
           "sku": "MP41845"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "catit-pixi-droogpads",
+    "name": "Catit PIXI vochtabsorberende zakjes",
+    "brand": "Catit",
+    "category": "Droogmiddel",
+    "unit": "zakje",
+    "plural": "zakjes",
+    "description": "Deze zakjes met silicagel gaan in het deksel van de PIXI Smart Feeder. De fabrikant levert drie droogzakjes per verpakking, onderdeel 43724.",
+    "note": "Catit geeft een wisseltermijn van 30 dagen. Eén set van drie zakjes dekt bij die termijn 90 dagen.",
+    "interval_days": 30,
+    "devices": [
+      {
+        "slug": "catit-pixi-smart-feeder-wit",
+        "name": "Catit PIXI Smart Feeder wit"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.catit.com/nl/producten/voederautomaten-en-kommetjes/pixi-vochtabsorberend-zakje/",
+        "label": "Catit · artikelnummer, plaatsing en gebruiksduur"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Junai",
+        "url": "https://www.junai.nl/cat-it-pixi-feeder-dry-pad-3-stuks.html",
+        "pack": 3,
+        "measure": 3,
+        "pack_label": "3 zakjes",
+        "price_eur": 2.02,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:57:56.926968+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": 6.25,
+        "free_from_eur": 75,
+        "shipping_source": "https://www.junai.nl/service/shipping-returns/",
+        "match": {
+          "adapter": "junai",
+          "sku": "33/43724",
+          "gtin": "022517437247",
+          "label": "Cat It Pixi feeder dry pad 3 stuks"
+        }
+      },
+      {
+        "shop": "Bitiba",
+        "url": "https://www.bitiba.nl/shop/katten/voerbak/voerautomaten/1102105?activeVariant=1102105.1",
+        "pack": 3,
+        "measure": 3,
+        "pack_label": "3 zakjes",
+        "price_eur": 3.19,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T19:03:44.536559+00:00",
+        "min_order_eur": 9,
+        "shipping_eur": 4.99,
+        "free_from_eur": 29.01,
+        "shipping_tiers": [
+          {
+            "from_eur": 9,
+            "shipping_eur": 4.99
+          },
+          {
+            "from_eur": 19,
+            "shipping_eur": 2.99
+          },
+          {
+            "from_eur": 29.01,
+            "shipping_eur": 0
+          }
+        ],
+        "shipping_unknown_at_eur": 29,
+        "shipping_unknown_amounts_eur": [
+          19,
+          29
+        ],
+        "shipping_source": "https://www.bitiba.nl/info/about/shippingcosts",
+        "shipping_note": "De tabel noemt gratis boven €29. Boven 31 kg kan een extra pakkettoeslag gelden. Bij Bitiba overlappen de tabelbanden op precies €19.",
+        "match": {
+          "adapter": "bitiba",
+          "sku": "1102105.1",
+          "label": "Catit PIXI Smart Voerautomaat Vocht Onttrekkende Pads 3-pack",
+          "gtin": "022517437247"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "catit-pixi-koelelementen",
+    "name": "Catit PIXI Ice Packs voor de Smart 6-meal",
+    "brand": "Catit",
+    "category": "Koelelementen",
+    "unit": "koelelement",
+    "plural": "koelelementen",
+    "description": "Onder de voerbak van de PIXI Smart 6-meal passen twee herbruikbare koelelementen. Catit levert ze samen onder artikelnummer 43755.",
+    "note": "De fabrikant noemt twaalf uur invriezen voor gebruik. Je kunt een set afwisselen met een tweede set in de vriezer.",
+    "interval_days": null,
+    "devices": [
+      {
+        "slug": "catit-pixi-smart-6-meal",
+        "name": "Catit PIXI Smart 6-meal"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.catit.com/nl/producten/voederautomaten-en-kommetjes/pixi-ice-packs/",
+        "label": "Catit · koelelementen en gebruik in de zesmaaltijdenautomaat"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Junai",
+        "url": "https://www.junai.nl/catit-pixi-6-meal-feeder-ice-packs-2st.html",
+        "pack": 2,
+        "measure": 2,
+        "pack_label": "2 koelelementen",
+        "price_eur": 10.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:57:56.926095+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": 6.25,
+        "free_from_eur": 75,
+        "shipping_source": "https://www.junai.nl/service/shipping-returns/",
+        "match": {
+          "adapter": "junai",
+          "sku": "33/43755",
+          "gtin": "022517437551",
+          "label": "Cat It Ice Packs – koelelementen voor Catit Pixi Smart 6-maaltijden Feeder – 2 stuks"
+        }
+      },
+      {
+        "shop": "Zooplus",
+        "url": "https://www.zooplus.nl/shop/katten/voerbak/voerreservoir/1411861?activeVariant=1411861.0",
+        "pack": 2,
+        "measure": 2,
+        "pack_label": "2 koelelementen",
+        "price_eur": 10.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:57:57.424306+00:00",
+        "min_order_eur": 9,
+        "shipping_eur": 4.99,
+        "free_from_eur": 29.01,
+        "shipping_tiers": [
+          {
+            "from_eur": 9,
+            "shipping_eur": 4.99
+          },
+          {
+            "from_eur": 19,
+            "shipping_eur": 2.99
+          },
+          {
+            "from_eur": 29.01,
+            "shipping_eur": 0
+          }
+        ],
+        "shipping_unknown_at_eur": 29,
+        "shipping_unknown_amounts_eur": [
+          29
+        ],
+        "shipping_source": "https://www.zooplus.nl/content/shippingcosts",
+        "shipping_note": "De tabel noemt gratis boven €29. Boven 31 kg kan een extra pakkettoeslag gelden. Bij Bitiba overlappen de tabelbanden op precies €19.",
+        "match": {
+          "adapter": "zooplus",
+          "sku": "1411861.0",
+          "label": "Catit Pixi-koelbatterijen 2 Vervangende koelbatterijen",
+          "gtin": "022517437551"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "cat-mate-c500-koelelementen",
+    "name": "Cat Mate C500 koelelementen",
+    "brand": "Cat Mate",
+    "category": "Koelelementen",
+    "unit": "koelelement",
+    "plural": "koelelementen",
+    "description": "Dit blauwe koelelement is gevormd voor de vijfmaaltijdenautomaat C500. Closer Pets noemt voor het apparaat referentie 365.",
+    "note": "De vorm sluit aan bij de C500. De C200 heeft een eigen koelelement. Voor de herbruikbare elementen is geen vaste vervangingstermijn opgegeven.",
+    "interval_days": null,
+    "devices": [
+      {
+        "slug": "cat-mate-c500-wit",
+        "name": "Cat Mate C500 wit"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://closerpets.eu/products/replacement-ice-pack-c500-pet-feeder",
+        "label": "Closer Pets · tweepak voor de vijfmaaltijdenautomaat"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Closer Pets EU",
+        "url": "https://closerpets.eu/products/replacement-ice-pack-c500-pet-feeder?variant=57865666232652",
+        "pack": 2,
+        "measure": 2,
+        "pack_label": "2 koelelementen",
+        "price_eur": 21.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:57:57.123630+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": null,
+        "free_from_eur": null,
+        "shipping_source": "https://closerpets.eu/pages/delivery-returns",
+        "shipping_note": "Levert op het Nederlandse vasteland. Tarief wordt bij het afrekenen bepaald.",
+        "match": {
+          "adapter": "shopify",
+          "sku": "958",
+          "label": "Pack of 2",
+          "gtin": "035368009587",
+          "variant": "57865666232652"
+        }
+      },
+      {
+        "shop": "Kattenluiken.nl",
+        "url": "https://www.kattenluiken.nl/cat-mate-icepack-c500.html",
+        "pack": 1,
+        "measure": 1,
+        "pack_label": "1 koelelement",
+        "price_eur": 9.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T19:06:46.556640+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": null,
+        "free_from_eur": 40,
+        "shipping_source": "https://www.kattenluiken.nl/service/verzenden/",
+        "match": {
+          "adapter": "mpn-gtin",
+          "sku": "945",
+          "label": "Closer Pet / Catmate Icepack C500",
+          "gtin": "0035368009457"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "cat-mate-c200-koelelementen",
+    "name": "Cat Mate C200 koelelementen",
+    "brand": "Cat Mate",
+    "category": "Koelelementen",
+    "unit": "koelelement",
+    "plural": "koelelementen",
+    "description": "Het platte koelelement past onder de bakken van de tweemaaltijdenautomaat C200. Closer Pets noemt ook de oudere C20 en C50.",
+    "note": "Kattenluiken verkoopt één element. De verpakking van Closer Pets bevat twee elementen, zodat er één in de vriezer kan liggen.",
+    "interval_days": null,
+    "devices": [
+      {
+        "slug": "cat-mate-c200-wit",
+        "name": "Cat Mate C200 wit"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://closerpets.eu/products/replacement-ice-pack-c20-c50-and-c200-pet-feeder",
+        "label": "Closer Pets · koelelement voor C20, C50 en C200"
+      },
+      {
+        "url": "https://www.kattenluiken.nl/cat-mate-koelelement-voor-de-voederautomaat-c20-en.html",
+        "label": "Kattenluiken.nl · enkelvoudige verpakking"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Kattenluiken.nl",
+        "url": "https://www.kattenluiken.nl/cat-mate-koelelement-voor-de-voederautomaat-c20-en.html",
+        "pack": 1,
+        "measure": 1,
+        "pack_label": "1 koelelement",
+        "price_eur": 8.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T19:00:44.194127+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": null,
+        "free_from_eur": 40,
+        "shipping_source": "https://www.kattenluiken.nl/service/verzenden/",
+        "match": {
+          "adapter": "single",
+          "sku": "035368901430",
+          "label": "Closer Pet / Catmate Koelelement voor de voederautomaat C200, C20 en C50",
+          "gtin": "0035368409004"
+        }
+      },
+      {
+        "shop": "Closer Pets EU",
+        "url": "https://closerpets.eu/products/replacement-ice-pack-c20-c50-and-c200-pet-feeder?variant=57930426614092",
+        "pack": 2,
+        "measure": 2,
+        "pack_label": "2 koelelementen",
+        "price_eur": 16.49,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T19:00:44.380128+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": null,
+        "free_from_eur": null,
+        "shipping_source": "https://closerpets.eu/pages/delivery-returns",
+        "shipping_note": "Levert op het Nederlandse vasteland. Tarief wordt bij het afrekenen bepaald.",
+        "match": {
+          "adapter": "shopify",
+          "sku": "960",
+          "label": "2 pack",
+          "gtin": "035368009600",
+          "variant": "57930426614092"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "petkit-rect-fonteinfilters",
+    "name": "PETKIT Filter Unit RECT voor EverSweet Max",
+    "brand": "PETKIT",
+    "category": "Fonteinfilters",
+    "unit": "filter",
+    "plural": "filters",
+    "description": "De rechthoekige RECT-filtercassette is bedoeld voor de EverSweet Max-serie. Beide winkelverpakkingen bevatten vijf cassettes en voeren dezelfde barcode.",
+    "note": "Medpets vermeldt twee tot vier weken als richtlijn en verwijst naar de melding in de app. De rekenhulp vergelijkt daarom het door jou gekozen aantal filters.",
+    "interval_days": null,
+    "devices": [
+      {
+        "slug": "petkit-eversweet-max-2-uvc",
+        "name": "PETKIT EverSweet Max 2 (UVC)"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://petkit.co.uk/products/petkit-filter-unit-rect",
+        "label": "PETKIT · afmetingen en compatibele Max-modellen"
+      },
+      {
+        "url": "https://www.petkit.com/products/eversweet-max-2-uvc-ultimate-bundles",
+        "label": "PETKIT · Max 2 UVC met Filter Unit RECT"
+      },
+      {
+        "url": "https://www.medpets.nl/petkit-eversweet-max-2-filters",
+        "label": "Medpets · gebruiksinterval en verpakking"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Medpets",
+        "url": "https://www.medpets.nl/petkit-eversweet-max-2-filters?sku=MP50521",
+        "pack": 5,
+        "measure": 5,
+        "pack_label": "5 filters",
+        "price_eur": 20.5,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:57:57.722235+00:00",
+        "min_order_eur": 14.95,
+        "shipping_eur": 4.95,
+        "free_from_eur": 69,
+        "shipping_source": "https://www.medpets.nl/klantenservice/verzending-bezorging?option=verzendkosten",
+        "match": {
+          "adapter": "medpets",
+          "sku": "MP50521",
+          "label": "PETKIT Eversweet Max 2 Filters - 5 stuks",
+          "gtin": "6975069302959"
+        }
+      },
+      {
+        "shop": "PETKIT Nederland",
+        "url": "https://petkit.co.nl/products/petkit-filtereenheid-drinkfontein-5-stuks-alleen-voor-eversweet-max-drinkfontein?variant=51021982368082",
+        "pack": 5,
+        "measure": 5,
+        "pack_label": "5 filters",
+        "price_eur": 25.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:57:58.982442+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": 7.95,
+        "free_from_eur": 50,
+        "shipping_source": "https://petkit.co.nl/policies/shipping-policy",
+        "match": {
+          "adapter": "shopify",
+          "sku": "6975069302959",
+          "label": "Default Title",
+          "gtin": "6975069302959",
+          "variant": "51021982368082"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "catit-pixi-smart-vervangpomp",
+    "name": "Catit PIXI Smart vervangpomp 44835",
+    "brand": "Catit",
+    "category": "Fonteinpompen",
+    "unit": "pomp",
+    "plural": "pompen",
+    "description": "De witte pomp met kabel hoort bij de PIXI Smart-drinkfontein met wifi. Het officiële onderdeelnummer is 44835.",
+    "note": "Controleer vóór bestellen of op de fontein PIXI Smart staat. De fabrikant sluit gebruik in de reguliere PIXI en de PIXI RVS expliciet uit.",
+    "interval_days": null,
+    "devices": [
+      {
+        "slug": "catit-pixi-smart-drinkfontein",
+        "name": "Catit PIXI Smart Drinkfontein"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://catit.co.uk/products/catit-pixi-smart-fountain-replacement-pump",
+        "label": "Catit · vervangpomp en aansluiting voor het Smart-model"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Coolshop",
+        "url": "https://www.coolshop.nl/product/catit-pixi-smart-fountain-replacement-pump-for-wifi-model/23SU8H/",
+        "pack": 1,
+        "measure": 1,
+        "pack_label": "1 pomp",
+        "price_eur": 14.5,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:57:58.149967+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": 4.95,
+        "free_from_eur": 21.99,
+        "shipping_source": "https://www.coolshop.nl/minisite/inline/fragt",
+        "match": {
+          "adapter": "single",
+          "sku": "23SU8H",
+          "label": "Catit - Pixi Smart Fountain Replacement Pump for wifi model",
+          "gtin": "022517448359"
+        }
+      },
+      {
+        "shop": "De Boer Dier & Ruiter",
+        "url": "https://www.deboerdierenruiter.nl/kat/drink-voerbak-en-drinkfontein/catit-pixi-vervangwaterpomp-smart-wit",
+        "pack": 1,
+        "measure": 1,
+        "pack_label": "1 pomp",
+        "price_eur": 19.95,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:58:41.459114+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": 5.95,
+        "free_from_eur": 60,
+        "shipping_source": "https://www.deboerdierenruiter.nl/klantenservice/algemene-informatie",
+        "match": {
+          "adapter": "retail-code",
+          "sku": "0022517448359",
+          "label": "Catit PIXI Vervangwaterpomp Smart Wit",
+          "mpn": "290527",
+          "gtin": "0022517448359"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "catit-flower-triple-action-filters",
+    "name": "Catit Flower Fountain Triple Action-filters",
+    "brand": "Catit",
+    "category": "Fonteinfilters",
+    "unit": "filter",
+    "plural": "filters",
+    "description": "De ronde filter past op de 3-liter Flower Fountain. Gaas, actieve kool en ionenwisselaar hebben elk een eigen functie in de cassette.",
+    "note": "Catit noemt een wissel na 30 dagen of eerder bij zichtbare verzadiging. De gecontroleerde aanbiedingen bevatten elk twee filters.",
+    "interval_days": 30,
+    "devices": [
+      {
+        "slug": "catit-flower-fountain-3l",
+        "name": "Catit Flower Fountain 3 liter"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.catit.com/nl/producten/drinkfonteinen/triple-action-fonteinfilter/",
+        "label": "Catit · maten, constructie, compatibiliteit en wisseltermijn"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Medpets",
+        "url": "https://www.medpets.nl/catit-flower-fountain-triple-action-filters?sku=MP43008",
+        "pack": 2,
+        "measure": 2,
+        "pack_label": "2 filters",
+        "price_eur": 10.05,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:57:58.730171+00:00",
+        "min_order_eur": 14.95,
+        "shipping_eur": 4.95,
+        "free_from_eur": 69,
+        "shipping_source": "https://www.medpets.nl/klantenservice/verzending-bezorging?option=verzendkosten",
+        "match": {
+          "adapter": "medpets",
+          "sku": "MP43008",
+          "label": "Catit Flower Fountain Triple Action Filters - 2 stuks",
+          "gtin": "0022517437384"
+        }
+      },
+      {
+        "shop": "Pets Place",
+        "url": "https://www.petsplace.nl/catit-drinkfontein-bloem-senses-filter-triple-action-kattendrinkbak-022517437384-pps",
+        "pack": 2,
+        "measure": 2,
+        "pack_label": "2 filters",
+        "price_eur": 10.79,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T19:00:24.213452+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": 4.99,
+        "free_from_eur": 39,
+        "shipping_source": "https://www.petsplace.nl/bezorgen",
+        "match": {
+          "adapter": "single",
+          "sku": "30032655",
+          "label": "Catit Drinkfontein Bloem Senses Filter Triple Action - Kattenbakaccessoires - 2 stuks 14x1,5 cm",
+          "gtin": "022517437384"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "cat-mate-339-filterpatronen",
+    "name": "Cat Mate filterpatronen 339 en 389",
+    "brand": "Cat Mate",
+    "category": "Fonteinfilters",
+    "unit": "filter",
+    "plural": "filters",
+    "description": "Deze blauwe tweestaps filterpatronen passen in het drinkfonteinmodel 335. Artikel 339 bevat twee patronen. Artikel 389 bevat er zes.",
+    "note": "Closer Pets adviseert een wissel per maand. Voor de berekening hanteren we 30 dagen per maand. De verschillende dozen hebben ieder een eigen barcode.",
+    "interval_days": 30,
+    "devices": [
+      {
+        "slug": "cat-mate-drinkfontein-2l-wit",
+        "name": "Cat Mate drinkfontein 2 liter wit"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://closerpets.eu/products/replacement-filter-cartridges-pet-fountain-2-pack",
+        "label": "Closer Pets · 339 tweepak en model 335"
+      },
+      {
+        "url": "https://closerpets.eu/products/replacement-filter-cartridges-pet-fountain-6-pack",
+        "label": "Closer Pets · 389 zespak en model 335"
+      },
+      {
+        "url": "https://closerpets.eu/pages/faq-cat-mate-pet-fountain-2-litre-335",
+        "label": "Closer Pets · maandelijkse wissel volgens de handleiding voor model 335"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Kattenluiken.nl",
+        "url": "https://www.kattenluiken.nl/cat-mate-cat-mate-filter-voor-drinkfontein-335-wit.html",
+        "pack": 2,
+        "measure": 2,
+        "pack_label": "2 filters",
+        "price_eur": 10.95,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:57:58.675250+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": null,
+        "free_from_eur": 40,
+        "shipping_source": "https://www.kattenluiken.nl/service/verzenden/",
+        "match": {
+          "adapter": "mpn-gtin",
+          "sku": "51123001",
+          "label": "Closer Pet / Catmate Filters voor drinkfontein 335",
+          "gtin": "035368003394"
+        }
+      },
+      {
+        "shop": "Welkoop",
+        "url": "https://www.welkoop.nl/catmate-drinkfontein-vervangingsfilter-_1194881",
+        "pack": 2,
+        "measure": 2,
+        "pack_label": "2 filters",
+        "price_eur": 10.5,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T19:00:17.667365+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": 4.95,
+        "free_from_eur": 50,
+        "shipping_source": "https://www.welkoop.nl/klantenservice/bezorgen",
+        "match": {
+          "adapter": "welkoop",
+          "sku": "1194881",
+          "label": "Catmate Drinkfontein - vervangingsfilter - 15x11.5x1.5 cm",
+          "gtin": "0035368003394"
+        }
+      },
+      {
+        "shop": "Closer Pets EU",
+        "url": "https://closerpets.eu/products/replacement-filter-cartridges-pet-fountain-2-pack?variant=41233543168192",
+        "pack": 2,
+        "measure": 2,
+        "pack_label": "2 filters",
+        "price_eur": 5.0,
+        "stock": "out_of_stock",
+        "checked_at": "2026-11-26T19:00:44.228122+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": null,
+        "free_from_eur": null,
+        "shipping_source": "https://closerpets.eu/pages/delivery-returns",
+        "shipping_note": "Levert op het Nederlandse vasteland. Tarief wordt bij het afrekenen bepaald.",
+        "match": {
+          "adapter": "shopify",
+          "sku": "339",
+          "label": "Default Title",
+          "gtin": "035368003394",
+          "variant": "41233543168192"
+        }
+      },
+      {
+        "shop": "Closer Pets EU",
+        "url": "https://closerpets.eu/products/replacement-filter-cartridges-pet-fountain-6-pack?variant=40210598232256",
+        "pack": 6,
+        "measure": 6,
+        "pack_label": "6 filters",
+        "price_eur": 17.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T19:03:44.517641+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": null,
+        "free_from_eur": null,
+        "shipping_source": "https://closerpets.eu/pages/delivery-returns",
+        "shipping_note": "Levert op het Nederlandse vasteland. Tarief wordt bij het afrekenen bepaald.",
+        "match": {
+          "adapter": "shopify",
+          "sku": "389",
+          "label": "Default Title",
+          "gtin": "035368003899",
+          "variant": "40210598232256"
+        }
+      },
+      {
+        "shop": "Bitiba",
+        "url": "https://www.bitiba.nl/shop/katten/voerbak/kattendrenkplaats/399059?activeVariant=399059.3",
+        "pack": 6,
+        "measure": 6,
+        "pack_label": "6 filters",
+        "price_eur": 15.69,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T19:03:45.036839+00:00",
+        "min_order_eur": 9,
+        "shipping_eur": 4.99,
+        "free_from_eur": 29.01,
+        "shipping_tiers": [
+          {
+            "from_eur": 9,
+            "shipping_eur": 4.99
+          },
+          {
+            "from_eur": 19,
+            "shipping_eur": 2.99
+          },
+          {
+            "from_eur": 29.01,
+            "shipping_eur": 0
+          }
+        ],
+        "shipping_unknown_at_eur": 29,
+        "shipping_unknown_amounts_eur": [
+          19,
+          29
+        ],
+        "shipping_source": "https://www.bitiba.nl/info/about/shippingcosts",
+        "shipping_note": "De tabel noemt gratis boven €29. Boven 31 kg kan een extra pakkettoeslag gelden. Bij Bitiba overlappen de tabelbanden op precies €19.",
+        "match": {
+          "adapter": "bitiba",
+          "sku": "399059.3",
+          "label": "Cat Mate Drinkfontein - 2 liter Vervangfilter 6 stuks",
+          "gtin": "035368003899"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "trixie-vital-flow-vervangfilters",
+    "name": "TRIXIE Vital Flow vervangfilters 24467",
+    "brand": "TRIXIE",
+    "category": "Fonteinfilters",
+    "unit": "filter",
+    "plural": "filters",
+    "description": "Het zwarte schuimfilter met centrale opening vangt grover vuil voor de pomp op. TRIXIE noemt 24467 als reserveonderdeel voor zowel drinkfontein 24466 als 24468.",
+    "note": "De winkels verkopen zes filters per verpakking. Voor dit onderdeel is geen vaste fabrikantswisseltermijn in de gekoppelde productspecificatie gevonden.",
+    "interval_days": null,
+    "devices": [
+      {
+        "slug": "trixie-vital-flow-15l",
+        "name": "TRIXIE Vital Flow 1,5 liter"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.trixie.de/nl/kat/bakken-en-drinkbakken/drinkfonteinen/drinkfontein-vital-flow-1001435857-1001441118",
+        "label": "TRIXIE · reservefilter 24467 voor de Vital Flow"
+      },
+      {
+        "url": "https://www.ecodiervoeding.nl/filterset-voor-vital-flow-drinkfontein-6-stuks.html",
+        "label": "Ecodiervoeding · inhoud verpakking en foto"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Ecodiervoeding.nl",
+        "url": "https://www.ecodiervoeding.nl/filterset-voor-vital-flow-drinkfontein-6-stuks.html",
+        "pack": 6,
+        "measure": 6,
+        "pack_label": "6 filters",
+        "price_eur": 4.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:57:58.913847+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": 6.95,
+        "free_from_eur": 75,
+        "shipping_source": "https://www.ecodiervoeding.nl/service/shipping-returns/",
+        "match": {
+          "adapter": "single",
+          "sku": "24467",
+          "label": "Trixie Filterset voor Vital Flow drinkfontein - 6  stuks",
+          "gtin": "4053032005594"
+        }
+      },
+      {
+        "shop": "Bitiba",
+        "url": "https://www.bitiba.nl/shop/katten/voerbak/kattendrenkplaats/637933?activeVariant=637933.2",
+        "pack": 6,
+        "measure": 6,
+        "pack_label": "6 filters",
+        "price_eur": 3.75,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T19:03:44.536077+00:00",
+        "min_order_eur": 9,
+        "shipping_eur": 4.99,
+        "free_from_eur": 29.01,
+        "shipping_tiers": [
+          {
+            "from_eur": 9,
+            "shipping_eur": 4.99
+          },
+          {
+            "from_eur": 19,
+            "shipping_eur": 2.99
+          },
+          {
+            "from_eur": 29.01,
+            "shipping_eur": 0
+          }
+        ],
+        "shipping_unknown_at_eur": 29,
+        "shipping_unknown_amounts_eur": [
+          19,
+          29
+        ],
+        "shipping_source": "https://www.bitiba.nl/info/about/shippingcosts",
+        "shipping_note": "De tabel noemt gratis boven €29. Boven 31 kg kan een extra pakkettoeslag gelden. Bij Bitiba overlappen de tabelbanden op precies €19.",
+        "match": {
+          "adapter": "bitiba",
+          "sku": "637933.2",
+          "label": "Trixie Keramiek Drinkfontein Vital Flow Vervangfilter (6 stuks)",
+          "gtin": "4053032005594"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "petsafe-drinkwell-360-koolstoffilters",
+    "name": "PetSafe Drinkwell 360 cilindrische koolstoffilters",
+    "brand": "PetSafe",
+    "category": "Fonteinfilters",
+    "unit": "filter",
+    "plural": "filters",
+    "description": "De witte cilinder met treklip schuift in de filterhouder van de Drinkwell 360. De verpakking PAC19-14356 bevat drie koolstoffilters.",
+    "note": "PetSafe noemt twee weken in de beschrijving en twee tot vier weken bij de kenmerken. De RVS-fontein heeft daarnaast een afzonderlijk schuimvoorfilter.",
+    "interval_days": null,
+    "devices": [
+      {
+        "slug": "petsafe-drinkwell-360-rvs-38l",
+        "name": "PetSafe Drinkwell 360 RVS 3,8 liter"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.petsafe.com/nl/p/vervangende-koolstoffilters/PAC19-14356/",
+        "label": "PetSafe · inhoud en gebruik bij Drinkwell 360"
+      },
+      {
+        "url": "https://www.ecodiervoeding.nl/drinkwell-360-drinkfontein-navulling-koolstoffilte.html",
+        "label": "Ecodiervoeding · RVS-model D360SS-EU-45 en artikelnummer"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Ecodiervoeding.nl",
+        "url": "https://www.ecodiervoeding.nl/drinkwell-360-drinkfontein-navulling-koolstoffilte.html",
+        "pack": 3,
+        "measure": 3,
+        "pack_label": "3 filters",
+        "price_eur": 12.95,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:57:58.970648+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": 6.95,
+        "free_from_eur": 75,
+        "shipping_source": "https://www.ecodiervoeding.nl/service/shipping-returns/",
+        "match": {
+          "adapter": "single",
+          "sku": "PAC19-14356",
+          "label": "PetSafe® Drinkwell 360 drinkfontein navulling koolstoffilters (3 stuks)",
+          "gtin": "729849143562"
+        }
+      },
+      {
+        "shop": "PetSafe Nederland",
+        "url": "https://www.petsafe.com/nl/p/vervangende-koolstoffilters/PAC19-14356/",
+        "pack": 3,
+        "measure": 3,
+        "pack_label": "3 filters",
+        "price_eur": 13.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:58:41.348095+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": 7.99,
+        "free_from_eur": 90.01,
+        "shipping_source": "https://www.petsafe.com/nl/support/policies-and-terms/shipping-policy/",
+        "shipping_unknown_at_eur": 90,
+        "match": {
+          "adapter": "manufacturer-sku",
+          "sku": "PAC19-14356",
+          "label": "Drinkwell® 360 Pet Fountain Replacement Charcoal Filters (3-Pack)"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "petsafe-drinkwell-premium-koolstoffilters",
+    "name": "PetSafe Drinkwell Premium koolstoffilters voor Platinum",
+    "brand": "PetSafe",
+    "category": "Fonteinfilters",
+    "unit": "filter",
+    "plural": "filters",
+    "description": "Deze platte koolstoffilters hebben afzonderlijke koolstofvakken. PetSafe noemt de Premium-vervangfilters expliciet bij het onderhoud van de Platinum.",
+    "note": "Het gecontroleerde RF6C-INTL-19 winkelpak bevat drie filters. PetSafe geeft voor de Platinum een vervanging om de twee tot vier weken op.",
+    "interval_days": null,
+    "devices": [
+      {
+        "slug": "petsafe-drinkwell-platinum",
+        "name": "PetSafe Drinkwell Platinum"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://support.petsafe.net/articles/how-to-replace-the-filter-in-my-petsafe-drinkwell-platinum-fountain/",
+        "label": "PetSafe support · Premium-filter voor Platinum en vervangingsinterval"
+      },
+      {
+        "url": "https://www.petsafe.com/nl/p/vervangende-filterpatronen/RF6C-INTL-19/",
+        "label": "PetSafe · modelnummer RF6C-INTL-19"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Ecodiervoeding.nl",
+        "url": "https://www.ecodiervoeding.nl/drinkwell-navulling-koolstoffilters-3-stuks.html",
+        "pack": 3,
+        "measure": 3,
+        "pack_label": "3 filters",
+        "price_eur": 9.95,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:58:41.167000+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": 6.95,
+        "free_from_eur": 75,
+        "shipping_source": "https://www.ecodiervoeding.nl/service/shipping-returns/",
+        "match": {
+          "adapter": "single",
+          "sku": "RF6C-INTL-19",
+          "label": "PetSafe® Drinkwell navulling koolstoffilters (3 stuks)",
+          "gtin": "679562707100"
+        }
+      },
+      {
+        "shop": "Petsonline",
+        "url": "https://www.petsonline.nl/nl/petsafe-koolstoffilters-voor-drinkwell-drinkfontei.html",
+        "pack": 3,
+        "measure": 3,
+        "pack_label": "3 filters",
+        "price_eur": 13.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:58:41.149984+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": 5.95,
+        "free_from_eur": 59.01,
+        "shipping_source": "https://www.petsonline.nl/nl/service/shipping-returns/",
+        "shipping_note": "Standaard DPD-pakket aan huis. Een brievenbuszending kan goedkoper zijn als de winkel de verpakking daarvoor accepteert.",
+        "shipping_unknown_at_eur": 59,
+        "match": {
+          "adapter": "single",
+          "sku": "RF6C-INTL-19",
+          "label": "Petsafe Koolstoffilters voor Drinkwell Drinkfontein",
+          "gtin": "0679562707100"
+        }
+      },
+      {
+        "shop": "Bitiba",
+        "url": "https://www.bitiba.nl/shop/katten/voerbak/kattendrenkplaats/461927?activeVariant=461927.7",
+        "pack": 3,
+        "measure": 3,
+        "pack_label": "3 filters",
+        "price_eur": 6.45,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T19:03:44.538878+00:00",
+        "min_order_eur": 9,
+        "shipping_eur": 4.99,
+        "free_from_eur": 29.01,
+        "shipping_tiers": [
+          {
+            "from_eur": 9,
+            "shipping_eur": 4.99
+          },
+          {
+            "from_eur": 19,
+            "shipping_eur": 2.99
+          },
+          {
+            "from_eur": 29.01,
+            "shipping_eur": 0
+          }
+        ],
+        "shipping_unknown_at_eur": 29,
+        "shipping_unknown_amounts_eur": [
+          19,
+          29
+        ],
+        "shipping_source": "https://www.bitiba.nl/info/about/shippingcosts",
+        "shipping_note": "De tabel noemt gratis boven €29. Boven 31 kg kan een extra pakkettoeslag gelden. Bij Bitiba overlappen de tabelbanden op precies €19.",
+        "match": {
+          "adapter": "bitiba",
+          "sku": "461927.7",
+          "label": "PetSafe® Drinkwell® Platinum Drinkfontein Vervangfilter (3 stuks)",
+          "gtin": "679562707100"
         }
       }
     ]

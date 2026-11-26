@@ -44,7 +44,7 @@ const policies = {
 
 // Each selected hardware variant publishes its own NL shippingRate in OfferShippingDetails.
 // This evidence applies to one advertised offer, never to an unknown-weight multi-item order.
-const quotedZooVariants = new Set(['1388962.0', '601499.2', '2071539.1', '2460021.1', '479582.0', '781982.0', '2135043.0']);
+const quotedZooVariants = new Set(['1388962.0', '601499.2', '2071539.1', '2460021.1', '479582.0', '781982.0', '2135043.0', '1102103.0', '633845.0', '633918.2', '626578.0', '145974.6']);
 
 export function applyPublishedDelivery(catalog) {
   let changed = 0;

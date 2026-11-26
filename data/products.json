@@ -25317,6 +25317,34 @@
           ],
           "shipping_weight_limit_kg": 31,
           "shipping_overweight_eur": null
+        },
+        {
+          "shop": "Zoolini",
+          "url": "https://www.zoolini.nl/catit/pixi-smart-6-meal-voerautomaat",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 108.32,
+          "shipping_eur": 0,
+          "free_from_eur": 64.9,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:20.170Z",
+          "shop_sku": "Xol-CAI-43754",
+          "shipping_source": "https://www.zoolini.nl/info/verzending-levering",
+          "gtin": "0022517437544"
+        },
+        {
+          "shop": "Bitiba",
+          "url": "https://www.bitiba.nl/shop/katten/voerbak/voerautomaten/1388964?activeVariant=1388964.0",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 100,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:03:38.516Z",
+          "shop_sku": "1388964.0",
+          "shipping_source": "https://www.bitiba.nl/info/about/shippingcosts",
+          "gtin": "022517437544"
         }
       ]
     },
@@ -25419,6 +25447,34 @@
               "shipping_eur": 0
             }
           ]
+        },
+        {
+          "shop": "Closer Pets EU",
+          "url": "https://closerpets.eu/products/five-meal-automatic-pet-feeder-with-digital-timer-c500-1?variant=42104669536448",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 43.99,
+          "shipping_eur": null,
+          "free_from_eur": null,
+          "stock": "out_of_stock",
+          "checked_at": "2026-11-26T18:57:58.749Z",
+          "shop_sku": "365",
+          "shipping_source": "https://closerpets.eu/pages/delivery-returns",
+          "gtin": "035368003653"
+        },
+        {
+          "shop": "Bitiba",
+          "url": "https://www.bitiba.nl/shop/katten/voerbak/voerautomaten/690480?activeVariant=690480.2",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 43.99,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:03:38.908Z",
+          "shop_sku": "690480.2",
+          "shipping_source": "https://www.bitiba.nl/info/about/shippingcosts",
+          "gtin": "035368003653"
         }
       ]
     },
@@ -25471,6 +25527,1760 @@
       "cost_basis": "Aanschaf inclusief tien jaar mobiel dataverkeer bij de fabrikant. Optionele halsband en stroom voor het opladen vallen buiten het totaal.",
       "segment": "tech",
       "revised": "2026-11-26"
+    },
+    {
+      "slug": "catit-pixi-smart-feeder-wit",
+      "brand": "Catit",
+      "model": "PIXI Smart Feeder wit",
+      "category": "voerautomaat",
+      "max_weight_kg": null,
+      "min_weight_kg": null,
+      "large_cat": null,
+      "design": "brokkenreservoir",
+      "sensors": [
+        "detectie van een leeg reservoir en een geblokkeerde uitloop"
+      ],
+      "noise_db": null,
+      "app_required": true,
+      "wifi_required": true,
+      "consumables": [
+        "droogmiddelzakje",
+        "optioneel vier C/LR14-batterijen"
+      ],
+      "annual_consumables_eur": null,
+      "subscription_monthly_eur": 0,
+      "note": "De PIXI Smart Feeder heeft één afsluitbaar reservoir van 2,9 liter. Via de gratis PIXI-app plan je tot twaalf maaltijden per dag. De fabrikant noemt droogvoer met een brokdiameter tot 9 mm. De uitloop geeft de brokken af in een open roestvrijstalen kom.",
+      "cost_basis": "Netvoeding via USB-adapter. Vier optionele C/LR14-batterijen leveren noodstroom. Een Nederlandse jaarprijs voor het droogmiddel en de batterijen is niet vastgesteld.",
+      "mpn": "43752",
+      "ean": "022517437520",
+      "segment": "tech",
+      "revised": "2026-11-26",
+      "sources": [
+        {
+          "label": "Catit Nederland · uitvoering 43752, reservoir, planning en noodstroom",
+          "url": "https://www.catit.com/nl/producten/catit-pixi-smart-feeder/"
+        }
+      ],
+      "offers": [
+        {
+          "shop": "Pets Place",
+          "url": "https://www.petsplace.nl/catit-pixi-smart-feeder-kattenvoerbak-022517437520-pps",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 109,
+          "shipping_eur": 0,
+          "free_from_eur": 39,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:18.457Z",
+          "shop_sku": "30002428",
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "gtin": "022517437520",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
+        },
+        {
+          "shop": "Medpets",
+          "url": "https://www.medpets.nl/catit-pixi-smart-feeder?sku=MP32114",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 126.85,
+          "shipping_eur": 0,
+          "free_from_eur": 69,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:57:09.095Z",
+          "shop_sku": "MP32114",
+          "shipping_source": "https://www.medpets.nl/klantenservice/verzending-bezorging?option=verzendkosten",
+          "gtin": "0022517437520",
+          "min_order_eur": 14.95,
+          "shipping_tiers": [
+            {
+              "from_eur": 14.95,
+              "shipping_eur": 4.95
+            },
+            {
+              "from_eur": 69,
+              "shipping_eur": 0
+            }
+          ]
+        },
+        {
+          "shop": "Zooplus",
+          "url": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/andere/1102103?activeVariant=1102103.0",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 126.99,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:57:09.083Z",
+          "shop_sku": "1102103.0",
+          "shipping_source": "https://www.zooplus.nl/info/about/shippingcosts",
+          "gtin": "022517437520",
+          "shipping_single_quote_eur": 0,
+          "shipping_quote_source": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/andere/1102103?activeVariant=1102103.0",
+          "min_order_eur": 9,
+          "shipping_tiers": [
+            {
+              "from_eur": 9,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 19,
+              "shipping_eur": 2.99
+            },
+            {
+              "from_eur": 29.01,
+              "shipping_eur": 0
+            }
+          ],
+          "shipping_weight_limit_kg": 31,
+          "shipping_overweight_eur": null
+        },
+        {
+          "shop": "Krabpaal.nl",
+          "url": "https://krabpaal.nl/products/catit-pixi-smart-feeder",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 134.95,
+          "shipping_eur": 0,
+          "free_from_eur": 50,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:59:26.552Z",
+          "shop_sku": "L-33/43752",
+          "shipping_source": "https://krabpaal.nl/pages/verzendkosten"
+        },
+        {
+          "shop": "Bitiba",
+          "url": "https://www.bitiba.nl/shop/katten/voerbak/voerautomaten/1102105?activeVariant=1102105.0",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 122.99,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:03:38.543Z",
+          "shop_sku": "1102105.0",
+          "shipping_source": "https://www.bitiba.nl/info/about/shippingcosts",
+          "gtin": "022517437520"
+        }
+      ]
+    },
+    {
+      "slug": "cat-mate-c200-wit",
+      "brand": "Cat Mate",
+      "model": "C200 wit",
+      "category": "voerautomaat",
+      "max_weight_kg": null,
+      "min_weight_kg": null,
+      "large_cat": null,
+      "design": "twee-klapdeksels",
+      "sensors": [],
+      "noise_db": null,
+      "app_required": false,
+      "wifi_required": false,
+      "consumables": [
+        "één AA-batterij"
+      ],
+      "annual_consumables_eur": null,
+      "subscription_monthly_eur": 0,
+      "note": "Je vult twee aparte vakken met natvoer of droogvoer. Met de twee draaiknoppen stel je voor elk deksel een eigen wachttijd in tot 48 uur. Met de meegeleverde koppelclip kunnen beide deksels tegelijk openen. Onder de bakken past het meegeleverde herbruikbare koelelement.",
+      "cost_basis": "De analoge timers werken op één AA-batterij. Het koelelement vries je thuis in. Er is geen abonnement nodig. Het jaarbedrag voor batterij en invriezen hangt af van het gebruik.",
+      "mpn": "401",
+      "ean": "035368004018",
+      "segment": "tech",
+      "revised": "2026-11-26",
+      "sources": [
+        {
+          "label": "Closer Pets · Cat Mate C200, witte variant 401",
+          "url": "https://closerpets.eu/products/cat-mate-two-meal-automatic-pet-feeder-c200?variant=58454252749132"
+        },
+        {
+          "label": "Closer Pets · gebruik en afzonderlijke timers",
+          "url": "https://closerpets.co.uk/products/two-meal-automatic-pet-feeder-c200-petmate"
+        },
+        {
+          "label": "Closer Pets EU · variantgewicht van de witte uitvoering",
+          "url": "https://closerpets.eu/products/cat-mate-two-meal-automatic-pet-feeder-c200.json"
+        }
+      ],
+      "offers": [
+        {
+          "shop": "Zooplus",
+          "url": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/pet_mate/1212139?activeVariant=1212139.3",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 27.19,
+          "shipping_eur": 2.99,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:59:25.807Z",
+          "shop_sku": "1212139.3",
+          "shipping_source": "https://www.zooplus.nl/info/about/shippingcosts",
+          "gtin": "035368004018",
+          "shipping_weight_kg": 0.75,
+          "shipping_weight_source": "https://closerpets.eu/products/cat-mate-two-meal-automatic-pet-feeder-c200.json",
+          "min_order_eur": 9,
+          "shipping_tiers": [
+            {
+              "from_eur": 9,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 19,
+              "shipping_eur": 2.99
+            },
+            {
+              "from_eur": 29.01,
+              "shipping_eur": 0
+            }
+          ],
+          "shipping_weight_limit_kg": 31,
+          "shipping_overweight_eur": null
+        },
+        {
+          "shop": "Closer Pets EU",
+          "url": "https://closerpets.eu/products/cat-mate-two-meal-automatic-pet-feeder-c200?variant=58454252749132",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 33.99,
+          "shipping_eur": null,
+          "free_from_eur": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:57:58.368Z",
+          "shop_sku": "401",
+          "shipping_source": "https://closerpets.eu/pages/delivery-returns",
+          "gtin": "035368004018"
+        },
+        {
+          "shop": "bol (Closer Pets)",
+          "url": "https://www.bol.com/nl/nl/p/cat-mate-c200-automatische-voerbak-voerbak-voerautomaat-voerbak-kat-voerbak-hond-voerbak-met-timer-voerautomaat-kat-voerautomaat-hond-wit/9300000007889102/",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 33.99,
+          "shipping_eur": 0,
+          "free_from_eur": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:57:09.919Z",
+          "shop_sku": "9300000007889102",
+          "shipping_source": "https://www.bol.com/nl/nl/p/cat-mate-c200-automatische-voerbak-voerbak-voerautomaat-voerbak-kat-voerbak-hond-voerbak-met-timer-voerautomaat-kat-voerautomaat-hond-wit/9300000007889102/",
+          "gtin": "0035368004018"
+        },
+        {
+          "shop": "Bitiba",
+          "url": "https://www.bitiba.nl/shop/katten/voerbak/voerautomaten/1212226?activeVariant=1212226.3",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 32.49,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:03:38.533Z",
+          "shop_sku": "1212226.3",
+          "shipping_source": "https://www.bitiba.nl/info/about/shippingcosts",
+          "gtin": "035368004018",
+          "shipping_weight_kg": 0.75,
+          "shipping_weight_source": "https://closerpets.eu/products/cat-mate-two-meal-automatic-pet-feeder-c200.json"
+        }
+      ]
+    },
+    {
+      "slug": "cat-mate-c3000-wit",
+      "brand": "Cat Mate",
+      "model": "C3000 wit",
+      "category": "voerautomaat",
+      "max_weight_kg": null,
+      "min_weight_kg": null,
+      "large_cat": null,
+      "design": "brokkenreservoir",
+      "sensors": [],
+      "noise_db": null,
+      "app_required": false,
+      "wifi_required": false,
+      "consumables": [
+        "vier C-batterijen"
+      ],
+      "annual_consumables_eur": null,
+      "subscription_monthly_eur": 0,
+      "note": "Het reservoir bevat maximaal 3 kg droogvoer. Met de digitale timer stel je tot drie afzonderlijke maaltijden per dag in. De doseerschroef geeft afgewogen porties brokken af in de open kom. Voor het programmeren gebruik je de knoppen op het apparaat.",
+      "cost_basis": "Het apparaat draait op vier C-batterijen en heeft geen betaald abonnement. De leverancier geeft gebruiksduur als richtwaarde. Jaarlijkse batterijkosten zijn niet geprijsd.",
+      "mpn": "347",
+      "ean": "035368003479",
+      "segment": "tech",
+      "revised": "2026-11-26",
+      "sources": [
+        {
+          "label": "Closer Pets · model 347, capaciteit, timer en doseerschroef",
+          "url": "https://closerpets.co.uk/products/multi-meal-automatic-dry-food-pet-feeder-c3000"
+        },
+        {
+          "label": "Closer Pets EU · C3000 basisuitvoering",
+          "url": "https://closerpets.eu/products/multi-meal-automatic-dry-food-pet-feeder-with-digital-timer-c3000?variant=41233511874752"
+        },
+        {
+          "label": "Closer Pets EU · variantgewicht van de witte uitvoering",
+          "url": "https://closerpets.eu/products/multi-meal-automatic-dry-food-pet-feeder-with-digital-timer-c3000.json"
+        }
+      ],
+      "offers": [
+        {
+          "shop": "Zooplus",
+          "url": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/pet_mate/633845?activeVariant=633845.0",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 47.39,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:18.792Z",
+          "shop_sku": "633845.0",
+          "shipping_source": "https://www.zooplus.nl/info/about/shippingcosts",
+          "gtin": "035368003479",
+          "shipping_single_quote_eur": 0,
+          "shipping_quote_source": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/pet_mate/633845?activeVariant=633845.0",
+          "shipping_weight_kg": 1.6,
+          "shipping_weight_source": "https://closerpets.eu/products/multi-meal-automatic-dry-food-pet-feeder-with-digital-timer-c3000.json",
+          "min_order_eur": 9,
+          "shipping_tiers": [
+            {
+              "from_eur": 9,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 19,
+              "shipping_eur": 2.99
+            },
+            {
+              "from_eur": 29.01,
+              "shipping_eur": 0
+            }
+          ],
+          "shipping_weight_limit_kg": 31,
+          "shipping_overweight_eur": null
+        },
+        {
+          "shop": "Closer Pets EU",
+          "url": "https://closerpets.eu/products/multi-meal-automatic-dry-food-pet-feeder-with-digital-timer-c3000?variant=41233511874752",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 43.19,
+          "shipping_eur": null,
+          "free_from_eur": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:57:58.408Z",
+          "shop_sku": "347",
+          "shipping_source": "https://closerpets.eu/pages/delivery-returns",
+          "gtin": "035368003479"
+        },
+        {
+          "shop": "Dierencompleet",
+          "url": "https://dierencompleet.nl/product/closer-pets-catmate-automatische-voerautomaat/",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 49.99,
+          "shipping_eur": 6.95,
+          "free_from_eur": 59,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:59:26.395Z",
+          "shop_sku": "80853",
+          "shipping_source": "https://dierencompleet.nl/bestellen-en-verzending/",
+          "gtin": "0035368003479"
+        },
+        {
+          "shop": "Bitiba",
+          "url": "https://www.bitiba.nl/shop/katten/voerbak/voerautomaten/637093?activeVariant=637093.0",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 75.49,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:03:39.032Z",
+          "shop_sku": "637093.0",
+          "shipping_source": "https://www.bitiba.nl/info/about/shippingcosts",
+          "gtin": "035368003479",
+          "shipping_weight_kg": 1.6,
+          "shipping_weight_source": "https://closerpets.eu/products/multi-meal-automatic-dry-food-pet-feeder-with-digital-timer-c3000.json"
+        }
+      ]
+    },
+    {
+      "slug": "trixie-tx8-smart-2-0",
+      "brand": "TRIXIE",
+      "model": "TX8 Smart 2.0 wit/grijs",
+      "category": "voerautomaat",
+      "max_weight_kg": null,
+      "min_weight_kg": null,
+      "large_cat": null,
+      "design": "brokkenreservoir",
+      "sensors": [
+        "groothoekcamera met infraroodnachtzicht en bewegingsdetectie"
+      ],
+      "noise_db": null,
+      "app_required": true,
+      "wifi_required": true,
+      "consumables": [
+        "droogmiddelzakje",
+        "optionele batterijen voor noodstroom"
+      ],
+      "annual_consumables_eur": null,
+      "subscription_monthly_eur": null,
+      "note": "De TX8 Smart 2.0 is de wifi-uitvoering met groothoekcamera. In de app stel je maximaal vier maaltijden per dag in. Het reservoir van 4,5 liter is geschikt voor droge brokken van 5 tot 15 mm. Via de camera kun je zien wie komt eten. Alle dieren hebben toegang tot dezelfde kom.",
+      "cost_basis": "De gewone voeding gaat via de adapter. Voor noodstroom kunnen batterijen worden geplaatst. Voor een jaarbedrag ontbreken prijzen en een vervangschema voor het droogmiddel en de batterijen.",
+      "mpn": "24344",
+      "ean": "4011905243443",
+      "segment": "tech",
+      "revised": "2026-11-26",
+      "sources": [
+        {
+          "label": "TRIXIE · artikel 24344, wit/grijs 4,5 liter",
+          "url": "https://www.trixie.es/1001088728-1001235260"
+        },
+        {
+          "label": "TRIXIE Balear · EAN, camera en brokformaat",
+          "url": "https://www.trixiebalear.es/shop/comedero-automatico-tx8-inteligente-20-24314"
+        },
+        {
+          "label": "TRIXIE · handleiding TX8 Smart 2.0, type 24344",
+          "url": "https://ipet.ch/media/file_attachments/attachment/DOC_PRO_OP_24344-1_Bedienungsanleitung.pdf"
+        }
+      ],
+      "offers": [
+        {
+          "shop": "Huisdieren.nl",
+          "url": "https://www.huisdieren.nl/shop/trixie-voederautomaat-smart-2-0-wit-grijs/",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 189,
+          "shipping_eur": 0,
+          "free_from_eur": 59.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:57:11.130Z",
+          "shop_sku": "413232",
+          "shipping_source": "https://www.huisdieren.nl/betalen-bezorgen-en-retour/"
+        },
+        {
+          "shop": "Tormino",
+          "url": "https://tormino.com/products/trixie-automatic-feeder-smart-2-0-white-gray/",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 210.95,
+          "shipping_eur": null,
+          "free_from_eur": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:00:51.189Z",
+          "shop_sku": "9071586017599",
+          "shipping_source": "https://tormino.com/pages/shipping-delivery",
+          "gtin": "4011905243443"
+        },
+        {
+          "shop": "PetShop24",
+          "url": "https://www.petshop24.nl/product/trixie-voederautomaat-smart-2-0-wit-grijs-45-ltr-24x19x38-cm/",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 175.95,
+          "shipping_eur": null,
+          "free_from_eur": null,
+          "stock": "out_of_stock",
+          "checked_at": "2026-11-26T19:01:00.631Z",
+          "shop_sku": "413232",
+          "shipping_source": "https://www.petshop24.nl/product/trixie-voederautomaat-smart-2-0-wit-grijs-45-ltr-24x19x38-cm/"
+        }
+      ]
+    },
+    {
+      "slug": "petsafe-healthy-pet-simply-feed",
+      "brand": "PetSafe",
+      "model": "Healthy Pet Simply Feed zwart",
+      "category": "voerautomaat",
+      "max_weight_kg": null,
+      "min_weight_kg": null,
+      "large_cat": null,
+      "design": "brokkenreservoir",
+      "sensors": [],
+      "noise_db": null,
+      "app_required": false,
+      "wifi_required": false,
+      "consumables": [
+        "vier D-alkalinebatterijen bij gebruik op batterijvoeding"
+      ],
+      "annual_consumables_eur": null,
+      "subscription_monthly_eur": 0,
+      "note": "Een transportband voert brokken uit het reservoir van circa 5,7 liter naar een roestvrijstalen kom. Je stelt aan het lcd-scherm maximaal twaalf maaltijden per dag in. De portie-instelling loopt van 29 tot 946 ml. Met de langzame uitgifte kan het apparaat een maaltijd over vijftien minuten verdelen.",
+      "cost_basis": "De dispenser werkt op vier D-batterijen. De fabrikant biedt een netadapter als apart accessoire aan. Je hebt geen abonnement nodig. Een vastgesteld jaarbedrag voor batterijen of elektriciteit ontbreekt.",
+      "mpn": "PFD19-15521",
+      "ean": "0729849155213",
+      "segment": "tech",
+      "revised": "2026-11-26",
+      "sources": [
+        {
+          "label": "PetSafe Nederland · Healthy Pet Simply Feed, model PFD19-15521",
+          "url": "https://www.petsafe.com/nl/p/healthy-pet-simply-feed-programmeerbare-digitale-voerautomaat-voor-huisdieren/PFD19-15521/"
+        },
+        {
+          "label": "PetSafe · meertalige handleiding, voeding en langzame uitgifte",
+          "url": "https://intl.petsafe.net/media/manuals/400-1986-19-1_NL.pdf"
+        }
+      ],
+      "offers": [
+        {
+          "shop": "PetSafe Nederland",
+          "url": "https://www.petsafe.com/nl/p/healthy-pet-simply-feed-programmeerbare-digitale-voerautomaat-voor-huisdieren/PFD19-15521/",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 219.99,
+          "shipping_eur": 0,
+          "free_from_eur": 90.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:14.718Z",
+          "shop_sku": "PFD19-15521",
+          "shipping_source": "https://www.petsafe.com/nl/support/policies-and-terms/shipping-policy/"
+        },
+        {
+          "shop": "Ecodiervoeding.nl",
+          "url": "https://www.ecodiervoeding.nl/digitale-voerautomaat-voor-hond-en-kat.html",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 149,
+          "shipping_eur": 0,
+          "free_from_eur": 75,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:20.175Z",
+          "shop_sku": "PFD19-15521",
+          "shipping_source": "https://www.ecodiervoeding.nl/klantenservice/levering/verzending-en-levertijden/",
+          "gtin": "0729849155213"
+        },
+        {
+          "shop": "Junai.nl",
+          "url": "https://www.junai.nl/healthy-pet-simply-feed.html",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 222.26,
+          "shipping_eur": 0,
+          "free_from_eur": 75,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:20.357Z",
+          "shop_sku": "PFD19-15521",
+          "shipping_source": "https://www.junai.nl/service/shipping-returns/",
+          "gtin": "729849155213"
+        }
+      ]
+    },
+    {
+      "slug": "cat-mate-c300-wit",
+      "brand": "Cat Mate",
+      "model": "C300 wit",
+      "category": "voerautomaat",
+      "max_weight_kg": null,
+      "min_weight_kg": null,
+      "large_cat": null,
+      "design": "draaischijf",
+      "sensors": [],
+      "noise_db": null,
+      "app_required": false,
+      "wifi_required": false,
+      "consumables": [
+        "drie AA-batterijen"
+      ],
+      "annual_consumables_eur": null,
+      "subscription_monthly_eur": 0,
+      "note": "Je zet drie porties natvoer of droogvoer klaar op de ronde schijf. Het eerste vak is direct toegankelijk. Op de digitale timer van de witte C300 programmeer je de twee volgende maaltijden. Het meegeleverde koelelement past onder de schijf.",
+      "cost_basis": "Het apparaat gebruikt drie AA-batterijen. Het herbruikbare koelelement vries je zelf in. Een abonnement is niet nodig. Jaarlasten voor batterijen en koeling zijn onbekend.",
+      "mpn": "366",
+      "ean": "035368003660",
+      "segment": "tech",
+      "revised": "2026-11-26",
+      "sources": [
+        {
+          "label": "Closer Pets · witte Cat Mate C300 366, timer en drie maaltijdvakken",
+          "url": "https://closerpets.co.uk/products/three-meal-automatic-pet-feeder-with-digital-timer-c300-petmate"
+        },
+        {
+          "label": "Closer Pets EU · model 366 en passend koelelement",
+          "url": "https://closerpets.eu/products/three-meal-automatic-pet-feeder-with-digital-timer-c300-petmate?variant=42107123531968"
+        },
+        {
+          "label": "Closer Pets EU · variantgewicht van de witte uitvoering",
+          "url": "https://closerpets.eu/products/three-meal-automatic-pet-feeder-with-digital-timer-c300-petmate.json"
+        }
+      ],
+      "offers": [
+        {
+          "shop": "Zooplus",
+          "url": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/pet_mate/633918?activeVariant=633918.2",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 32.39,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:03:39.073Z",
+          "shop_sku": "633918.2",
+          "shipping_source": "https://www.zooplus.nl/info/about/shippingcosts",
+          "gtin": "035368003660",
+          "shipping_single_quote_eur": 0,
+          "shipping_quote_source": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/pet_mate/633918?activeVariant=633918.2",
+          "shipping_weight_kg": 1,
+          "shipping_weight_source": "https://closerpets.eu/products/three-meal-automatic-pet-feeder-with-digital-timer-c300-petmate.json",
+          "min_order_eur": 9,
+          "shipping_tiers": [
+            {
+              "from_eur": 9,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 19,
+              "shipping_eur": 2.99
+            },
+            {
+              "from_eur": 29.01,
+              "shipping_eur": 0
+            }
+          ],
+          "shipping_weight_limit_kg": 31,
+          "shipping_overweight_eur": null
+        },
+        {
+          "shop": "Bitiba",
+          "url": "https://www.bitiba.nl/shop/katten/voerbak/voerautomaten/637095?activeVariant=637095.2",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 38.49,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:03:38.915Z",
+          "shop_sku": "637095.2",
+          "shipping_source": "https://www.bitiba.nl/info/about/shippingcosts",
+          "gtin": "035368003660",
+          "shipping_weight_kg": 1,
+          "shipping_weight_source": "https://closerpets.eu/products/three-meal-automatic-pet-feeder-with-digital-timer-c300-petmate.json"
+        },
+        {
+          "shop": "Closer Pets EU",
+          "url": "https://closerpets.eu/products/three-meal-automatic-pet-feeder-with-digital-timer-c300-petmate?variant=42107123531968",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 39.99,
+          "shipping_eur": null,
+          "free_from_eur": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:04:24.523Z",
+          "shop_sku": "366",
+          "shipping_source": "https://closerpets.eu/pages/delivery-returns",
+          "gtin": "035368003660"
+        }
+      ]
+    },
+    {
+      "slug": "catit-flower-fountain-3l",
+      "brand": "Catit",
+      "model": "Flower Fountain 3 l wit/groen",
+      "ean": "022517437421",
+      "category": "drinkfontein",
+      "max_weight_kg": null,
+      "min_weight_kg": null,
+      "large_cat": null,
+      "design": null,
+      "sensors": [],
+      "noise_db": null,
+      "app_required": false,
+      "wifi_required": false,
+      "consumables": [
+        "Catit Triple Action bloemfonteinfilter"
+      ],
+      "annual_consumables_eur": null,
+      "subscription_monthly_eur": 0,
+      "note": "Door het bloemstuk te verwijderen verandert de waterstroom. De fabrikant geeft een leeg gewicht van 590 gram.",
+      "sources": [
+        {
+          "url": "https://www.catit.com/nl/producten/drinkfonteinen/flower-fountain/",
+          "label": "Catit · standaardmodel 43742, inhoud, materiaal, gewicht en stroming"
+        },
+        {
+          "url": "https://www.catit.com/nl/producten/drinkfonteinen/triple-action-fonteinfilter/",
+          "label": "Catit · geschikte ronde filters en vervanging"
+        }
+      ],
+      "offers": [
+        {
+          "shop": "Zooplus",
+          "url": "https://www.zooplus.nl/shop/katten/voerbak/kattendrenkplaats/624374?activeVariant=624374.0",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 21.69,
+          "shipping_eur": 2.99,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:56:08Z",
+          "shop_sku": "624374.0",
+          "gtin": "022517437421",
+          "shipping_source": "https://www.zooplus.nl/info/about/shippingcosts",
+          "min_order_eur": 9,
+          "shipping_tiers": [
+            {
+              "from_eur": 9,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 19,
+              "shipping_eur": 2.99
+            },
+            {
+              "from_eur": 29.01,
+              "shipping_eur": 0
+            }
+          ],
+          "shipping_weight_limit_kg": 31,
+          "shipping_overweight_eur": null,
+          "shipping_weight_kg": 0.59
+        },
+        {
+          "shop": "Pets Place",
+          "url": "https://www.petsplace.nl/catit-drinkfontein-bloem-senses-kattendrinkbak-022517437421-pps",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 30.59,
+          "shipping_eur": 4.99,
+          "free_from_eur": 39,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:40Z",
+          "shop_sku": "338800",
+          "gtin": "022517437421",
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
+        },
+        {
+          "shop": "Hano",
+          "url": "https://www.hano.nl/kat/voer-en-drinkbakken/catit-senses-drinkfontein-flower-br3-ltr",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 44.95,
+          "shipping_eur": 4.95,
+          "free_from_eur": 75,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:43Z",
+          "shop_sku": "0022517437421",
+          "gtin": "0022517437421",
+          "shipping_source": "https://www.hano.nl/klantenservice/algemene-informatie"
+        },
+        {
+          "shop": "PharmaPets",
+          "url": "https://www.pharmapets.nl/catit-2-0-flower-fountain-3l.html",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 43.85,
+          "shipping_eur": 0,
+          "free_from_eur": 39,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:39Z",
+          "shop_sku": "ld_33/43742W",
+          "shipping_source": "https://pharmapets.gorgias.help/nl-NL/articles/verzending-130442"
+        }
+      ],
+      "segment": "tech",
+      "revised": "2026-11-26",
+      "cost_basis": "Gebruik met netvoeding en zonder abonnement. Filterprijzen en stroomverbruik bepalen de gebruikskosten.",
+      "fountain_profile": {
+        "capacity_l": 3,
+        "capacity_note": null,
+        "material": "BPA-vrij kunststof",
+        "power": "Elektrische pomp met kabel",
+        "drink_levels": "Drie stromingsstanden door het bloemstuk aan te passen of weg te nemen",
+        "app": false,
+        "uses_filters": true,
+        "filter_required": true,
+        "filters": [
+          {
+            "name": "Catit Triple Action bloemfonteinfilter",
+            "part_code": "43745 (2 stuks), 43746 (5), 43748 (12)",
+            "interval_days_min": 30,
+            "interval_days_max": 30,
+            "interval_note": "Vervang elke 30 dagen of eerder bij zichtbare verzadiging.",
+            "source_url": "https://www.catit.com/nl/producten/drinkfonteinen/triple-action-fonteinfilter/"
+          }
+        ],
+        "notes": "Door het bloemstuk te verwijderen verandert de waterstroom. De fabrikant geeft een leeg gewicht van 590 gram.",
+        "sources": [
+          {
+            "url": "https://www.catit.com/nl/producten/drinkfonteinen/flower-fountain/",
+            "label": "Catit · standaardmodel 43742, inhoud, materiaal, gewicht en stroming"
+          },
+          {
+            "url": "https://www.catit.com/nl/producten/drinkfonteinen/triple-action-fonteinfilter/",
+            "label": "Catit · geschikte ronde filters en vervanging"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "trixie-vital-flow-15l",
+      "brand": "TRIXIE",
+      "model": "Vital Flow 1,5 l grijs/wit",
+      "ean": "4011905244662",
+      "category": "drinkfontein",
+      "max_weight_kg": null,
+      "min_weight_kg": null,
+      "large_cat": null,
+      "design": null,
+      "sensors": [],
+      "noise_db": null,
+      "app_required": false,
+      "wifi_required": false,
+      "consumables": [
+        "TRIXIE vervangfilter Vital Flow"
+      ],
+      "annual_consumables_eur": null,
+      "subscription_monthly_eur": 0,
+      "note": "Op de bodem van de ronde schaal blijft water staan, terwijl water over de geribde koepel terugloopt. Beide keramische delen kunnen in de vaatwasser.",
+      "sources": [
+        {
+          "url": "https://www.trixie.de/nl/kat/bakken-en-drinkbakken/drinkfonteinen/drinkfontein-vital-flow-1001435857-1001441118",
+          "label": "TRIXIE · grijs/wit model 24466, 1,5 liter, reservefilter en netaansluiting"
+        },
+        {
+          "url": "https://www.zooplus.nl/pictures/product/24466_24468_Anl_VitalFlow_210x297.pdf",
+          "label": "TRIXIE · handleiding Vital Flow en onderhoud"
+        }
+      ],
+      "offers": [
+        {
+          "shop": "Zooplus",
+          "url": "https://www.zooplus.nl/shop/katten/voerbak/kattendrenkplaats/626578?activeVariant=626578.0",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 35.99,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:56:08Z",
+          "shop_sku": "626578.0",
+          "gtin": "4011905244662",
+          "shipping_source": "https://www.zooplus.nl/info/about/shippingcosts",
+          "min_order_eur": 9,
+          "shipping_tiers": [
+            {
+              "from_eur": 9,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 19,
+              "shipping_eur": 2.99
+            },
+            {
+              "from_eur": 29.01,
+              "shipping_eur": 0
+            }
+          ],
+          "shipping_weight_limit_kg": 31,
+          "shipping_overweight_eur": null,
+          "shipping_single_quote_eur": 0,
+          "shipping_quote_source": "https://www.zooplus.nl/shop/katten/voerbak/kattendrenkplaats/626578?activeVariant=626578.0"
+        },
+        {
+          "shop": "Pets Place",
+          "url": "https://www.petsplace.nl/trixie-drinkfontein-vital-flow-kattendrinkbak-4011905244662-pps",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 47.99,
+          "shipping_eur": 0,
+          "free_from_eur": 39,
+          "stock": "out_of_stock",
+          "checked_at": "2026-11-26T18:55:40Z",
+          "shop_sku": "30067005",
+          "gtin": "4011905244662",
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
+        },
+        {
+          "shop": "AvonturiaShop",
+          "url": "https://www.avonturiashop.nl/trixie-drinkfontein-vital-flow-keramisch-15-l-grijs-wit.html",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 35.99,
+          "shipping_eur": 4.95,
+          "free_from_eur": 59,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:58:03Z",
+          "shop_sku": "0001128752",
+          "gtin": "4011905244662",
+          "shipping_source": "https://www.avonturiashop.nl/info/bestellen-en-leveren-1",
+          "min_order_eur": 14.95
+        },
+        {
+          "shop": "Catsclusive",
+          "url": "https://www.catsclusive.nl/fonteinen/drinkfontein-vital-flow-grijs",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 64.99,
+          "shipping_eur": null,
+          "free_from_eur": null,
+          "stock": "unknown",
+          "checked_at": "2026-11-26T18:55:40Z",
+          "shop_sku": "24466",
+          "gtin": "4011905244662"
+        },
+        {
+          "shop": "Bitiba",
+          "url": "https://www.bitiba.nl/shop/katten/voerbak/kattendrenkplaats/637933?activeVariant=637933.0",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 47.99,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:06:24Z",
+          "shop_sku": "637933.0",
+          "gtin": "4011905244662",
+          "shipping_source": "https://www.bitiba.nl/info/about/shippingcosts"
+        }
+      ],
+      "segment": "tech",
+      "revised": "2026-11-26",
+      "cost_basis": "Gebruik met netvoeding en zonder abonnement. Filterprijzen en stroomverbruik bepalen de gebruikskosten.",
+      "fountain_profile": {
+        "capacity_l": 1.5,
+        "capacity_note": null,
+        "material": "Keramiek",
+        "power": "Verstelbare elektrische pomp met EU-netstekker",
+        "drink_levels": "Drinkrand en verhoogde keramische koepel",
+        "app": false,
+        "uses_filters": true,
+        "filter_required": null,
+        "filters": [
+          {
+            "name": "TRIXIE vervangfilter Vital Flow",
+            "part_code": "24467",
+            "interval_days_min": null,
+            "interval_days_max": null,
+            "interval_note": "Reinig filter en pomp bij normaal gebruik wekelijks. Een vaste vervangtermijn staat niet in de handleiding.",
+            "source_url": "https://www.zooplus.nl/pictures/product/24466_24468_Anl_VitalFlow_210x297.pdf"
+          }
+        ],
+        "notes": "Op de bodem van de ronde schaal blijft water staan, terwijl water over de geribde koepel terugloopt. Beide keramische delen kunnen in de vaatwasser.",
+        "sources": [
+          {
+            "url": "https://www.trixie.de/nl/kat/bakken-en-drinkbakken/drinkfonteinen/drinkfontein-vital-flow-1001435857-1001441118",
+            "label": "TRIXIE · grijs/wit model 24466, 1,5 liter, reservefilter en netaansluiting"
+          },
+          {
+            "url": "https://www.zooplus.nl/pictures/product/24466_24468_Anl_VitalFlow_210x297.pdf",
+            "label": "TRIXIE · handleiding Vital Flow en onderhoud"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "cat-mate-drinkfontein-2l-wit",
+      "brand": "Cat Mate",
+      "model": "Drinkfontein 2 l wit (335E)",
+      "ean": "035368083358",
+      "category": "drinkfontein",
+      "max_weight_kg": null,
+      "min_weight_kg": null,
+      "large_cat": null,
+      "design": null,
+      "sensors": [],
+      "noise_db": null,
+      "app_required": false,
+      "wifi_required": false,
+      "consumables": [
+        "Cat Mate polymeer-koolstoffilter"
+      ],
+      "annual_consumables_eur": null,
+      "subscription_monthly_eur": 0,
+      "note": "De lage opvangbak en de twee hogere drinkpunten zijn met een waterhelling verbonden. De bovenbak en voet zijn van polypropyleen.",
+      "sources": [
+        {
+          "url": "https://closerpets.eu/products/three-level-pet-fountain-white-335-petmate",
+          "label": "Closer Pets · 335E, drie niveaus, Europese uitvoering en voedingsadapter"
+        },
+        {
+          "url": "https://closerpets.eu/pages/faq-cat-mate-pet-fountain-2-litre-335",
+          "label": "Closer Pets · materiaal en maandelijkse filterwissel"
+        },
+        {
+          "url": "https://www.bol.com/nl/nl/p/cat-mate-waterfontein-kat-kattenfontein-drinkfontein-kat-fluisterstil-poezen-fontein-dieren-drinkbakken-honden-fontein-2-l/9200000025082996/",
+          "label": "Closer Pets via bol · Nederlandse verpakking, EAN en verpakkingsgewicht"
+        }
+      ],
+      "offers": [
+        {
+          "shop": "Zooplus",
+          "url": "https://www.zooplus.nl/shop/katten/voerbak/kattendrenkplaats/145972?activeVariant=145972.9",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 23.19,
+          "shipping_eur": 2.99,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:41Z",
+          "shop_sku": "145972.9",
+          "gtin": "035368083358",
+          "shipping_source": "https://www.zooplus.nl/info/about/shippingcosts",
+          "min_order_eur": 9,
+          "shipping_tiers": [
+            {
+              "from_eur": 9,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 19,
+              "shipping_eur": 2.99
+            },
+            {
+              "from_eur": 29.01,
+              "shipping_eur": 0
+            }
+          ],
+          "shipping_weight_limit_kg": 31,
+          "shipping_overweight_eur": null,
+          "shipping_weight_kg": 0.82,
+          "note": "Het Nederlandse aanbod van Closer Pets op bol noemt bij deze EAN een verpakkingsgewicht van 0,82 kg. Zooplus noemt als productgewicht ongeveer 1 kg."
+        },
+        {
+          "shop": "Closer Pets",
+          "url": "https://closerpets.eu/products/three-level-pet-fountain-white-335-petmate?variant=47401103196492",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 29,
+          "shipping_eur": null,
+          "free_from_eur": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:40Z",
+          "shop_sku": "335E",
+          "gtin": "035368083358",
+          "shipping_source": "https://closerpets.eu/pages/delivery-returns"
+        },
+        {
+          "shop": "bol (Closer Pets)",
+          "url": "https://www.bol.com/nl/nl/p/cat-mate-waterfontein-kat-kattenfontein-drinkfontein-kat-fluisterstil-poezen-fontein-dieren-drinkbakken-honden-fontein-2-l/9200000025082996/",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 29,
+          "shipping_eur": 0,
+          "free_from_eur": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:58:03Z",
+          "shop_sku": "9200000025082996",
+          "gtin": "0035368083358",
+          "shipping_source": "https://www.bol.com/nl/nl/p/cat-mate-waterfontein-kat-kattenfontein-drinkfontein-kat-fluisterstil-poezen-fontein-dieren-drinkbakken-honden-fontein-2-l/9200000025082996/"
+        },
+        {
+          "shop": "Bitiba",
+          "url": "https://www.bitiba.nl/shop/katten/voerbak/kattendrenkplaats/399059?activeVariant=399059.7",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 27.49,
+          "shipping_eur": 2.99,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:06:24Z",
+          "shop_sku": "399059.7",
+          "gtin": "035368083358",
+          "shipping_source": "https://www.bitiba.nl/info/about/shippingcosts"
+        }
+      ],
+      "segment": "tech",
+      "revised": "2026-11-26",
+      "cost_basis": "Gebruik met netvoeding en zonder abonnement. Filterprijzen en stroomverbruik bepalen de gebruikskosten.",
+      "fountain_profile": {
+        "capacity_l": 2,
+        "capacity_note": null,
+        "material": "BPA-vrij polypropyleen",
+        "power": "Laagspanningsadapter met een snoer van 3 meter",
+        "drink_levels": "Drie drinkhoogtes, verbonden door een helling",
+        "app": false,
+        "uses_filters": true,
+        "filter_required": null,
+        "filters": [
+          {
+            "name": "Cat Mate polymeer-koolstoffilter",
+            "part_code": null,
+            "interval_days_min": null,
+            "interval_days_max": null,
+            "interval_note": "Volgens Closer Pets één keer per maand vervangen.",
+            "source_url": "https://closerpets.eu/pages/faq-cat-mate-pet-fountain-2-litre-335"
+          }
+        ],
+        "notes": "De lage opvangbak en de twee hogere drinkpunten zijn met een waterhelling verbonden. De bovenbak en voet zijn van polypropyleen.",
+        "sources": [
+          {
+            "url": "https://closerpets.eu/products/three-level-pet-fountain-white-335-petmate",
+            "label": "Closer Pets · 335E, drie niveaus, Europese uitvoering en voedingsadapter"
+          },
+          {
+            "url": "https://closerpets.eu/pages/faq-cat-mate-pet-fountain-2-litre-335",
+            "label": "Closer Pets · materiaal en maandelijkse filterwissel"
+          },
+          {
+            "url": "https://www.bol.com/nl/nl/p/cat-mate-waterfontein-kat-kattenfontein-drinkfontein-kat-fluisterstil-poezen-fontein-dieren-drinkbakken-honden-fontein-2-l/9200000025082996/",
+            "label": "Closer Pets via bol · Nederlandse verpakking, EAN en verpakkingsgewicht"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "petsafe-drinkwell-platinum",
+      "brand": "PetSafe",
+      "model": "Drinkwell Platinum (D2-EU-45)",
+      "ean": "729849145696",
+      "category": "drinkfontein",
+      "max_weight_kg": null,
+      "min_weight_kg": null,
+      "large_cat": null,
+      "design": null,
+      "sensors": [],
+      "noise_db": null,
+      "app_required": false,
+      "wifi_required": false,
+      "consumables": [
+        "Drinkwell vervangend koolstoffilter voor Platinum"
+      ],
+      "annual_consumables_eur": null,
+      "subscription_monthly_eur": 0,
+      "note": "Het afneembare achterreservoir vult de schaal bij. Een afzonderlijk voorfilter vangt het grovere vuil bij de pomp op. De Nederlandse PetSafe-productpagina vermeldt 3,8 liter. Zooplus en Petsonline verkopen dezelfde EU-uitvoering met EAN 729849145696 als 5 liter.",
+      "sources": [
+        {
+          "url": "https://www.petsafe.com/nl/p/drinkwell-platinum-huisdierenfontein/D2-EU-45/?sku=D2-EU-45",
+          "label": "PetSafe Nederland · D2-EU-45, specificaties, stroom en opgegeven inhoud"
+        },
+        {
+          "url": "https://www.petsonline.nl/nl/petsafe-drinkfontein-drinkwell-platinum-5-liter.html",
+          "label": "Petsonline · model D2-EU-45 en 5 liter op de Nederlandse winkelpagina"
+        },
+        {
+          "url": "https://support.petsafe.net/articles/how-to-replace-the-filter-in-my-petsafe-drinkwell-platinum-fountain/",
+          "label": "PetSafe · vervanging koolstoffilter"
+        }
+      ],
+      "offers": [
+        {
+          "shop": "Zooplus",
+          "url": "https://www.zooplus.nl/shop/katten/voerbak/kattendrenkplaats/145974?activeVariant=145974.6",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 49.59,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:41Z",
+          "shop_sku": "145974.6",
+          "gtin": "729849145696",
+          "shipping_source": "https://www.zooplus.nl/info/about/shippingcosts",
+          "min_order_eur": 9,
+          "shipping_tiers": [
+            {
+              "from_eur": 9,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 19,
+              "shipping_eur": 2.99
+            },
+            {
+              "from_eur": 29.01,
+              "shipping_eur": 0
+            }
+          ],
+          "shipping_weight_limit_kg": 31,
+          "shipping_overweight_eur": null,
+          "shipping_single_quote_eur": 0,
+          "shipping_quote_source": "https://www.zooplus.nl/shop/katten/voerbak/kattendrenkplaats/145974?activeVariant=145974.6"
+        },
+        {
+          "shop": "Petsonline",
+          "url": "https://www.petsonline.nl/nl/petsafe-drinkfontein-drinkwell-platinum-5-liter.html",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 80.99,
+          "shipping_eur": 0,
+          "free_from_eur": 59,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:41Z",
+          "shop_sku": "D2-EU-45",
+          "gtin": "729849145696",
+          "shipping_source": "https://www.petsonline.nl/nl/service/shipping-returns/"
+        },
+        {
+          "shop": "Pips",
+          "url": "https://www.pips.nl/drinkwell-platinum-drinkfontein-5-liter",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 84.99,
+          "shipping_eur": 0,
+          "free_from_eur": 59,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:41Z",
+          "shop_sku": "2276-D",
+          "gtin": "729849145696",
+          "shipping_source": "https://www.pips.nl/betalen-bezorgen-retourneren"
+        },
+        {
+          "shop": "PetSafe Nederland",
+          "url": "https://www.petsafe.com/nl/p/drinkwell-platinum-huisdierenfontein/D2-EU-45/?sku=D2-EU-45",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 80.99,
+          "shipping_eur": 7.99,
+          "free_from_eur": 90,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:41Z",
+          "shop_sku": "D2-EU-45",
+          "shipping_source": "https://www.petsafe.com/nl/support/policies-and-terms/shipping-policy/"
+        },
+        {
+          "shop": "Bitiba",
+          "url": "https://www.bitiba.nl/shop/katten/voerbak/kattendrenkplaats/461927?activeVariant=461927.6",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 52.64,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:06:24Z",
+          "shop_sku": "461927.6",
+          "gtin": "729849145696",
+          "shipping_source": "https://www.bitiba.nl/info/about/shippingcosts"
+        }
+      ],
+      "segment": "tech",
+      "revised": "2026-11-26",
+      "cost_basis": "Gebruik met netvoeding en zonder abonnement. Filterprijzen en stroomverbruik bepalen de gebruikskosten.",
+      "fountain_profile": {
+        "capacity_l": null,
+        "capacity_note": "De Nederlandse PetSafe-productpagina vermeldt 3,8 liter. Zooplus en Petsonline verkopen dezelfde EU-uitvoering met EAN 729849145696 als 5 liter.",
+        "material": "Kunststof",
+        "power": "Netvoeding met 12V-laagspanningspomp",
+        "drink_levels": "Vrij vallende regelbare straal en open opvangbak",
+        "app": false,
+        "uses_filters": true,
+        "filter_required": null,
+        "filters": [
+          {
+            "name": "Drinkwell vervangend koolstoffilter voor Platinum",
+            "part_code": null,
+            "interval_days_min": 14,
+            "interval_days_max": 28,
+            "interval_note": "PetSafe adviseert vervanging om de twee tot vier weken.",
+            "source_url": "https://support.petsafe.net/articles/how-to-replace-the-filter-in-my-petsafe-drinkwell-platinum-fountain/"
+          }
+        ],
+        "notes": "Het afneembare achterreservoir vult de schaal bij. Een afzonderlijk voorfilter vangt het grovere vuil bij de pomp op.",
+        "sources": [
+          {
+            "url": "https://www.petsafe.com/nl/p/drinkwell-platinum-huisdierenfontein/D2-EU-45/?sku=D2-EU-45",
+            "label": "PetSafe Nederland · D2-EU-45, specificaties, stroom en opgegeven inhoud"
+          },
+          {
+            "url": "https://www.petsonline.nl/nl/petsafe-drinkfontein-drinkwell-platinum-5-liter.html",
+            "label": "Petsonline · model D2-EU-45 en 5 liter op de Nederlandse winkelpagina"
+          },
+          {
+            "url": "https://support.petsafe.net/articles/how-to-replace-the-filter-in-my-petsafe-drinkwell-platinum-fountain/",
+            "label": "PetSafe · vervanging koolstoffilter"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "petsafe-drinkwell-360-rvs-38l",
+      "brand": "PetSafe",
+      "model": "Drinkwell 360 RVS 3,8 l",
+      "ean": "729849143609",
+      "category": "drinkfontein",
+      "max_weight_kg": null,
+      "min_weight_kg": null,
+      "large_cat": null,
+      "design": null,
+      "sensors": [],
+      "noise_db": null,
+      "app_required": false,
+      "wifi_required": false,
+      "consumables": [
+        "Drinkwell 360 cilindrisch koolstoffilter",
+        "Drinkwell schuimvoorfilter voor keramiek en 360 RVS"
+      ],
+      "annual_consumables_eur": null,
+      "subscription_monthly_eur": 0,
+      "note": "De stalen schaal is rondom bereikbaar. De opzetstukken boven op de kegel bepalen het aantal waterstralen. Het koolstoffilter en het schuimvoorfilter hebben verschillende wisselintervallen.",
+      "sources": [
+        {
+          "url": "https://www.petsafe.com/nl/p/drinkwell-360-roestvrijstalen-huisdierenfontein/D360SS-EU-45/?sku=D360SS-EU-45",
+          "label": "PetSafe Nederland · RVS-uitvoering D360SS-EU-45 en 3,8 liter"
+        },
+        {
+          "url": "https://www.petsafe.com/nl/p/vervangende-koolstoffilters/PAC19-14356/",
+          "label": "PetSafe · cilindrisch koolstoffilter"
+        },
+        {
+          "url": "https://www.petsafe.com/nl/p/drinkwell-vervangende-foam-filters/PAC19-14089/",
+          "label": "PetSafe · schuimvoorfilter voor de RVS-uitvoering"
+        }
+      ],
+      "offers": [
+        {
+          "shop": "Pets Place",
+          "url": "https://www.petsplace.nl/petsafe-drinkwell-360-roestvrijstalen-drinkfontein-hondendrinkbak-729849143609-pps",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 94.99,
+          "shipping_eur": 0,
+          "free_from_eur": 39,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:44Z",
+          "shop_sku": "940505",
+          "gtin": "729849143609",
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
+        },
+        {
+          "shop": "Pips",
+          "url": "https://www.pips.nl/drinkwell-360-stainless-steel-pet-fountain-3-8-l-waterbak",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 109.95,
+          "shipping_eur": 0,
+          "free_from_eur": 59,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:41Z",
+          "shop_sku": "2278-D",
+          "gtin": "729849143609",
+          "shipping_source": "https://www.pips.nl/betalen-bezorgen-retourneren"
+        },
+        {
+          "shop": "PetSafe Nederland",
+          "url": "https://www.petsafe.com/nl/p/drinkwell-360-roestvrijstalen-huisdierenfontein/D360SS-EU-45/?sku=D360SS-EU-45",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 107.99,
+          "shipping_eur": 0,
+          "free_from_eur": 90,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:41Z",
+          "shop_sku": "D360SS-EU-45",
+          "shipping_source": "https://www.petsafe.com/nl/support/policies-and-terms/shipping-policy/"
+        },
+        {
+          "shop": "De Huisdiersuper",
+          "url": "https://www.dehuisdiersuper.nl/petsafe-drinkwell-360-drinkfontein-roestvrijstaal",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 75.99,
+          "shipping_eur": 0,
+          "free_from_eur": 69,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:55:41Z",
+          "gtin": "729849143609",
+          "shipping_source": "https://www.dehuisdiersuper.nl/onze-klantenservice/verzenden"
+        }
+      ],
+      "segment": "tech",
+      "revised": "2026-11-26",
+      "cost_basis": "Gebruik met netvoeding en zonder abonnement. Filterprijzen en stroomverbruik bepalen de gebruikskosten.",
+      "fountain_profile": {
+        "capacity_l": 3.8,
+        "capacity_note": null,
+        "material": "Roestvrij staal",
+        "power": "Elektrische circulatiepomp met netsnoer",
+        "drink_levels": "Rondom toegankelijke schaal en één tot vijf waterstralen",
+        "app": false,
+        "uses_filters": true,
+        "filter_required": null,
+        "filters": [
+          {
+            "name": "Drinkwell 360 cilindrisch koolstoffilter",
+            "part_code": "PAC19-14356",
+            "interval_days_min": 14,
+            "interval_days_max": 28,
+            "interval_note": "Elke twee tot vier weken vervangen.",
+            "source_url": "https://www.petsafe.com/nl/p/vervangende-koolstoffilters/PAC19-14356/"
+          },
+          {
+            "name": "Drinkwell schuimvoorfilter voor keramiek en 360 RVS",
+            "part_code": "PAC19-14089",
+            "interval_days_min": 28,
+            "interval_days_max": 42,
+            "interval_note": "Elke vier tot zes weken vervangen.",
+            "source_url": "https://www.petsafe.com/nl/p/drinkwell-vervangende-foam-filters/PAC19-14089/"
+          }
+        ],
+        "notes": "De stalen schaal is rondom bereikbaar. De opzetstukken boven op de kegel bepalen het aantal waterstralen. Het koolstoffilter en het schuimvoorfilter hebben verschillende wisselintervallen.",
+        "sources": [
+          {
+            "url": "https://www.petsafe.com/nl/p/drinkwell-360-roestvrijstalen-huisdierenfontein/D360SS-EU-45/?sku=D360SS-EU-45",
+            "label": "PetSafe Nederland · RVS-uitvoering D360SS-EU-45 en 3,8 liter"
+          },
+          {
+            "url": "https://www.petsafe.com/nl/p/vervangende-koolstoffilters/PAC19-14356/",
+            "label": "PetSafe · cilindrisch koolstoffilter"
+          },
+          {
+            "url": "https://www.petsafe.com/nl/p/drinkwell-vervangende-foam-filters/PAC19-14089/",
+            "label": "PetSafe · schuimvoorfilter voor de RVS-uitvoering"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "catit-pixi-drinkfontein-wit",
+      "brand": "Catit",
+      "model": "PIXI Drinkfontein wit (43715)",
+      "ean": "022517437155",
+      "category": "drinkfontein",
+      "max_weight_kg": null,
+      "min_weight_kg": null,
+      "large_cat": null,
+      "design": null,
+      "sensors": [],
+      "noise_db": null,
+      "app_required": false,
+      "wifi_required": false,
+      "consumables": [
+        "Catit PIXI Triple Action-filter"
+      ],
+      "annual_consumables_eur": null,
+      "subscription_monthly_eur": 0,
+      "note": "Het neusje toont de waterstatus. De pomp schakelt automatisch uit wanneer het reservoir leeg is. De witte standaarduitvoering heeft artikelnummer 43715. Catit Nederland vermeldt 2 liter voor de witte PIXI 43715. Medpets en Zooplus noemen 2,5 liter voor dezelfde uitvoering.",
+      "sources": [
+        {
+          "url": "https://www.catit.com/nl/producten/drinkfonteinen/pixi-drinkfontein/",
+          "label": "Catit · witte PIXI 43715, waterniveau, uitschakeling, stroom en reservoir"
+        },
+        {
+          "url": "https://www.catit.com/nl/producten/drinkfonteinen/pixi-fonteinfilters/",
+          "label": "Catit · PIXI-filters en vervangtermijn"
+        },
+        {
+          "url": "https://www.medpets.nl/catit-pixi-drinkfontein",
+          "label": "Medpets · witte uitvoering MP31233 en opgegeven capaciteit"
+        }
+      ],
+      "offers": [
+        {
+          "shop": "Zooplus",
+          "url": "https://www.zooplus.nl/shop/katten/voerbak/kattendrenkplaats/1102144?activeVariant=1102144.2",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 38.99,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:02:52Z",
+          "shop_sku": "1102144.2",
+          "gtin": "022517437155",
+          "shipping_source": "https://www.zooplus.nl/info/about/shippingcosts",
+          "min_order_eur": 9,
+          "shipping_tiers": [
+            {
+              "from_eur": 9,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 19,
+              "shipping_eur": 2.99
+            },
+            {
+              "from_eur": 29.01,
+              "shipping_eur": 0
+            }
+          ],
+          "shipping_weight_limit_kg": 31,
+          "shipping_overweight_eur": null,
+          "shipping_weight_kg": 0.678
+        },
+        {
+          "shop": "Pets Place",
+          "url": "https://www.petsplace.nl/catit-pixi-fountain-kattendrinkbak-022517437155-pps",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 43.95,
+          "shipping_eur": 0,
+          "free_from_eur": 39,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:02:53Z",
+          "shop_sku": "30002508",
+          "gtin": "022517437155",
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
+        },
+        {
+          "shop": "Bitiba",
+          "url": "https://www.bitiba.nl/shop/katten/voerbak/kattendrenkplaats/1102145?activeVariant=1102145.1",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 38.99,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:02:52Z",
+          "shop_sku": "1102145.1",
+          "gtin": "022517437155",
+          "shipping_source": "https://www.bitiba.nl/info/about/shippingcosts"
+        },
+        {
+          "shop": "Medpets",
+          "url": "https://www.medpets.nl/catit-pixi-drinkfontein?sku=MP31233",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 44.05,
+          "shipping_eur": 4.95,
+          "free_from_eur": 69,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:02:52Z",
+          "shop_sku": "MP31233",
+          "gtin": "0022517437155",
+          "shipping_source": "https://www.medpets.nl/klantenservice/verzending-bezorging?option=verzendkosten",
+          "min_order_eur": 14.95,
+          "shipping_tiers": [
+            {
+              "from_eur": 14.95,
+              "shipping_eur": 4.95
+            },
+            {
+              "from_eur": 69,
+              "shipping_eur": 0
+            }
+          ]
+        }
+      ],
+      "segment": "tech",
+      "revised": "2026-11-26",
+      "cost_basis": "Gebruik met netvoeding en zonder abonnement. Filterprijzen en stroomverbruik bepalen de gebruikskosten.",
+      "fountain_profile": {
+        "capacity_l": null,
+        "capacity_note": "Catit Nederland vermeldt 2 liter voor de witte PIXI 43715. Medpets en Zooplus noemen 2,5 liter voor dezelfde uitvoering.",
+        "material": "Kunststof",
+        "power": "USB-voeding met 5V/1A-adapter; Catit specificeert minder dan 1 watt",
+        "drink_levels": "Ondiepe bovenbak met een kabbelende of oplopende waterstraal",
+        "app": false,
+        "uses_filters": true,
+        "filter_required": null,
+        "filters": [
+          {
+            "name": "Catit PIXI Triple Action-filter",
+            "part_code": "43721 (3 stuks), 43722 (6)",
+            "interval_days_min": 30,
+            "interval_days_max": 30,
+            "interval_note": "Vervang het filter elke 30 dagen.",
+            "source_url": "https://www.catit.com/nl/producten/drinkfonteinen/pixi-fonteinfilters/"
+          }
+        ],
+        "notes": "Het neusje toont de waterstatus. De pomp schakelt automatisch uit wanneer het reservoir leeg is. De witte standaarduitvoering heeft artikelnummer 43715.",
+        "sources": [
+          {
+            "url": "https://www.catit.com/nl/producten/drinkfonteinen/pixi-drinkfontein/",
+            "label": "Catit · witte PIXI 43715, waterniveau, uitschakeling, stroom en reservoir"
+          },
+          {
+            "url": "https://www.catit.com/nl/producten/drinkfonteinen/pixi-fonteinfilters/",
+            "label": "Catit · PIXI-filters en vervangtermijn"
+          },
+          {
+            "url": "https://www.medpets.nl/catit-pixi-drinkfontein",
+            "label": "Medpets · witte uitvoering MP31233 en opgegeven capaciteit"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "petsafe-drinkwell-butterfly",
+      "brand": "PetSafe",
+      "model": "Drinkwell Butterfly 1,5 l",
+      "ean": "729849169296",
+      "category": "drinkfontein",
+      "max_weight_kg": null,
+      "min_weight_kg": null,
+      "large_cat": null,
+      "design": null,
+      "sensors": [],
+      "noise_db": null,
+      "app_required": false,
+      "wifi_required": false,
+      "consumables": [
+        "Drinkwell koolstoffilter nr. 6",
+        "Drinkwell schuimfilter nr. 5"
+      ],
+      "annual_consumables_eur": null,
+      "subscription_monthly_eur": 0,
+      "note": "Met het vlinderopzetstuk verdeelt het water zich in vier straaltjes. Zonder het opzetstuk stroomt het uit de bovenste opening. Het schuimfilter vangt haren en grove deeltjes op.",
+      "sources": [
+        {
+          "url": "https://www.petsafe.com/nl/p/drinkwell-vlinder-huisdierenfontein/PWW19-16929/",
+          "label": "PetSafe Nederland · PWW19-16929, waterinhoud, vlinderopzetstuk, materiaal, netvoeding en twee filters"
+        }
+      ],
+      "offers": [
+        {
+          "shop": "Zooplus",
+          "url": "https://www.zooplus.nl/shop/katten/voerbak/kattendrenkplaats/1005750?activeVariant=1005750.0",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 32.79,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:02:53Z",
+          "shop_sku": "1005750.0",
+          "gtin": "729849169296",
+          "shipping_source": "https://www.zooplus.nl/info/about/shippingcosts",
+          "min_order_eur": 9,
+          "shipping_tiers": [
+            {
+              "from_eur": 9,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 19,
+              "shipping_eur": 2.99
+            },
+            {
+              "from_eur": 29.01,
+              "shipping_eur": 0
+            }
+          ],
+          "shipping_weight_limit_kg": 31,
+          "shipping_overweight_eur": null,
+          "shipping_weight_kg": 1,
+          "note": "Zooplus schat het apparaatgewicht op circa 1 kg."
+        },
+        {
+          "shop": "Bitiba",
+          "url": "https://www.bitiba.nl/shop/katten/voerbak/kattendrenkplaats/1005657?activeVariant=1005657.0",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 28.79,
+          "shipping_eur": 2.99,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:02:52Z",
+          "shop_sku": "1005657.0",
+          "gtin": "729849169296",
+          "shipping_source": "https://www.bitiba.nl/info/about/shippingcosts"
+        },
+        {
+          "shop": "Pips",
+          "url": "https://www.pips.nl/drinkwell-butterfly-pet-fountain-automatische-drinkfontein",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 42.99,
+          "shipping_eur": 6.95,
+          "free_from_eur": 59,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:02:52Z",
+          "shop_sku": "5718-D",
+          "gtin": "729849169296",
+          "shipping_source": "https://www.pips.nl/betalen-bezorgen-retourneren"
+        },
+        {
+          "shop": "PetSafe Nederland",
+          "url": "https://www.petsafe.com/nl/p/drinkwell-vlinder-huisdierenfontein/PWW19-16929/",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 35.99,
+          "shipping_eur": 7.99,
+          "free_from_eur": 90,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:02:52Z",
+          "shop_sku": "PWW19-16929",
+          "shipping_source": "https://www.petsafe.com/nl/support/policies-and-terms/shipping-policy/"
+        },
+        {
+          "shop": "Staywell",
+          "url": "https://www.staywell.nl/drinkwell-butterfly-drinkfontein.html",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 35.99,
+          "shipping_eur": null,
+          "free_from_eur": 40,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T19:02:52Z",
+          "shop_sku": "PWW19-16929",
+          "gtin": "0729849169296",
+          "shipping_source": "https://www.staywell.nl/service/shipping-returns/"
+        }
+      ],
+      "segment": "tech",
+      "revised": "2026-11-26",
+      "cost_basis": "Gebruik met netvoeding en zonder abonnement. Filterprijzen en stroomverbruik bepalen de gebruikskosten.",
+      "fountain_profile": {
+        "capacity_l": 1.5,
+        "capacity_note": null,
+        "material": "BPA-vrij kunststof",
+        "power": "Elektrische pomp met netvoeding",
+        "drink_levels": "Vier vrije waterstraaltjes met vlinderopzetstuk of stroming zonder vlinder",
+        "app": false,
+        "uses_filters": true,
+        "filter_required": null,
+        "filters": [
+          {
+            "name": "Drinkwell koolstoffilter nr. 6",
+            "part_code": "PAC00-13906",
+            "interval_days_min": null,
+            "interval_days_max": null,
+            "interval_note": "PetSafe noemt het filtertype bij deze fontein.",
+            "source_url": "https://www.petsafe.com/nl/p/drinkwell-vlinder-huisdierenfontein/PWW19-16929/"
+          },
+          {
+            "name": "Drinkwell schuimfilter nr. 5",
+            "part_code": "PAC00-13711",
+            "interval_days_min": null,
+            "interval_days_max": null,
+            "interval_note": "PetSafe noemt het filtertype bij deze fontein.",
+            "source_url": "https://www.petsafe.com/nl/p/drinkwell-vlinder-huisdierenfontein/PWW19-16929/"
+          }
+        ],
+        "notes": "Met het vlinderopzetstuk verdeelt het water zich in vier straaltjes. Zonder het opzetstuk stroomt het uit de bovenste opening. Het schuimfilter vangt haren en grove deeltjes op.",
+        "sources": [
+          {
+            "url": "https://www.petsafe.com/nl/p/drinkwell-vlinder-huisdierenfontein/PWW19-16929/",
+            "label": "PetSafe Nederland · PWW19-16929, waterinhoud, vlinderopzetstuk, materiaal, netvoeding en twee filters"
+          }
+        ]
+      }
     }
   ]
 }
