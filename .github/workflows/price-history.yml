@@ -26,6 +26,7 @@ jobs:
         with:
           node-version: '22'
       - name: Meet, valideer en bewaar de geverifieerde prijzen
+        id: measure
         shell: bash
         env:
           PRICE_BRANCH: ${{ github.event.repository.default_branch }}
@@ -39,6 +40,7 @@ jobs:
             git checkout --detach FETCH_HEAD
             if [[ -f package.json ]]; then npm ci; fi
             node scripts/refresh-prices.mjs
+            node scripts/refresh-deals.mjs
             node scripts/apply-published-delivery.mjs
             node scripts/record-prices.mjs
             node scripts/refresh-prices.mjs --verify
@@ -47,7 +49,7 @@ jobs:
               npm run check
               npm run build
             else
-              node --test tests/refresh-prices.test.mjs tests/price-history.test.mjs
+              node --test tests/*.test.mjs
             fi
             shopt -s nullglob
             paths=(data/products.json data/price-history*.json)
@@ -57,7 +59,10 @@ jobs:
             git add -A -- "${paths[@]}"
             if git diff --cached --quiet; then exit 0; fi
             git commit -m "Bewaar geverifieerde winkelprijzen $(date -u +%F)"
-            if git push origin "HEAD:refs/heads/$PRICE_BRANCH"; then exit 0; fi
+            if git push origin "HEAD:refs/heads/$PRICE_BRANCH"; then
+              echo "base=$(git rev-parse HEAD^)" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
             git fetch --no-tags origin "refs/heads/$PRICE_BRANCH"
             if [[ "$(git rev-parse FETCH_HEAD)" == "$(git rev-parse HEAD^)" ]]; then
               echo "De remote bron bleef gelijk. Controleer repositoryrechten en branchregels." >&2
@@ -66,3 +71,9 @@ jobs:
           done
           echo "De bron wijzigde tijdens beide pogingen. De volgende meting leest de nieuwste catalogus." >&2
           exit 1
+
+      - name: Meld gewijzigde productpagina’s bij IndexNow aan
+        if: steps.measure.outputs.base != '' && github.repository == 'Hatseflatsh/voerpiraat-prijzen'
+        env:
+          PRICE_BASE: ${{ steps.measure.outputs.base }}
+        run: node scripts/notify-price-changes.mjs "$PRICE_BASE"
