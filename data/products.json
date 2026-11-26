@@ -25219,6 +25219,258 @@
         }
       ],
       "ean": "9120056452347"
+    },
+    {
+      "slug": "catit-pixi-smart-6-meal",
+      "brand": "Catit",
+      "model": "PIXI Smart 6-meal Feeder wit",
+      "category": "voerautomaat",
+      "design": "draaischijf",
+      "max_weight_kg": null,
+      "min_weight_kg": null,
+      "large_cat": null,
+      "sensors": [
+        "blokkadedetectie bij het draaien"
+      ],
+      "noise_db": null,
+      "app_required": false,
+      "wifi_required": false,
+      "consumables": [
+        "4 C/LR14-batterijen voor optionele noodstroom"
+      ],
+      "annual_consumables_eur": null,
+      "subscription_monthly_eur": 0,
+      "note": "Je vult zes vakken van 170 ml met natvoer, brokken of een combinatie. De schijf draait naar de volgende portie op de ingestelde tijd. Je programmeert maaltijden op het lcd-scherm of in de gratis PIXI-app. Twee meegeleverde koelelementen leg je vóór gebruik in de vriezer.",
+      "cost_basis": "Netvoeding via de meegeleverde USB-adapter. Vier optionele C/LR14-batterijen kunnen het apparaat tijdelijk aandrijven bij stroomuitval. Het basisprogramma werkt zonder abonnement. Jaarlasten voor elektriciteit en batterijen hangen af van gebruik en zijn onbekend.",
+      "mpn": "43754",
+      "ean": "022517437544",
+      "segment": "tech",
+      "revised": "2026-11-26",
+      "sources": [
+        {
+          "url": "https://www.catit.com/nl/producten/catit-pixi-smart-6-meal-feeder/",
+          "label": "Catit Nederland · model 43754, bediening, zes vakken en koelelementen"
+        },
+        {
+          "url": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/andere/1388962?activeVariant=1388962.0",
+          "label": "Zooplus · artikel 1388962.0, uitvoering 6 × 170 ml"
+        },
+        {
+          "url": "https://www.medpets.nl/catit-pixi-smart-6-meal-feeder?sku=MP36940",
+          "label": "Medpets · wit, artikel MP36940"
+        }
+      ],
+      "offers": [
+        {
+          "shop": "Medpets",
+          "url": "https://www.medpets.nl/catit-pixi-smart-6-meal-feeder?sku=MP36940",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 122.5,
+          "shipping_eur": 0,
+          "free_from_eur": 69,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:38:12.541Z",
+          "shipping_source": "https://www.medpets.nl/klantenservice/verzending-bezorging?option=verzendkosten",
+          "shop_sku": "MP36940",
+          "min_order_eur": 14.95,
+          "shipping_tiers": [
+            {
+              "from_eur": 14.95,
+              "shipping_eur": 4.95
+            },
+            {
+              "from_eur": 69,
+              "shipping_eur": 0
+            }
+          ]
+        },
+        {
+          "shop": "Zooplus",
+          "url": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/andere/1388962?activeVariant=1388962.0",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 122.99,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:38:13.294Z",
+          "shipping_source": "https://www.zooplus.nl/info/about/shippingcosts",
+          "shop_sku": "1388962.0",
+          "gtin": "022517437544",
+          "shipping_single_quote_eur": 0,
+          "shipping_quote_source": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/andere/1388962?activeVariant=1388962.0",
+          "min_order_eur": 9,
+          "shipping_tiers": [
+            {
+              "from_eur": 9,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 19,
+              "shipping_eur": 2.99
+            },
+            {
+              "from_eur": 29.01,
+              "shipping_eur": 0
+            }
+          ],
+          "shipping_weight_limit_kg": 31,
+          "shipping_overweight_eur": null
+        }
+      ]
+    },
+    {
+      "slug": "cat-mate-c500-wit",
+      "brand": "Cat Mate",
+      "model": "C500 wit",
+      "category": "voerautomaat",
+      "design": "draaischijf",
+      "max_weight_kg": null,
+      "min_weight_kg": null,
+      "large_cat": null,
+      "sensors": [],
+      "noise_db": null,
+      "app_required": false,
+      "wifi_required": false,
+      "consumables": [
+        "3 AA-batterijen voor de timer en draaischijf"
+      ],
+      "annual_consumables_eur": null,
+      "subscription_monthly_eur": 0,
+      "note": "Vul de vijf vakken met vooraf verdeelde porties. Eén vak is meteen bereikbaar en voor vier volgende maaltijden stel je een tijd in op de digitale timer. De witte C500 werkt op drie AA-batterijen. Onder het voerblad passen de twee meegeleverde koelelementen.",
+      "cost_basis": "Voor de digitale timer en de draaischijf zijn drie AA-batterijen nodig. Je gebruikt het apparaat zonder abonnement. Een set batterijen zit niet in de doos. De prijs van passende batterijen en een eigen vervanginterval ontbreken voor een jaarbedrag.",
+      "mpn": "365",
+      "ean": "035368003653",
+      "segment": "tech",
+      "revised": "2026-11-26",
+      "sources": [
+        {
+          "url": "https://closerpets.co.uk/products/five-meal-automatic-pet-feeder-with-digital-timer-c500-petmate?variant=56061601022325",
+          "label": "Closer Pets · witte Cat Mate C500, type 365, timer en koelelementen"
+        },
+        {
+          "url": "https://closerpets.com/pages/support-five-meal-automatic-pet-feeder-with-digital-timer-c500",
+          "label": "Closer Pets · C500, tijdinstelling en invloed van omgevingstemperatuur op koeling"
+        },
+        {
+          "url": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/pet_mate/601499?activeVariant=601499.2",
+          "label": "Zooplus · C500 wit, artikel 601499.2"
+        },
+        {
+          "url": "https://www.petsplace.nl/cat-mate-voerbak-voor-5-maaltijden-kattenvoerbak-035368003653-pps",
+          "label": "Pets Place · Cat Mate 5 maaltijden wit, artikel 40543859"
+        }
+      ],
+      "offers": [
+        {
+          "shop": "Zooplus",
+          "url": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/pet_mate/601499?activeVariant=601499.2",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 35.19,
+          "shipping_eur": 0,
+          "free_from_eur": 29.01,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:38:13.810Z",
+          "shipping_source": "https://www.zooplus.nl/info/about/shippingcosts",
+          "shop_sku": "601499.2",
+          "gtin": "035368003653",
+          "shipping_single_quote_eur": 0,
+          "shipping_quote_source": "https://www.zooplus.nl/shop/katten/voerbak/voerautomaten/pet_mate/601499?activeVariant=601499.2",
+          "min_order_eur": 9,
+          "shipping_tiers": [
+            {
+              "from_eur": 9,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 19,
+              "shipping_eur": 2.99
+            },
+            {
+              "from_eur": 29.01,
+              "shipping_eur": 0
+            }
+          ],
+          "shipping_weight_limit_kg": 31,
+          "shipping_overweight_eur": null
+        },
+        {
+          "shop": "Pets Place",
+          "url": "https://www.petsplace.nl/cat-mate-voerbak-voor-5-maaltijden-kattenvoerbak-035368003653-pps",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 43.99,
+          "shipping_eur": 0,
+          "free_from_eur": 39,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:38:15.200Z",
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shop_sku": "40543859",
+          "gtin": "035368003653",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "pets-on-demand-gps-pro-mini",
+      "brand": "Pets on Demand",
+      "model": "GPS PRO Mini",
+      "category": "gps-tracker",
+      "max_weight_kg": null,
+      "min_weight_kg": 4,
+      "large_cat": null,
+      "design": null,
+      "sensors": [
+        "GPS",
+        "wifi- en zendmastpositionering",
+        "geluid en ledlampje"
+      ],
+      "noise_db": null,
+      "app_required": true,
+      "wifi_required": false,
+      "consumables": [],
+      "annual_consumables_eur": 0,
+      "subscription_monthly_eur": 0,
+      "note": "Deze GPS- en 4G-tracker van 29 gram is volgens de aanbieder geschikt voor katten en honden vanaf 4 kg. De aanschaf omvat tien jaar datategoed. De kattenhalsband wordt apart verkocht.",
+      "sources": [
+        {
+          "url": "https://www.petsondemand.nl/product/21920308/gps-pro-mini",
+          "label": "Pets on Demand · GPS PRO Mini, 4G en tien jaar inbegrepen data"
+        },
+        {
+          "url": "https://www.petsondemand.nl/gps-tracker-kat",
+          "label": "Pets on Demand · gewicht, kattenhalsband en Nederlandse levering"
+        }
+      ],
+      "offers": [
+        {
+          "shop": "Pets on Demand",
+          "url": "https://www.petsondemand.nl/product/21920308/gps-pro-mini",
+          "units": 1,
+          "unit_kg": null,
+          "price_eur": 127,
+          "shipping_eur": 0,
+          "free_from_eur": null,
+          "stock": "in_stock",
+          "checked_at": "2026-11-26T18:38:15.465Z",
+          "shop_sku": "21920308",
+          "shipping_source": "https://www.petsondemand.nl/gps-tracker-kat"
+        }
+      ],
+      "cost_basis": "Aanschaf inclusief tien jaar mobiel dataverkeer bij de fabrikant. Optionele halsband en stroom voor het opladen vallen buiten het totaal.",
+      "segment": "tech",
+      "revised": "2026-11-26"
     }
   ]
 }

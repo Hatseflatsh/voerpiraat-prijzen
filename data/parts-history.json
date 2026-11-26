@@ -1,0 +1,544 @@
+{
+  "catit-pixi-fonteinfilters": [
+    {
+      "key": "[\"Pets Place\",\"30002509\",3,3,\"filter\"]",
+      "shop": "Pets Place",
+      "url": "https://www.petsplace.nl/catit-pixi-fountain-filter-cartridge-kattendrinkbak-m-022517437216-pps?special_calc=12835",
+      "units": 3,
+      "measure": 3,
+      "unit": "filter",
+      "pack_label": "3 filters",
+      "points": [
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:18:31.000Z",
+          "price_eur": 8.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:33:02.921Z",
+          "price_eur": 8.99,
+          "delivered_eur": 13.98,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:39:38.923Z",
+          "price_eur": 8.99,
+          "delivered_eur": 13.98,
+          "stock": "in_stock"
+        }
+      ],
+      "gtin": "022517437216",
+      "shop_sku": "30002509"
+    },
+    {
+      "key": "[\"Pets Place\",\"30002510\",6,6,\"filter\"]",
+      "shop": "Pets Place",
+      "url": "https://www.petsplace.nl/catit-pixi-fountain-filter-cartridge-kattendrinkbak-m-022517437216-pps?special_calc=12838",
+      "units": 6,
+      "measure": 6,
+      "unit": "filter",
+      "pack_label": "6 filters",
+      "points": [
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:18:31.000Z",
+          "price_eur": 16.19,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:33:02.921Z",
+          "price_eur": 16.19,
+          "delivered_eur": 21.18,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:39:38.923Z",
+          "price_eur": 16.19,
+          "delivered_eur": 21.18,
+          "stock": "in_stock"
+        }
+      ],
+      "gtin": "022517437223",
+      "shop_sku": "30002510"
+    }
+  ],
+  "petkit-fountain-cube-c": [
+    {
+      "key": "[\"Proshop\",\"3519540\",3,3,\"cube\"]",
+      "shop": "Proshop",
+      "url": "https://www.proshop.nl/Katten/Petkit-Fountain-Cube-3-stuks-voor-Eversweet-Ultra/3519540",
+      "units": 3,
+      "measure": 3,
+      "unit": "cube",
+      "pack_label": "3 cubes",
+      "points": [
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:19:29.000Z",
+          "price_eur": 39.85,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        }
+      ],
+      "gtin": "6975069309071",
+      "shop_sku": "3519540"
+    },
+    {
+      "key": "[\"PETKIT Europe\",\"48532562313451\",5,5,\"cube\"]",
+      "shop": "PETKIT Europe",
+      "url": "https://www.petkit-eu.com/products/fountain-cube-c?variant=48532562313451",
+      "units": 5,
+      "measure": 5,
+      "unit": "cube",
+      "pack_label": "5 cubes",
+      "points": [
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:20:44.000Z",
+          "price_eur": 25.9,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:33:01.437Z",
+          "price_eur": 25.9,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:39:39.316Z",
+          "price_eur": 25.9,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        }
+      ],
+      "shop_sku": "48532562313451"
+    },
+    {
+      "key": "[\"PETKIT Europe\",\"48531627311339\",3,3,\"cube\"]",
+      "shop": "PETKIT Europe",
+      "url": "https://www.petkit-eu.com/products/fountain-cube-c?variant=48531627311339",
+      "units": 3,
+      "measure": 3,
+      "unit": "cube",
+      "pack_label": "3 cubes",
+      "points": [
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:20:44.000Z",
+          "price_eur": 15.9,
+          "delivered_eur": null,
+          "stock": "out_of_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:33:01.437Z",
+          "price_eur": 15.9,
+          "delivered_eur": null,
+          "stock": "out_of_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:39:39.316Z",
+          "price_eur": 15.9,
+          "delivered_eur": null,
+          "stock": "out_of_stock"
+        }
+      ],
+      "shop_sku": "48531627311339"
+    }
+  ],
+  "catlink-pro-x-afvalzakken": [
+    {
+      "key": "[\"SB Supply\",\"SBZ863\",40,40,\"zak\"]",
+      "shop": "SB Supply",
+      "url": "https://www.sbsupply.nl/catlink-trash-bags-afvalzakken-scooper-pro-x",
+      "units": 40,
+      "measure": 40,
+      "unit": "zak",
+      "pack_label": "40 zakken",
+      "points": [
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:19:31.000Z",
+          "price_eur": 19.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:33:02.930Z",
+          "price_eur": 19.99,
+          "delivered_eur": 23.98,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:39:40.334Z",
+          "price_eur": 19.99,
+          "delivered_eur": 23.98,
+          "stock": "in_stock"
+        }
+      ],
+      "gtin": "6972884750002",
+      "shop_sku": "SBZ863"
+    },
+    {
+      "key": "[\"CATLINK EU\",\"55594829316483\",80,80,\"zak\"]",
+      "shop": "CATLINK EU",
+      "url": "https://catlinkeu.com/nl/products/catlink-pro-young-afval-zakken-4-rol-set-20-zakken-per-rol?variant=55594829316483",
+      "units": 80,
+      "measure": 80,
+      "unit": "zak",
+      "pack_label": "80 zakken",
+      "points": [
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:20:44.000Z",
+          "price_eur": 24.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:33:03.097Z",
+          "price_eur": 24.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:39:41.016Z",
+          "price_eur": 24.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        }
+      ],
+      "gtin": "6972884750002",
+      "shop_sku": "55594829316483"
+    }
+  ],
+  "whisker-waste-drawer-liners": [
+    {
+      "key": "[\"Medpets\",\"MP48912\",50,50,\"zak\"]",
+      "shop": "Medpets",
+      "url": "https://www.medpets.nl/litter-robot-waste-drawer-liners?sku=MP48912",
+      "units": 50,
+      "measure": 50,
+      "unit": "zak",
+      "pack_label": "50 zakken",
+      "points": [
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:18:30.000Z",
+          "price_eur": 49.5,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:33:03.787Z",
+          "price_eur": 49.5,
+          "delivered_eur": 54.45,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:39:41.191Z",
+          "price_eur": 49.5,
+          "delivered_eur": 54.45,
+          "stock": "in_stock"
+        }
+      ],
+      "gtin": "0810157860651",
+      "shop_sku": "MP48912"
+    }
+  ],
+  "petkit-5-in-1-kattenbakvulling": [
+    {
+      "key": "[\"Medpets\",\"MP43203\",1,3.6,\"kg\"]",
+      "shop": "Medpets",
+      "url": "https://www.medpets.nl/petkit-5-1-mixed-cat-litter?sku=MP43203",
+      "units": 1,
+      "measure": 3.6,
+      "unit": "kg",
+      "pack_label": "1 zak van 3,6 kg",
+      "points": [
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:18:30.000Z",
+          "price_eur": 10.7,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:33:04.510Z",
+          "price_eur": 10.7,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:39:41.935Z",
+          "price_eur": 10.7,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        }
+      ],
+      "gtin": "6973293800630",
+      "shop_sku": "MP43203"
+    },
+    {
+      "key": "[\"PETKIT Nederland\",\"51021936230738\",1,3.6,\"kg\"]",
+      "shop": "PETKIT Nederland",
+      "url": "https://petkit.co.nl/products/petkit-5-in-1-gemengde-kattenbakvulling-1-zak?variant=51021936230738",
+      "units": 1,
+      "measure": 3.6,
+      "unit": "kg",
+      "pack_label": "1 zak van 3,6 kg",
+      "points": [
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:20:43.000Z",
+          "price_eur": 12.5,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:33:05.909Z",
+          "price_eur": 12.5,
+          "delivered_eur": 20.45,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:39:43.229Z",
+          "price_eur": 12.5,
+          "delivered_eur": 20.45,
+          "stock": "in_stock"
+        }
+      ],
+      "gtin": "6973293800630",
+      "shop_sku": "51021936230738"
+    }
+  ],
+  "catlink-mixed-cat-litter": [
+    {
+      "key": "[\"CATLINK EU\",\"56724851917187\",1,1,\"zak\"]",
+      "shop": "CATLINK EU",
+      "url": "https://catlinkeu.com/nl/products/a-mixed-cat-litter?variant=56724851917187",
+      "units": 1,
+      "measure": 1,
+      "unit": "zak",
+      "pack_label": "1 zak",
+      "points": [
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:20:44.000Z",
+          "price_eur": 24.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:33:04.819Z",
+          "price_eur": 24.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:39:42.392Z",
+          "price_eur": 24.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        }
+      ],
+      "gtin": "6972884750934",
+      "shop_sku": "56724851917187"
+    },
+    {
+      "key": "[\"CATLINK EU\",\"56724851949955\",2,2,\"zak\"]",
+      "shop": "CATLINK EU",
+      "url": "https://catlinkeu.com/nl/products/a-mixed-cat-litter?variant=56724851949955",
+      "units": 2,
+      "measure": 2,
+      "unit": "zak",
+      "pack_label": "2 zakken",
+      "points": [
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:20:44.000Z",
+          "price_eur": 28.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:33:04.819Z",
+          "price_eur": 28.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:39:42.392Z",
+          "price_eur": 28.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        }
+      ],
+      "shop_sku": "56724851949955"
+    }
+  ],
+  "surefeed-rvs-voerbakjes": [
+    {
+      "key": "[\"Kattenluiken.nl\",\"SF39462\",2,2,\"kom\"]",
+      "shop": "Kattenluiken.nl",
+      "url": "https://www.kattenluiken.nl/rvs-bakjes-geschikt-voor-surefeed-voerbakken.html",
+      "units": 2,
+      "measure": 2,
+      "unit": "kom",
+      "pack_label": "2 RVS-kommen",
+      "points": [
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:19:29.000Z",
+          "price_eur": 34.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:33:06.030Z",
+          "price_eur": 34.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:39:43.444Z",
+          "price_eur": 34.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        }
+      ],
+      "gtin": "5060180394622",
+      "shop_sku": "SF39462"
+    },
+    {
+      "key": "[\"Pets Place\",\"30098184\",2,2,\"kom\"]",
+      "shop": "Pets Place",
+      "url": "https://www.petsplace.nl/surefeed-roestvrijstalen-bakje-kattenvoerbak-5060180394622-pps",
+      "units": 2,
+      "measure": 2,
+      "unit": "kom",
+      "pack_label": "2 RVS-kommen",
+      "points": [
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:18:31.000Z",
+          "price_eur": 29.99,
+          "delivered_eur": null,
+          "stock": "out_of_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:33:04.989Z",
+          "price_eur": 29.99,
+          "delivered_eur": 34.98,
+          "stock": "out_of_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:39:40.901Z",
+          "price_eur": 29.99,
+          "delivered_eur": 34.98,
+          "stock": "out_of_stock"
+        }
+      ],
+      "gtin": "5060180394622",
+      "shop_sku": "30098184"
+    }
+  ],
+  "surefeed-halve-voerbakjes-roze": [
+    {
+      "key": "[\"Pets Place\",\"10046760\",2,2,\"half bakje\"]",
+      "shop": "Pets Place",
+      "url": "https://www.petsplace.nl/surefeed-set-a-2-halve-bakjes-voor-microchip-voerbak-connect-kattenvoerbak-m-5060180393335-pps?color_calc=10706",
+      "units": 2,
+      "measure": 2,
+      "unit": "half bakje",
+      "pack_label": "2 halve kommen, roze",
+      "points": [
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:20:46.000Z",
+          "price_eur": 12.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:33:07.434Z",
+          "price_eur": 12.99,
+          "delivered_eur": 17.98,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:39:43.293Z",
+          "price_eur": 12.99,
+          "delivered_eur": 17.98,
+          "stock": "in_stock"
+        }
+      ],
+      "gtin": "5060180393359",
+      "shop_sku": "10046760"
+    },
+    {
+      "key": "[\"Medpets\",\"MP41845\",4,4,\"half bakje\"]",
+      "shop": "Medpets",
+      "url": "https://www.medpets.nl/surefeed-voerbak-half?sku=MP41845",
+      "units": 4,
+      "measure": 4,
+      "unit": "half bakje",
+      "pack_label": "4 halve kommen, roze",
+      "points": [
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:18:30.000Z",
+          "price_eur": 16.3,
+          "delivered_eur": null,
+          "stock": "out_of_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:33:05.278Z",
+          "price_eur": 16.3,
+          "delivered_eur": 21.25,
+          "stock": "out_of_stock"
+        },
+        {
+          "day": "2026-11-26",
+          "checked_at": "2026-11-26T18:39:42.662Z",
+          "price_eur": 16.3,
+          "delivered_eur": 21.25,
+          "stock": "out_of_stock"
+        }
+      ],
+      "shop_sku": "MP41845"
+    }
+  ]
+}

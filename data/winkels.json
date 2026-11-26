@@ -625,5 +625,21 @@
     "offer_model": "Yarrah Bio Organic Paté Rund en Kip · andere receptuur",
     "offer_url": "https://www.welkoop.nl/yarrah-biologisch-kattenvoer-rund-kip-100gram_1208566",
     "checked_at": "2026-11-26"
+  },
+  "Pets on Demand": {
+    "url": "https://www.petsondemand.nl/",
+    "about": "Pets on Demand verkoopt GPS-trackers en bijpassende halsbanden voor honden en katten. Bij de GPS PRO Mini is tien jaar mobiel dataverkeer inbegrepen.",
+    "seller_type": "merkshop",
+    "delivery_url": "https://www.petsondemand.nl/gps-tracker-kat",
+    "shipping_note": "De tracker wordt binnen Nederland gratis verzonden. De winkel berekent de verzendkosten voor het buitenland afzonderlijk.",
+    "shipping_eur": 0,
+    "free_from_eur": null,
+    "returns_url": "https://www.petsondemand.nl/over-ons/retouren",
+    "returns_note": "De winkel vraagt je de retour per e-mail aan te melden. Je ontvangt een retournummer voor het pakket.",
+    "return_days": 14,
+    "service_url": "https://www.petsondemand.nl/over-ons/contact",
+    "offer_model": "GPS PRO Mini",
+    "offer_url": "https://www.petsondemand.nl/product/21920308/gps-pro-mini",
+    "checked_at": "2026-11-26"
   }
 }

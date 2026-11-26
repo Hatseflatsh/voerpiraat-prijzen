@@ -1,0 +1,573 @@
+[
+  {
+    "slug": "catit-pixi-fonteinfilters",
+    "name": "Catit PIXI-fonteinfilters",
+    "brand": "Catit",
+    "category": "Fonteinfilters",
+    "unit": "filter",
+    "plural": "filters",
+    "description": "De drievoudige vervangfilters passen in de PIXI-drinkfonteinen. Het aantal filters in de doos bepaalt hoeveel afzonderlijke vervangingen je ermee kunt uitvoeren.",
+    "note": "Catit adviseert iedere 30 dagen één filter te wisselen. Het merk noemt verpakkingen van 3, 6 en 12 filters. Voor de eerste twee maten is hier een winkelprijs vastgelegd.",
+    "interval_days": 30,
+    "devices": [
+      {
+        "slug": "catit-pixi-smart-drinkfontein",
+        "name": "Catit PIXI Smart Drinkfontein"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.catit.com/nl/producten/drinkfonteinen/pixi-fonteinfilters/",
+        "label": "Catit · onderdeel en compatibiliteit"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Pets Place",
+        "url": "https://www.petsplace.nl/catit-pixi-fountain-filter-cartridge-kattendrinkbak-m-022517437216-pps?special_calc=12835",
+        "pack": 3,
+        "measure": 3,
+        "pack_label": "3 filters",
+        "price_eur": 8.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:39:38.923Z",
+        "min_order_eur": 0,
+        "shipping_eur": 4.99,
+        "free_from_eur": 39,
+        "shipping_source": "https://www.petsplace.nl/bezorgen",
+        "match": {
+          "adapter": "petsplace",
+          "label": "3 stuks",
+          "gtin": "022517437216",
+          "sku": "30002509"
+        }
+      },
+      {
+        "shop": "Pets Place",
+        "url": "https://www.petsplace.nl/catit-pixi-fountain-filter-cartridge-kattendrinkbak-m-022517437216-pps?special_calc=12838",
+        "pack": 6,
+        "measure": 6,
+        "pack_label": "6 filters",
+        "price_eur": 16.19,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:39:38.923Z",
+        "min_order_eur": 0,
+        "shipping_eur": 4.99,
+        "free_from_eur": 39,
+        "shipping_source": "https://www.petsplace.nl/bezorgen",
+        "match": {
+          "adapter": "petsplace",
+          "label": "6 stuks",
+          "gtin": "022517437223",
+          "sku": "30002510"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "petkit-fountain-cube-c",
+    "name": "PETKIT Fountain Cube C",
+    "brand": "PETKIT",
+    "category": "Fonteinfilters",
+    "unit": "cube",
+    "plural": "cubes",
+    "description": "De Cube C zit bij de wateruitlaat van de EverSweet Ultra. De fabrikant beschrijft actieve kool uit kokosnootschil en levert één cube mee bij het apparaat.",
+    "note": "PETKIT adviseert om de cube na 30 dagen te vervangen. Dit is optioneel. Er moet wel altijd een cube in de wateruitlaat geplaatst zijn.",
+    "interval_days": 30,
+    "devices": [
+      {
+        "slug": "petkit-eversweet-ultra",
+        "name": "PETKIT EverSweet Ultra wit"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.petkit-eu.com/products/fountain-cube-c",
+        "label": "PETKIT Europe · onderdeel en compatibiliteit"
+      },
+      {
+        "url": "https://petkit.co.nl/products/eversweet-ultra-ai-health-care-drinkfontein-wit",
+        "label": "PETKIT Nederland · onderdeel en compatibiliteit"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Proshop",
+        "url": "https://www.proshop.nl/Katten/Petkit-Fountain-Cube-3-stuks-voor-Eversweet-Ultra/3519540",
+        "pack": 3,
+        "measure": 3,
+        "pack_label": "3 cubes",
+        "price_eur": 39.85,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:19:29+00:00",
+        "min_order_eur": 0,
+        "shipping_eur": 4.99,
+        "free_from_eur": null,
+        "shipping_source": "https://www.proshop.nl/Katten/Petkit-Fountain-Cube-3-stuks-voor-Eversweet-Ultra/3519540",
+        "match": {
+          "adapter": "single",
+          "label": "3 stuks",
+          "gtin": "6975069309071",
+          "sku": "3519540"
+        },
+        "shipping_single_only": true,
+        "shipping_floor": true
+      },
+      {
+        "shop": "PETKIT Europe",
+        "url": "https://www.petkit-eu.com/products/fountain-cube-c?variant=48532562313451",
+        "pack": 5,
+        "measure": 5,
+        "pack_label": "5 cubes",
+        "price_eur": 25.9,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:39:39.316Z",
+        "min_order_eur": 0,
+        "shipping_eur": null,
+        "free_from_eur": null,
+        "shipping_source": null,
+        "match": {
+          "adapter": "shopify",
+          "label": "1 Pack (5 pcs)",
+          "variant": "48532562313451"
+        }
+      },
+      {
+        "shop": "PETKIT Europe",
+        "url": "https://www.petkit-eu.com/products/fountain-cube-c?variant=48531627311339",
+        "pack": 3,
+        "measure": 3,
+        "pack_label": "3 cubes",
+        "price_eur": 15.9,
+        "stock": "out_of_stock",
+        "checked_at": "2026-11-26T18:39:39.316Z",
+        "min_order_eur": 0,
+        "shipping_eur": null,
+        "free_from_eur": null,
+        "shipping_source": null,
+        "match": {
+          "adapter": "shopify",
+          "label": "1 Pack (3 pcs)",
+          "variant": "48531627311339"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "catlink-pro-x-afvalzakken",
+    "name": "CATLINK Pro-X afvalzakken",
+    "brand": "CATLINK",
+    "category": "Afvalladezakken",
+    "unit": "zak",
+    "plural": "zakken",
+    "description": "Deze afvalladezakken passen in de Scooper Pro-X Luxury en Ultra. SB Supply biedt 40 zakken aan. De geselecteerde merkverpakking bevat vier rollen van twintig.",
+    "note": "Beide winkelverpakkingen dragen hetzelfde barcodeveld. Controleer daarom ook het aantal rollen en de winkelvariant. Je gebruikt één zak per keer dat je de lade opnieuw bekleedt.",
+    "interval_days": null,
+    "devices": [
+      {
+        "slug": "catlink-scooper-luxury-pro-x",
+        "name": "CATLINK Scooper Luxury Pro-X"
+      },
+      {
+        "slug": "catlink-scooper-pro-x-ultra",
+        "name": "CATLINK Scooper Pro-X Ultra"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://catlinkeu.com/nl/products/catlink-pro-young-afval-zakken-4-rol-set-20-zakken-per-rol",
+        "label": "CATLINK EU · onderdeel en compatibiliteit"
+      },
+      {
+        "url": "https://www.sbsupply.nl/catlink-trash-bags-afvalzakken-scooper-pro-x",
+        "label": "SB Supply · onderdeel en compatibiliteit"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "SB Supply",
+        "url": "https://www.sbsupply.nl/catlink-trash-bags-afvalzakken-scooper-pro-x",
+        "pack": 40,
+        "measure": 40,
+        "pack_label": "40 zakken",
+        "price_eur": 19.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:39:40.334Z",
+        "min_order_eur": 0,
+        "shipping_eur": 3.99,
+        "free_from_eur": 49.01,
+        "shipping_source": "https://www.sbsupply.nl/klantenservice",
+        "match": {
+          "adapter": "single",
+          "label": "40 stuks",
+          "gtin": "6972884750002",
+          "sku": "SBZ863"
+        },
+        "shipping_unknown_at_eur": 49
+      },
+      {
+        "shop": "CATLINK EU",
+        "url": "https://catlinkeu.com/nl/products/catlink-pro-young-afval-zakken-4-rol-set-20-zakken-per-rol?variant=55594829316483",
+        "pack": 80,
+        "measure": 80,
+        "pack_label": "80 zakken",
+        "price_eur": 24.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:39:41.016Z",
+        "min_order_eur": 0,
+        "shipping_eur": null,
+        "free_from_eur": null,
+        "shipping_source": "https://catlinkeu.com/nl/policies/shipping-policy",
+        "match": {
+          "adapter": "shopify",
+          "label": "2 verpakkingen (4 rollen)",
+          "gtin": "6972884750002",
+          "variant": "55594829316483"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "whisker-waste-drawer-liners",
+    "name": "Whisker Waste Drawer Liners",
+    "brand": "Whisker",
+    "category": "Afvalladezakken",
+    "unit": "zak",
+    "plural": "zakken",
+    "description": "Deze zakken bekleden de afvallade van de Litter-Robot. De prijs in dit dossier hoort bij het Medpets-pak met vijftig stuks.",
+    "note": "Bij iedere volledige zakwissel gebruik je één nieuwe zak. Hoe vaak de lade vol raakt, hangt onder meer af van het aantal katten. Geef in de rekenhulp jouw aantal wissels op.",
+    "interval_days": null,
+    "devices": [
+      {
+        "slug": "whisker-litter-robot-4",
+        "name": "Whisker Litter-Robot 4"
+      },
+      {
+        "slug": "whisker-litter-robot-5",
+        "name": "Whisker Litter-Robot 5"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.litter-robot.com/eu/support/article/litter-robot-5-use-and-care",
+        "label": "Whisker EU · afvallade van de Litter-Robot 5"
+      },
+      {
+        "url": "https://www.litter-robot.com/eu/litter-robot-waste-drawer-liners.html",
+        "label": "Whisker EU · onderdeel en compatibiliteit"
+      },
+      {
+        "url": "https://www.medpets.nl/litter-robot-waste-drawer-liners?sku=MP48912",
+        "label": "Medpets · onderdeel en compatibiliteit"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Medpets",
+        "url": "https://www.medpets.nl/litter-robot-waste-drawer-liners?sku=MP48912",
+        "pack": 50,
+        "measure": 50,
+        "pack_label": "50 zakken",
+        "price_eur": 49.5,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:39:41.191Z",
+        "min_order_eur": 14.95,
+        "shipping_eur": 4.95,
+        "free_from_eur": 69,
+        "shipping_source": "https://www.medpets.nl/klantenservice/verzending-bezorging?option=verzendkosten",
+        "match": {
+          "adapter": "medpets",
+          "label": "Litter-Robot Waste Drawer Liners - 50 stuks",
+          "gtin": "0810157860651",
+          "sku": "MP48912"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "petkit-5-in-1-kattenbakvulling",
+    "name": "PETKIT 5-in-1 kattenbakvulling",
+    "brand": "PETKIT",
+    "category": "Kattenbakvulling",
+    "unit": "kg",
+    "plural": "kg",
+    "description": "Dezelfde zak van 3,6 kg is bij twee winkels geïdentificeerd. Het mengsel bevat onder meer erwtenvezel, maïszetmeel en bentoniet. Medpets noemt de Pura Max 2 en Purobot Ultra.",
+    "note": "Vergelijk op nettogewicht. De aankoophoeveelheid wordt naar hele zakken afgerond. Bij Medpets telt de minimale artikelwaarde van de bestelling mee.",
+    "interval_days": null,
+    "devices": [
+      {
+        "slug": "petkit-pura-max-2-premium",
+        "name": "PETKIT Pura Max 2 Premium"
+      },
+      {
+        "slug": "petkit-purobot-ultra",
+        "name": "PETKIT Purobot Ultra"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://petkit.co.nl/products/petkit-5-in-1-gemengde-kattenbakvulling-1-zak",
+        "label": "PETKIT Nederland · onderdeel en compatibiliteit"
+      },
+      {
+        "url": "https://www.medpets.nl/petkit-5-1-mixed-cat-litter?sku=MP43203",
+        "label": "Medpets · onderdeel en compatibiliteit"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Medpets",
+        "url": "https://www.medpets.nl/petkit-5-1-mixed-cat-litter?sku=MP43203",
+        "pack": 1,
+        "measure": 3.6,
+        "pack_label": "1 zak van 3,6 kg",
+        "price_eur": 10.7,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:39:41.935Z",
+        "min_order_eur": 14.95,
+        "shipping_eur": 4.95,
+        "free_from_eur": 69,
+        "shipping_source": "https://www.medpets.nl/klantenservice/verzending-bezorging?option=verzendkosten",
+        "match": {
+          "adapter": "medpets",
+          "label": "PETKIT 5 in 1 Mixed Cat Litter - 3,6 kg",
+          "gtin": "6973293800630",
+          "sku": "MP43203"
+        }
+      },
+      {
+        "shop": "PETKIT Nederland",
+        "url": "https://petkit.co.nl/products/petkit-5-in-1-gemengde-kattenbakvulling-1-zak?variant=51021936230738",
+        "pack": 1,
+        "measure": 3.6,
+        "pack_label": "1 zak van 3,6 kg",
+        "price_eur": 12.5,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:39:43.229Z",
+        "min_order_eur": 0,
+        "shipping_eur": 7.95,
+        "free_from_eur": 50,
+        "shipping_source": "https://petkit.co.nl/policies/shipping-policy",
+        "match": {
+          "adapter": "shopify",
+          "label": "Default Title",
+          "gtin": "6973293800630",
+          "variant": "51021936230738"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "catlink-mixed-cat-litter",
+    "name": "CATLINK Mixed Cat Litter",
+    "brand": "CATLINK",
+    "category": "Kattenbakvulling",
+    "unit": "zak",
+    "plural": "zakken",
+    "description": "CATLINK vermeldt deze gemengde kattenbakvulling voor de Scooper-serie. De merkshop verkoopt onder andere één en twee zakken per besteloptie.",
+    "note": "Gebruik de voor jouw model beschreven zeef en reinigingsstand. De ontvangen winkelgegevens geven geen bevestigd nettogewicht per zak. Daarom rekenen we in hele zakken. De Nederlandse bezorgkosten hangen af van het verzendgewicht.",
+    "interval_days": null,
+    "devices": [
+      {
+        "slug": "catlink-scooper-luxury-pro-x",
+        "name": "CATLINK Scooper Luxury Pro-X"
+      },
+      {
+        "slug": "catlink-scooper-pro-x-ultra",
+        "name": "CATLINK Scooper Pro-X Ultra"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://catlinkeu.com/nl/products/a-mixed-cat-litter",
+        "label": "CATLINK EU · onderdeel en compatibiliteit"
+      },
+      {
+        "url": "https://catlinkeu.com/nl/policies/shipping-policy",
+        "label": "CATLINK EU · verzendtarieven per land en gewicht"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "CATLINK EU",
+        "url": "https://catlinkeu.com/nl/products/a-mixed-cat-litter?variant=56724851917187",
+        "pack": 1,
+        "measure": 1,
+        "pack_label": "1 zak",
+        "price_eur": 24.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:39:42.392Z",
+        "min_order_eur": 0,
+        "shipping_eur": null,
+        "free_from_eur": null,
+        "shipping_source": "https://catlinkeu.com/nl/policies/shipping-policy",
+        "match": {
+          "adapter": "shopify",
+          "label": "1 zak",
+          "gtin": "6972884750934",
+          "variant": "56724851917187"
+        }
+      },
+      {
+        "shop": "CATLINK EU",
+        "url": "https://catlinkeu.com/nl/products/a-mixed-cat-litter?variant=56724851949955",
+        "pack": 2,
+        "measure": 2,
+        "pack_label": "2 zakken",
+        "price_eur": 28.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:39:42.392Z",
+        "min_order_eur": 0,
+        "shipping_eur": null,
+        "free_from_eur": null,
+        "shipping_source": "https://catlinkeu.com/nl/policies/shipping-policy",
+        "match": {
+          "adapter": "shopify",
+          "label": "2 zakken",
+          "variant": "56724851949955"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "surefeed-rvs-voerbakjes",
+    "name": "SureFeed RVS-voerbakjes",
+    "brand": "Sure Petcare",
+    "category": "Voerbakonderdelen",
+    "unit": "kom",
+    "plural": "kommen",
+    "description": "Deze set bestaat uit twee roestvrijstalen kommen. Sure Petcare vermeldt dat de RVS-kom zowel bij de gewone SureFeed Microchip Voerbak als bij de Connect past.",
+    "note": "Je koopt een kom als extra bakje of ter vervanging. Er is geen vaste vervangtermijn. Het aantal bij de winkel is het aantal volledige kommen in de set.",
+    "interval_days": null,
+    "devices": [
+      {
+        "slug": "surefeed-microchip-voerbak",
+        "name": "Sure Petcare SureFeed Microchip Voerbak"
+      },
+      {
+        "slug": "surefeed-microchip-voerbak-connect",
+        "name": "Sure Petcare SureFeed Microchip Voerbak Connect"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.surepetcare.com/nl-nl/accessoires/voerbakken",
+        "label": "Sure Petcare · onderdeel en compatibiliteit"
+      },
+      {
+        "url": "https://www.kattenluiken.nl/rvs-bakjes-geschikt-voor-surefeed-voerbakken.html",
+        "label": "Kattenluiken.nl · onderdeel en compatibiliteit"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Kattenluiken.nl",
+        "url": "https://www.kattenluiken.nl/rvs-bakjes-geschikt-voor-surefeed-voerbakken.html",
+        "pack": 2,
+        "measure": 2,
+        "pack_label": "2 RVS-kommen",
+        "price_eur": 34.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:39:43.444Z",
+        "min_order_eur": 0,
+        "shipping_eur": null,
+        "free_from_eur": 40,
+        "shipping_source": "https://www.kattenluiken.nl/rvs-bakjes-geschikt-voor-surefeed-voerbakken.html",
+        "match": {
+          "adapter": "single",
+          "label": "2 stuks",
+          "gtin": "5060180394622",
+          "sku": "SF39462"
+        }
+      },
+      {
+        "shop": "Pets Place",
+        "url": "https://www.petsplace.nl/surefeed-roestvrijstalen-bakje-kattenvoerbak-5060180394622-pps",
+        "pack": 2,
+        "measure": 2,
+        "pack_label": "2 RVS-kommen",
+        "price_eur": 29.99,
+        "stock": "out_of_stock",
+        "checked_at": "2026-11-26T18:39:40.901Z",
+        "min_order_eur": 0,
+        "shipping_eur": 4.99,
+        "free_from_eur": 39,
+        "shipping_source": "https://www.petsplace.nl/bezorgen",
+        "match": {
+          "adapter": "single",
+          "label": "SureFeed Roestvrijstalen Bakje",
+          "gtin": "5060180394622",
+          "sku": "30098184"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "surefeed-halve-voerbakjes-roze",
+    "name": "SureFeed halve voerbakjes roze",
+    "brand": "Sure Petcare",
+    "category": "Voerbakonderdelen",
+    "unit": "half bakje",
+    "plural": "halve bakjes",
+    "description": "De losse halve bakjes passen uitsluitend in de SureFeed Microchip Voerbak Connect. De fabrikant maakt een tweepak en een vierpak. In dit dossier vergelijk je de roze uitvoering.",
+    "note": "Twee halve bakjes kunnen tegelijk in de Connect worden gebruikt om twee soorten voer aan te bieden. Geef bij de berekening het aantal losse halve bakjes op.",
+    "interval_days": null,
+    "devices": [
+      {
+        "slug": "surefeed-microchip-voerbak-connect",
+        "name": "Sure Petcare SureFeed Microchip Voerbak Connect"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.surepetcare.com/nl-nl/accessoires/voerbakken",
+        "label": "Sure Petcare · onderdeel en compatibiliteit"
+      },
+      {
+        "url": "https://www.petsplace.nl/surefeed-set-a-2-halve-bakjes-voor-microchip-voerbak-connect-kattenvoerbak-m-5060180393335-pps?color_calc=10706",
+        "label": "Pets Place · onderdeel en compatibiliteit"
+      }
+    ],
+    "offers": [
+      {
+        "shop": "Pets Place",
+        "url": "https://www.petsplace.nl/surefeed-set-a-2-halve-bakjes-voor-microchip-voerbak-connect-kattenvoerbak-m-5060180393335-pps?color_calc=10706",
+        "pack": 2,
+        "measure": 2,
+        "pack_label": "2 halve kommen, roze",
+        "price_eur": 12.99,
+        "stock": "in_stock",
+        "checked_at": "2026-11-26T18:39:43.293Z",
+        "min_order_eur": 0,
+        "shipping_eur": 4.99,
+        "free_from_eur": 39,
+        "shipping_source": "https://www.petsplace.nl/bezorgen",
+        "match": {
+          "adapter": "petsplace",
+          "label": "Pink",
+          "gtin": "5060180393359",
+          "sku": "10046760"
+        }
+      },
+      {
+        "shop": "Medpets",
+        "url": "https://www.medpets.nl/surefeed-voerbak-half?sku=MP41845",
+        "pack": 4,
+        "measure": 4,
+        "pack_label": "4 halve kommen, roze",
+        "price_eur": 16.3,
+        "stock": "out_of_stock",
+        "checked_at": "2026-11-26T18:39:42.662Z",
+        "min_order_eur": 14.95,
+        "shipping_eur": 4.95,
+        "free_from_eur": 69,
+        "shipping_source": "https://www.medpets.nl/klantenservice/verzending-bezorging?option=verzendkosten",
+        "match": {
+          "adapter": "medpets",
+          "label": "SureFeed Voerbak half - 4x - Roze",
+          "sku": "MP41845"
+        }
+      }
+    ]
+  }
+]

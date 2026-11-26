@@ -40,6 +40,8 @@ jobs:
             git checkout --detach FETCH_HEAD
             if [[ -f package.json ]]; then npm ci; fi
             node scripts/refresh-prices.mjs
+            node scripts/refresh-expansion-devices.mjs
+            node scripts/refresh-parts.mjs
             node scripts/refresh-deals.mjs
             node scripts/apply-published-delivery.mjs
             node scripts/record-prices.mjs
@@ -53,7 +55,7 @@ jobs:
             fi
             shopt -s nullglob
             paths=(data/products.json data/price-history*.json)
-            for optional in data/promotions.json data/price-archive public/history; do
+            for optional in data/parts-expansion.json data/parts-history.json data/promotions.json data/price-archive public/history; do
               if [[ -e "$optional" ]] || [[ -n "$(git ls-files -- "$optional")" ]]; then paths+=("$optional"); fi
             done
             git add -A -- "${paths[@]}"
