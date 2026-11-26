@@ -6715,7 +6715,18 @@
           "shipping_eur": 0,
           "free_from_eur": 39,
           "stock": "in_stock",
-          "checked_at": "2026-11-26T15:21:49Z"
+          "checked_at": "2026-11-26T15:21:49Z",
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "analysis_bounds": {
@@ -10117,7 +10128,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:50:44+01:00",
           "shop_sku": "341342",
-          "gtin": "7613035417045"
+          "gtin": "7613035417045",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -10184,7 +10205,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:50:43+01:00",
           "shop_sku": "335019",
-          "gtin": "7613035114890"
+          "gtin": "7613035114890",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -10249,7 +10280,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:50:45+01:00",
           "shop_sku": "10032220",
-          "gtin": "7613036529150"
+          "gtin": "7613036529150",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -10315,7 +10356,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:50:46+01:00",
           "shop_sku": "340054",
-          "gtin": "7613035214798"
+          "gtin": "7613035214798",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -10329,7 +10380,17 @@
           "checked_at": "2026-11-26T17:57:45+01:00",
           "shop_sku": "340053",
           "gtin": "7613035214774",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -10392,7 +10453,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:50:49+01:00",
           "shop_sku": "10044134",
-          "gtin": "8710255150543"
+          "gtin": "8710255150543",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -10458,7 +10529,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:50:54+01:00",
           "shop_sku": "338666",
-          "gtin": "7613035610958"
+          "gtin": "7613035610958",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -10472,7 +10553,17 @@
           "checked_at": "2026-11-26T17:57:44+01:00",
           "shop_sku": "30021863",
           "gtin": "7613035608047",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -10538,7 +10629,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:52:09+01:00",
           "shop_sku": "335043",
-          "gtin": "7613035122796"
+          "gtin": "7613035122796",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -10602,7 +10703,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:52:13+01:00",
           "shop_sku": "338655",
-          "gtin": "7613035610743"
+          "gtin": "7613035610743",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -10668,7 +10779,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:52:13+01:00",
           "shop_sku": "10032214",
-          "gtin": "7613036505208"
+          "gtin": "7613036505208",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -10729,7 +10850,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:52:16+01:00",
           "shop_sku": "30006064",
-          "gtin": "5000161032457"
+          "gtin": "5000161032457",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -10793,7 +10924,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:52:17+01:00",
           "shop_sku": "30012528",
-          "gtin": "7613039850633"
+          "gtin": "7613039850633",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -10856,7 +10997,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:52:15+01:00",
           "shop_sku": "30012515",
-          "gtin": "7613039850909"
+          "gtin": "7613039850909",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -10922,7 +11073,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:52:18+01:00",
           "shop_sku": "30018239",
-          "gtin": "4008429134869"
+          "gtin": "4008429134869",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -10985,7 +11146,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:52:18+01:00",
           "shop_sku": "10000232",
-          "gtin": "5060122490047"
+          "gtin": "5060122490047",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -11048,7 +11219,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:52:18+01:00",
           "shop_sku": "10000250",
-          "gtin": "5060122490078"
+          "gtin": "5060122490078",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -11110,7 +11291,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:52:19+01:00",
           "shop_sku": "30018236",
-          "gtin": "8853301003506"
+          "gtin": "8853301003506",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -11172,7 +11363,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:52:20+01:00",
           "shop_sku": "30021524",
-          "gtin": "5407009641091"
+          "gtin": "5407009641091",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -11231,7 +11432,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:52:20+01:00",
           "shop_sku": "30020317",
-          "gtin": "3222270889759"
+          "gtin": "3222270889759",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -11294,7 +11505,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:50:58+01:00",
           "shop_sku": "30025817",
-          "gtin": "3065890153660"
+          "gtin": "3065890153660",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -11358,7 +11579,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:50:53+01:00",
           "shop_sku": "30028491",
-          "gtin": "4008429159435"
+          "gtin": "4008429159435",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -11372,7 +11603,17 @@
           "checked_at": "2026-11-26T17:57:45+01:00",
           "shop_sku": "30028492",
           "gtin": "4008429159398",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -11435,7 +11676,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:50:55+01:00",
           "shop_sku": "30028499",
-          "gtin": "4008429159640"
+          "gtin": "4008429159640",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -11499,7 +11750,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:50:57+01:00",
           "shop_sku": "30028494",
-          "gtin": "4008429160318"
+          "gtin": "4008429160318",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -11513,7 +11774,17 @@
           "checked_at": "2026-11-26T17:57:45+01:00",
           "shop_sku": "30028498",
           "gtin": "4008429160356",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -11575,7 +11846,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:50:55+01:00",
           "shop_sku": "110465",
-          "gtin": "7613033568589"
+          "gtin": "7613033568589",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -11639,7 +11920,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:50:58+01:00",
           "shop_sku": "30035801",
-          "gtin": "8595602558698"
+          "gtin": "8595602558698",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -11653,7 +11944,17 @@
           "checked_at": "2026-11-26T17:57:45+01:00",
           "shop_sku": "30035834",
           "gtin": "8595602558681",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -11721,7 +12022,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:51:01+01:00",
           "shop_sku": "30007138",
-          "gtin": "8595602540808"
+          "gtin": "8595602540808",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -11735,7 +12046,17 @@
           "checked_at": "2026-11-26T17:57:45+01:00",
           "shop_sku": "30007088",
           "gtin": "8595602540785",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -11749,7 +12070,17 @@
           "checked_at": "2026-11-26T17:57:47+01:00",
           "shop_sku": "30007324",
           "gtin": "8595602540792",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -11815,7 +12146,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:50:59+01:00",
           "shop_sku": "30007180",
-          "gtin": "8595602540709"
+          "gtin": "8595602540709",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -11881,7 +12222,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:51:00+01:00",
           "shop_sku": "30007186",
-          "gtin": "8595602540860"
+          "gtin": "8595602540860",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -11895,7 +12246,17 @@
           "checked_at": "2026-11-26T17:57:47+01:00",
           "shop_sku": "30007285",
           "gtin": "8595602540846",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -11959,7 +12320,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:51:00+01:00",
           "shop_sku": "30082655",
-          "gtin": "5900951296512"
+          "gtin": "5900951296512",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -12022,7 +12393,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:51:01+01:00",
           "shop_sku": "30007189",
-          "gtin": "8595602537525"
+          "gtin": "8595602537525",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -12085,7 +12466,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:51:02+01:00",
           "shop_sku": "10022243",
-          "gtin": "5060122491389"
+          "gtin": "5060122491389",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -12147,7 +12538,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:51:01+01:00",
           "shop_sku": "30088932",
-          "gtin": "5900951315374"
+          "gtin": "5900951315374",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -12212,7 +12613,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:51:05+01:00",
           "shop_sku": "10022226",
-          "gtin": "5060122491402"
+          "gtin": "5060122491402",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -12276,7 +12687,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:51:05+01:00",
           "shop_sku": "10022233",
-          "gtin": "5060333439460"
+          "gtin": "5060333439460",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -12341,7 +12762,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:51:06+01:00",
           "shop_sku": "30099231",
-          "gtin": "5060184243322"
+          "gtin": "5060184243322",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -12404,7 +12835,17 @@
           "stock": "in_stock",
           "checked_at": "2026-11-26T17:51:09+01:00",
           "shop_sku": "30099228",
-          "gtin": "5060184243278"
+          "gtin": "5060184243278",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -12478,7 +12919,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550752404",
           "shop_sku": "140510",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -12492,7 +12943,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550799775",
           "shop_sku": "140641",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -12506,7 +12967,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550811606",
           "shop_sku": "30027915",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -12520,7 +12991,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550752404",
           "shop_sku": "1-3182550752404",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -12534,7 +13015,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550799775",
           "shop_sku": "1-3182550799775",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -12548,7 +13039,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550811606",
           "shop_sku": "1-3182550811606",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -12674,7 +13175,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550773928",
           "shop_sku": "781387",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -12688,7 +13199,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550737555",
           "shop_sku": "030605",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -12702,7 +13223,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550737593",
           "shop_sku": "030606",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -12716,7 +13247,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550737616",
           "shop_sku": "030607",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -12730,7 +13271,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550737623",
           "shop_sku": "030608",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -12744,7 +13295,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550737593",
           "shop_sku": "1-3182550737593",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -12758,7 +13319,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550737616",
           "shop_sku": "1-3182550737616",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -12772,7 +13343,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550737623",
           "shop_sku": "1-3182550737623",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -12896,7 +13477,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550706810",
           "shop_sku": "510606",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -12910,7 +13501,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550706827",
           "shop_sku": "510607",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -12924,7 +13525,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550902991",
           "shop_sku": "10053993",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -12938,7 +13549,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550903929",
           "shop_sku": "10053994",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -12952,7 +13573,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550902984",
           "shop_sku": "10053995",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -12966,7 +13597,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550902991",
           "shop_sku": "1-3182550902991",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -12980,7 +13621,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550903929",
           "shop_sku": "1-3182550903929",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -12994,7 +13645,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550902984",
           "shop_sku": "1-3182550902984",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -13116,7 +13777,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550852678",
           "shop_sku": "335766",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -13130,7 +13801,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550893800",
           "shop_sku": "10044742",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -13144,7 +13825,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550852678",
           "shop_sku": "1-3182550852678",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -13158,7 +13849,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550928663",
           "shop_sku": "1-3182550928663",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -13280,7 +13981,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721622",
           "shop_sku": "140516",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -13294,7 +14005,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550717175",
           "shop_sku": "120643",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -13308,7 +14029,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550717182",
           "shop_sku": "120644",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -13322,7 +14053,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721615",
           "shop_sku": "120658",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -13336,7 +14077,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550953702",
           "shop_sku": "1-3182550953702",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -13350,7 +14101,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721615",
           "shop_sku": "1-3182550721615",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -13364,7 +14125,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721622",
           "shop_sku": "1-3182550721622",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -13488,7 +14259,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550784580",
           "shop_sku": "120502",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -13502,7 +14283,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550805629",
           "shop_sku": "335639",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -13516,7 +14307,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550784511",
           "shop_sku": "120500",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -13530,7 +14331,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550784566",
           "shop_sku": "120501",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -13652,7 +14463,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550752008",
           "shop_sku": "140647",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -13666,7 +14487,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550752015",
           "shop_sku": "140652",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -13680,7 +14511,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550751988",
           "shop_sku": "140659",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -13694,7 +14535,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550751995",
           "shop_sku": "140514",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -13708,7 +14559,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550751995",
           "shop_sku": "1-3182550751995",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -13722,7 +14583,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550752008",
           "shop_sku": "1-3182550752008",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -13736,7 +14607,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550752015",
           "shop_sku": "1-3182550752015",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -13859,7 +14740,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721745",
           "shop_sku": "120674",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -13873,7 +14764,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721752",
           "shop_sku": "140515",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -13887,7 +14788,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721721",
           "shop_sku": "510664",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -13901,7 +14812,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721738",
           "shop_sku": "510665",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -13915,7 +14836,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721738",
           "shop_sku": "1-3182550721738",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -13929,7 +14860,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721745",
           "shop_sku": "1-3182550721745",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -13943,7 +14884,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721752",
           "shop_sku": "1-3182550721752",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -14065,7 +15016,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793728",
           "shop_sku": "140536",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -14079,7 +15040,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793704",
           "shop_sku": "140538",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -14093,7 +15064,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793735",
           "shop_sku": "140537",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -14107,7 +15088,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793728",
           "shop_sku": "1-3182550793728",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -14121,7 +15112,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793735",
           "shop_sku": "1-3182550793735",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -14229,7 +15230,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550842907",
           "shop_sku": "335794",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -14243,7 +15254,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550842938",
           "shop_sku": "335795",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -14257,7 +15278,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550842952",
           "shop_sku": "335796",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -14271,7 +15302,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550842969",
           "shop_sku": "335797",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -14285,7 +15326,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550842938",
           "shop_sku": "1-3182550842938",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -14299,7 +15350,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550842952",
           "shop_sku": "1-3182550842952",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -14313,7 +15374,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550842969",
           "shop_sku": "1-3182550842969",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -14427,7 +15498,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550774550",
           "shop_sku": "10049873",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -14441,7 +15522,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550708203",
           "shop_sku": "120633",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -14455,7 +15546,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550402286",
           "shop_sku": "140602",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -14614,7 +15715,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702263",
           "shop_sku": "510609",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -14628,7 +15739,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702317",
           "shop_sku": "510610",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -14642,7 +15763,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702331",
           "shop_sku": "510611",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -14656,7 +15787,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702355",
           "shop_sku": "540601",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -14670,7 +15811,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550708371",
           "shop_sku": "781385",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -14684,7 +15835,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702317",
           "shop_sku": "1-3182550702317",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -14698,7 +15859,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702331",
           "shop_sku": "1-3182550702331",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -14712,7 +15883,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702355",
           "shop_sku": "1-3182550702355",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -14831,7 +16012,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550821438",
           "shop_sku": "30019792",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -14845,7 +16036,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550821414",
           "shop_sku": "120531",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -14859,7 +16060,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550821414",
           "shop_sku": "1-3182550821414",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -14873,7 +16084,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550821421",
           "shop_sku": "1-3182550821421",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -14887,7 +16108,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550821438",
           "shop_sku": "1-3182550821438",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -15015,7 +16246,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550710657",
           "shop_sku": "510652",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -15029,7 +16270,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550710640",
           "shop_sku": "510651",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -15043,7 +16294,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550710633",
           "shop_sku": "510650",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -15057,7 +16318,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550710664",
           "shop_sku": "510680",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15071,7 +16342,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550710633",
           "shop_sku": "1-3182550710633",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15085,7 +16366,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550710640",
           "shop_sku": "1-3182550710640",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15099,7 +16390,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550710657",
           "shop_sku": "1-3182550710657",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15113,7 +16414,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550710664",
           "shop_sku": "1-3182550710664",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -15247,7 +16558,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550787826",
           "shop_sku": "140526",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -15261,7 +16582,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550893879",
           "shop_sku": "10044752",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15275,7 +16606,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550903653",
           "shop_sku": "1-3182550903653",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15289,7 +16630,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550928724",
           "shop_sku": "1-3182550928724",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -15410,7 +16761,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550931038",
           "shop_sku": "30019794",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -15424,7 +16785,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550707329",
           "shop_sku": "140502",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -15438,7 +16809,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550707305",
           "shop_sku": "510624",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -15452,7 +16833,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550707312",
           "shop_sku": "510631",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15466,7 +16857,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550707312",
           "shop_sku": "1-3182550707312",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15480,7 +16881,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550707329",
           "shop_sku": "1-3182550707329",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15494,7 +16905,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550931038",
           "shop_sku": "1-3182550931038",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -15590,7 +17011,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550893947",
           "shop_sku": "10044739",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -15604,7 +17035,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550894012",
           "shop_sku": "10044740",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -15618,7 +17059,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550895057",
           "shop_sku": "10044741",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15632,7 +17083,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550893947",
           "shop_sku": "1-3182550893947",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15646,7 +17107,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550894012",
           "shop_sku": "1-3182550894012",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15660,7 +17131,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550895057",
           "shop_sku": "1-3182550895057",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26"
@@ -15733,7 +17214,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550756402",
           "shop_sku": "120645",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -15747,7 +17238,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550756419",
           "shop_sku": "120646",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -15761,7 +17262,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550756464",
           "shop_sku": "140513",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -15775,7 +17286,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550756440",
           "shop_sku": "140645",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15789,7 +17310,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550756419",
           "shop_sku": "1-3182550756419",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15803,7 +17334,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550756440",
           "shop_sku": "1-3182550756440",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15817,7 +17358,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550756464",
           "shop_sku": "1-3182550756464",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -15918,7 +17469,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550805186",
           "shop_sku": "140637",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -15932,7 +17493,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550805155",
           "shop_sku": "140660",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -15946,7 +17517,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550877831",
           "shop_sku": "342358",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -15960,7 +17541,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "8714231631170",
           "shop_sku": "30023381",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15974,7 +17565,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550805155",
           "shop_sku": "1-3182550805155",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -15988,7 +17589,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550805186",
           "shop_sku": "1-3182550805186",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -16002,7 +17613,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550877831",
           "shop_sku": "1-3182550877831",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -16089,7 +17710,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550402293",
           "shop_sku": "120611",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -16103,7 +17734,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550402316",
           "shop_sku": "140605",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -16234,7 +17875,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793612",
           "shop_sku": "140541",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -16248,7 +17899,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793636",
           "shop_sku": "140542",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -16262,7 +17923,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793568",
           "shop_sku": "140543",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -16276,7 +17947,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "8714231631187",
           "shop_sku": "30023383",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -16290,7 +17971,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793568",
           "shop_sku": "1-3182550793568",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -16304,7 +17995,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793612",
           "shop_sku": "1-3182550793612",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -16318,7 +18019,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793636",
           "shop_sku": "1-3182550793636",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26"
@@ -16391,7 +18102,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550402132",
           "shop_sku": "140600",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -16405,7 +18126,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550778077",
           "shop_sku": "30020214",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -16419,7 +18150,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550708180",
           "shop_sku": "120634",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -16433,7 +18174,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550402439",
           "shop_sku": "1-3182550402439",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -16447,7 +18198,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550708180",
           "shop_sku": "1-3182550708180",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -16461,7 +18222,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550778077",
           "shop_sku": "1-3182550778077",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -16475,7 +18246,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550402132",
           "shop_sku": "1-3182550402132",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -16598,7 +18379,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702614",
           "shop_sku": "510661",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -16612,7 +18403,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550704533",
           "shop_sku": "510662",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -16626,7 +18427,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702621",
           "shop_sku": "120692",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -16640,7 +18451,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702607",
           "shop_sku": "510660",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -16654,7 +18475,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702607",
           "shop_sku": "1-3182550702607",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -16668,7 +18499,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702614",
           "shop_sku": "1-3182550702614",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -16682,7 +18523,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550704533",
           "shop_sku": "1-3182550704533",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -16696,7 +18547,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702621",
           "shop_sku": "1-3182550702621",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -16817,7 +18678,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550743440",
           "shop_sku": "120683",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -16831,7 +18702,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550743433",
           "shop_sku": "120682",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -16845,7 +18726,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550743433",
           "shop_sku": "1-3182550743433",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -16859,7 +18750,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550743440",
           "shop_sku": "1-3182550743440",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26",
@@ -16984,7 +18885,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550893756",
           "shop_sku": "10044738",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -16998,7 +18909,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550852364",
           "shop_sku": "335768",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -17012,7 +18933,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550928625",
           "shop_sku": "30017525",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -17026,7 +18957,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550852364",
           "shop_sku": "1-3182550852364",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -17040,7 +18981,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550928625",
           "shop_sku": "1-3182550928625",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Medpets",
@@ -17136,7 +19087,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550728102",
           "shop_sku": "030615",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -17150,7 +19111,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550747820",
           "shop_sku": "140506",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -17164,7 +19135,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550718813",
           "shop_sku": "140663",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -17178,7 +19159,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550728102",
           "shop_sku": "1-3182550728102",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -17192,7 +19183,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550747820",
           "shop_sku": "1-3182550747820",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -17319,7 +19320,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550717335",
           "shop_sku": "120675",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -17333,7 +19344,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550812016",
           "shop_sku": "140550",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -17347,7 +19368,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550717335",
           "shop_sku": "1-3182550717335",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -17361,7 +19392,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550812016",
           "shop_sku": "1-3182550812016",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -17512,7 +19553,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550719797",
           "shop_sku": "030610",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -17526,7 +19577,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550719803",
           "shop_sku": "030611",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -17540,7 +19601,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550719797",
           "shop_sku": "1-3182550719797",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -17554,7 +19625,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550719803",
           "shop_sku": "1-3182550719803",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Medpets",
@@ -17695,7 +19776,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550846042",
           "shop_sku": "030623",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -17709,7 +19800,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550811637",
           "shop_sku": "140551",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -17723,7 +19824,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550811620",
           "shop_sku": "1-3182550811620",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -17737,7 +19848,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550811637",
           "shop_sku": "1-3182550811637",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -17751,7 +19872,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550846042",
           "shop_sku": "1-3182550846042",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -17890,7 +20021,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702379",
           "shop_sku": "510600",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -17904,7 +20045,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702447",
           "shop_sku": "510602",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -17918,7 +20069,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702973",
           "shop_sku": "540606",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -17932,7 +20093,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702423",
           "shop_sku": "510601",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -17946,7 +20117,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702379",
           "shop_sku": "1-3182550702379",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -17960,7 +20141,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702423",
           "shop_sku": "1-3182550702423",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -17974,7 +20165,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702447",
           "shop_sku": "1-3182550702447",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -17988,7 +20189,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550702973",
           "shop_sku": "1-3182550702973",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -18083,7 +20294,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550751308",
           "shop_sku": "120647",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -18097,7 +20318,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550811774",
           "shop_sku": "140642",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -18111,7 +20342,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550751308",
           "shop_sku": "1-3182550751308",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -18125,7 +20366,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550811774",
           "shop_sku": "1-3182550811774",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -18256,7 +20507,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550722544",
           "shop_sku": "120695",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -18270,7 +20531,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550722537",
           "shop_sku": "140664",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -18284,7 +20555,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550722537",
           "shop_sku": "1-3182550722537",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -18298,7 +20579,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550722544",
           "shop_sku": "1-3182550722544",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -18410,7 +20701,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550802734",
           "shop_sku": "140643",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -18424,7 +20725,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550802758",
           "shop_sku": "10048295",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -18581,7 +20892,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721394",
           "shop_sku": "510675",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -18595,7 +20916,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721424",
           "shop_sku": "335640",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -18609,7 +20940,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721400",
           "shop_sku": "510676",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -18623,7 +20964,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721417",
           "shop_sku": "510677",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -18637,7 +20988,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721400",
           "shop_sku": "1-3182550721400",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -18651,7 +21012,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721417",
           "shop_sku": "1-3182550721417",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -18665,7 +21036,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550721424",
           "shop_sku": "1-3182550721424",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -18780,7 +21161,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793032",
           "shop_sku": "140532",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -18794,7 +21185,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793049",
           "shop_sku": "140533",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -18808,7 +21209,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550792929",
           "shop_sku": "140665",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -18822,7 +21233,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "8714231631194",
           "shop_sku": "30023384",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -18836,7 +21257,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793001",
           "shop_sku": "120525",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -18850,7 +21281,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550792929",
           "shop_sku": "1-3182550792929",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -18864,7 +21305,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793001",
           "shop_sku": "1-3182550793001",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -18878,7 +21329,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793032",
           "shop_sku": "1-3182550793032",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -18892,7 +21353,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793049",
           "shop_sku": "1-3182550793049",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -18989,7 +21460,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550831413",
           "shop_sku": "10048294",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -19003,7 +21484,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550831383",
           "shop_sku": "120515",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -19017,7 +21508,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550831406",
           "shop_sku": "120516",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -19031,7 +21532,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550831390",
           "shop_sku": "120517",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -19161,7 +21672,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550778725",
           "shop_sku": "10025879",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -19175,7 +21696,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550932714",
           "shop_sku": "30019796",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -19189,7 +21720,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550778718",
           "shop_sku": "1-3182550778718",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -19203,7 +21744,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550778725",
           "shop_sku": "1-3182550778725",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -19217,7 +21768,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550932714",
           "shop_sku": "1-3182550932714",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26"
@@ -19285,7 +21846,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550894029",
           "shop_sku": "10044758",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -19299,7 +21870,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550894050",
           "shop_sku": "10044759",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -19313,7 +21894,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550894029",
           "shop_sku": "1-3182550894029",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -19327,7 +21918,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550894050",
           "shop_sku": "1-3182550894050",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -19423,7 +22024,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793353",
           "shop_sku": "10048292",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -19437,7 +22048,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793575",
           "shop_sku": "140636",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -19451,7 +22072,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550793582",
           "shop_sku": "140644",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -19573,7 +22204,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550803113",
           "shop_sku": "140656",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -19587,7 +22228,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550803106",
           "shop_sku": "341666",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -19718,7 +22369,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550777674",
           "shop_sku": "30027919",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -19732,7 +22393,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550811705",
           "shop_sku": "140508",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -19746,7 +22417,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550811705",
           "shop_sku": "1-3182550811705",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -19760,7 +22441,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550777674",
           "shop_sku": "1-3182550777674",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "revised": "2026-11-26"
@@ -19830,7 +22521,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550908443",
           "shop_sku": "30001686",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -19844,7 +22545,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550908450",
           "shop_sku": "30001685",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -19858,7 +22569,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550908443",
           "shop_sku": "1-3182550908443",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Royal Canin Nederland",
@@ -19872,7 +22593,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182550908450",
           "shop_sku": "1-3182550908450",
-          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden"
+          "shipping_source": "https://www.royalcanin.com/nl/about-us/faqs/verzenden",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 3.99
+            },
+            {
+              "from_eur": 29,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -19986,7 +22717,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182551066005",
           "shop_sku": "40550618",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -20000,7 +22741,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182551065916",
           "shop_sku": "40550617",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -20014,7 +22765,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182551066098",
           "shop_sku": "40550619",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -20103,7 +22864,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182551065947",
           "shop_sku": "40550620",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -20117,7 +22888,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182551066036",
           "shop_sku": "40550621",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -20131,7 +22912,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182551066210",
           "shop_sku": "40550622",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -20219,7 +23010,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182551066067",
           "shop_sku": "40550627",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -20233,7 +23034,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182551065978",
           "shop_sku": "40550626",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Pets Place",
@@ -20247,7 +23058,17 @@
           "checked_at": "2026-11-26T17:00:41+00:00",
           "gtin": "3182551066128",
           "shop_sku": "40550628",
-          "shipping_source": "https://www.petsplace.nl/bezorgen"
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "Intratuin",
@@ -20912,7 +23733,18 @@
           "shipping_eur": 0,
           "free_from_eur": 39,
           "stock": "in_stock",
-          "checked_at": "2026-11-26T16:33:13+00:00"
+          "checked_at": "2026-11-26T16:33:13+00:00",
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "cost_basis": "Vier alkaline C-batterijen per zes maanden. Bij €3,89 per twee batterijen kost acht stuks €15,56 per jaar. Levensduur hangt af van het gebruik.",
@@ -21019,7 +23851,18 @@
           "shipping_eur": 0,
           "free_from_eur": 39,
           "stock": "in_stock",
-          "checked_at": "2026-11-26T16:31:44+00:00"
+          "checked_at": "2026-11-26T16:31:44+00:00",
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         }
       ],
       "cost_basis": "Vier alkaline C-batterijen per zes maanden. Bij €3,89 per twee batterijen kost acht stuks €15,56 per jaar. Levensduur hangt af van het gebruik. Voor appgebruik zonder bestaande hub komt er eenmalig €94,99 bij.",
@@ -21136,7 +23979,18 @@
           "shipping_eur": 0,
           "free_from_eur": 39,
           "stock": "in_stock",
-          "checked_at": "2026-11-26T16:23:22+00:00"
+          "checked_at": "2026-11-26T16:23:22+00:00",
+          "shipping_source": "https://www.petsplace.nl/bezorgen",
+          "shipping_tiers": [
+            {
+              "from_eur": 0,
+              "shipping_eur": 4.99
+            },
+            {
+              "from_eur": 39,
+              "shipping_eur": 0
+            }
+          ]
         },
         {
           "shop": "bol",

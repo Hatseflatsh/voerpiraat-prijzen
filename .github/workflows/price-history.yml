@@ -1,0 +1,68 @@
+name: Dagelijkse prijsmeting
+on:
+  schedule:
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: prices-default-branch
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.ref_name == github.event.repository.default_branch && (github.event_name == 'workflow_dispatch' || github.repository == 'Hatseflatsh/voerpiraat-prijzen')
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Meet, valideer en bewaar de geverifieerde prijzen
+        shell: bash
+        env:
+          PRICE_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2; do
+            # A concurrent editorial commit requires a fresh measurement against its catalog.
+            git fetch --no-tags origin "refs/heads/$PRICE_BRANCH"
+            git checkout --detach FETCH_HEAD
+            if [[ -f package.json ]]; then npm ci; fi
+            node scripts/refresh-prices.mjs
+            node scripts/apply-published-delivery.mjs
+            node scripts/record-prices.mjs
+            node scripts/refresh-prices.mjs --verify
+            if [[ -f package.json ]]; then
+              npm test
+              npm run check
+              npm run build
+            else
+              node --test tests/refresh-prices.test.mjs tests/price-history.test.mjs
+            fi
+            shopt -s nullglob
+            paths=(data/products.json data/price-history*.json)
+            for optional in data/promotions.json data/price-archive public/history; do
+              if [[ -e "$optional" ]] || [[ -n "$(git ls-files -- "$optional")" ]]; then paths+=("$optional"); fi
+            done
+            git add -A -- "${paths[@]}"
+            if git diff --cached --quiet; then exit 0; fi
+            git commit -m "Bewaar geverifieerde winkelprijzen $(date -u +%F)"
+            if git push origin "HEAD:refs/heads/$PRICE_BRANCH"; then exit 0; fi
+            git fetch --no-tags origin "refs/heads/$PRICE_BRANCH"
+            if [[ "$(git rev-parse FETCH_HEAD)" == "$(git rev-parse HEAD^)" ]]; then
+              echo "De remote bron bleef gelijk. Controleer repositoryrechten en branchregels." >&2
+              exit 1
+            fi
+          done
+          echo "De bron wijzigde tijdens beide pogingen. De volgende meting leest de nieuwste catalogus." >&2
+          exit 1

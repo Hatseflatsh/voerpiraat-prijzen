@@ -6,6 +6,12 @@ import { orderShipping } from '../src/calculate.mjs';
 const tiers = (...entries) => entries.map(([from_eur, shipping_eur]) => ({ from_eur, shipping_eur }));
 
 const policies = {
+  'Pets Place': {
+    shipping_source: 'https://www.petsplace.nl/bezorgen', free_from_eur: 39, shipping_tiers: tiers([0, 4.99], [39, 0]),
+  },
+  'Royal Canin Nederland': {
+    shipping_source: 'https://www.royalcanin.com/nl/about-us/faqs/verzenden', free_from_eur: 29, shipping_tiers: tiers([0, 3.99], [29, 0]),
+  },
   Intratuin: {
     shipping_source: 'https://www.intratuin.nl/klantenservice/faq-bezorging',
     min_order_eur: 15,

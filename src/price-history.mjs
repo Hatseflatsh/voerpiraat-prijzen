@@ -46,7 +46,7 @@ export function makePriceViews(catalog,history,promos=[],now=new Date()){
   for(const p of products){
     const offers=history[p.slug]||[],page='/'+({kat:'kattenvoer',hond:'hondenvoer'}[p.species]||'dierentech')+'/'+p.slug;
     const info={slug:p.slug,name:p.brand+' '+p.model+(p.species?' · '+p.species:''),page,species:p.species||'tech'};
-    const active=promos.filter(v=>v.slug===p.slug&&recentPromotion(v,now)&&p.offers.some(o=>o.shop===v.shop&&o.url===v.url&&o.units===v.units&&(o.unit_kg??null)===(v.unit_kg??null)&&o.stock==='in_stock'&&o.price_eur===v.price_eur));
+    const active=promos.filter(v=>v.slug===p.slug&&recentPromotion(v,now)&&p.offers.some(o=>o.shop===v.shop&&o.url===v.url&&o.units===v.units&&(o.unit_kg??null)===(v.unit_kg??null)&&o.stock==='in_stock'&&o.price_eur===(v.kind==='coupon'?v.catalog_price_eur:v.price_eur)));
     currentPromos.push(...active.map(v=>({...info,...v})));
     feed[p.slug]={series:offers,promos:active};
     for(const s of offers){
