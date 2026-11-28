@@ -50,6 +50,13 @@
           "price_eur": 8.99,
           "delivered_eur": 13.98,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:16.415Z",
+          "price_eur": 8.99,
+          "delivered_eur": 13.98,
+          "stock": "in_stock"
         }
       ],
       "gtin": "022517437216",
@@ -105,6 +112,13 @@
           "price_eur": 16.19,
           "delivered_eur": 21.18,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:16.415Z",
+          "price_eur": 16.19,
+          "delivered_eur": 21.18,
+          "stock": "in_stock"
         }
       ],
       "gtin": "022517437223",
@@ -136,6 +150,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:05.216Z",
+          "price_eur": 11.29,
+          "delivered_eur": 16.28,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:15.067Z",
           "price_eur": 11.29,
           "delivered_eur": 16.28,
           "stock": "in_stock"
@@ -216,6 +237,13 @@
           "price_eur": 25.9,
           "delivered_eur": null,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:14.596Z",
+          "price_eur": 25.9,
+          "delivered_eur": null,
+          "stock": "in_stock"
         }
       ],
       "shop_sku": "48532562313451"
@@ -267,6 +295,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:05.199Z",
+          "price_eur": 15.9,
+          "delivered_eur": null,
+          "stock": "out_of_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:14.596Z",
           "price_eur": 15.9,
           "delivered_eur": null,
           "stock": "out_of_stock"
@@ -326,6 +361,13 @@
           "price_eur": 19.99,
           "delivered_eur": 23.98,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:17.126Z",
+          "price_eur": 19.99,
+          "delivered_eur": 23.98,
+          "stock": "in_stock"
         }
       ],
       "gtin": "6972884750002",
@@ -378,6 +420,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:09.715Z",
+          "price_eur": 24.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:18.593Z",
           "price_eur": 24.99,
           "delivered_eur": null,
           "stock": "in_stock"
@@ -438,6 +487,13 @@
           "price_eur": 49.5,
           "delivered_eur": 54.45,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:20.506Z",
+          "price_eur": 49.5,
+          "delivered_eur": 54.45,
+          "stock": "out_of_stock"
         }
       ],
       "gtin": "0810157860651",
@@ -495,6 +551,13 @@
           "price_eur": 10.7,
           "delivered_eur": null,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:21.537Z",
+          "price_eur": 10.7,
+          "delivered_eur": null,
+          "stock": "in_stock"
         }
       ],
       "gtin": "6973293800630",
@@ -547,6 +610,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:14.617Z",
+          "price_eur": 12.5,
+          "delivered_eur": 20.45,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:23.069Z",
           "price_eur": 12.5,
           "delivered_eur": 20.45,
           "stock": "in_stock"
@@ -607,6 +677,13 @@
           "price_eur": 24.99,
           "delivered_eur": null,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:19.550Z",
+          "price_eur": 24.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
         }
       ],
       "gtin": "6972884750934",
@@ -659,6 +736,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:10.917Z",
+          "price_eur": 28.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:19.550Z",
           "price_eur": 28.99,
           "delivered_eur": null,
           "stock": "in_stock"
@@ -718,6 +802,13 @@
           "price_eur": 34.99,
           "delivered_eur": null,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:22.268Z",
+          "price_eur": 34.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
         }
       ],
       "gtin": "5060180394622",
@@ -770,6 +861,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:09.621Z",
+          "price_eur": 29.99,
+          "delivered_eur": 34.98,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:18.431Z",
           "price_eur": 29.99,
           "delivered_eur": 34.98,
           "stock": "in_stock"
@@ -830,6 +928,13 @@
           "price_eur": 12.99,
           "delivered_eur": 17.98,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:20.619Z",
+          "price_eur": 12.99,
+          "delivered_eur": 17.98,
+          "stock": "in_stock"
         }
       ],
       "gtin": "5060180393359",
@@ -885,6 +990,13 @@
           "price_eur": 16.3,
           "delivered_eur": 21.25,
           "stock": "out_of_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:22.651Z",
+          "price_eur": 16.3,
+          "delivered_eur": 21.25,
+          "stock": "out_of_stock"
         }
       ],
       "shop_sku": "MP41845"
@@ -920,6 +1032,13 @@
           "price_eur": 2.02,
           "delivered_eur": 8.27,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:24.853Z",
+          "price_eur": 2.02,
+          "delivered_eur": 8.27,
+          "stock": "in_stock"
         }
       ],
       "gtin": "022517437247",
@@ -951,6 +1070,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:06.247Z",
+          "price_eur": 3.19,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:16.009Z",
           "price_eur": 3.19,
           "delivered_eur": null,
           "stock": "in_stock"
@@ -990,6 +1116,13 @@
           "price_eur": 10.99,
           "delivered_eur": 17.24,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:25.718Z",
+          "price_eur": 10.99,
+          "delivered_eur": 17.24,
+          "stock": "in_stock"
         }
       ],
       "gtin": "022517437551",
@@ -1021,6 +1154,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:16.889Z",
+          "price_eur": 10.99,
+          "delivered_eur": 15.98,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:25.597Z",
           "price_eur": 10.99,
           "delivered_eur": 15.98,
           "stock": "in_stock"
@@ -1060,6 +1200,13 @@
           "price_eur": 21.99,
           "delivered_eur": null,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:25.447Z",
+          "price_eur": 21.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
         }
       ],
       "gtin": "035368009587",
@@ -1091,6 +1238,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:17.162Z",
+          "price_eur": 9.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:23.071Z",
           "price_eur": 9.99,
           "delivered_eur": null,
           "stock": "in_stock"
@@ -1130,6 +1284,13 @@
           "price_eur": 8.99,
           "delivered_eur": null,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:23.883Z",
+          "price_eur": 8.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
         }
       ],
       "gtin": "0035368409004",
@@ -1161,6 +1322,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:19.027Z",
+          "price_eur": 16.49,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:26.137Z",
           "price_eur": 16.49,
           "delivered_eur": null,
           "stock": "in_stock"
@@ -1200,6 +1368,13 @@
           "price_eur": 20.5,
           "delivered_eur": 25.45,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:23.607Z",
+          "price_eur": 20.5,
+          "delivered_eur": 25.45,
+          "stock": "in_stock"
         }
       ],
       "gtin": "6975069302959",
@@ -1231,6 +1406,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:15.567Z",
+          "price_eur": 25.99,
+          "delivered_eur": 33.94,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:23.938Z",
           "price_eur": 25.99,
           "delivered_eur": 33.94,
           "stock": "in_stock"
@@ -1270,6 +1452,13 @@
           "price_eur": 14.5,
           "delivered_eur": 19.45,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:26.636Z",
+          "price_eur": 14.5,
+          "delivered_eur": 19.45,
+          "stock": "in_stock"
         }
       ],
       "gtin": "022517448359",
@@ -1301,6 +1490,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:20.414Z",
+          "price_eur": 19.95,
+          "delivered_eur": 25.9,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:27.237Z",
           "price_eur": 19.95,
           "delivered_eur": 25.9,
           "stock": "in_stock"
@@ -1340,6 +1536,13 @@
           "price_eur": 10.05,
           "delivered_eur": null,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:24.538Z",
+          "price_eur": 10.05,
+          "delivered_eur": null,
+          "stock": "in_stock"
         }
       ],
       "gtin": "0022517437384",
@@ -1371,6 +1574,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:15.011Z",
+          "price_eur": 10.79,
+          "delivered_eur": 15.78,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:21.208Z",
           "price_eur": 10.79,
           "delivered_eur": 15.78,
           "stock": "in_stock"
@@ -1410,6 +1620,13 @@
           "price_eur": 10.95,
           "delivered_eur": null,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:24.697Z",
+          "price_eur": 10.95,
+          "delivered_eur": null,
+          "stock": "in_stock"
         }
       ],
       "gtin": "035368003394",
@@ -1441,6 +1658,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:20.020Z",
+          "price_eur": 10.5,
+          "delivered_eur": 15.45,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:27.583Z",
           "price_eur": 10.5,
           "delivered_eur": 15.45,
           "stock": "in_stock"
@@ -1478,6 +1702,13 @@
           "price_eur": 5,
           "delivered_eur": null,
           "stock": "out_of_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:26.801Z",
+          "price_eur": 5,
+          "delivered_eur": null,
+          "stock": "out_of_stock"
         }
       ],
       "gtin": "035368003394",
@@ -1512,6 +1743,13 @@
           "price_eur": 17.99,
           "delivered_eur": null,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:27.477Z",
+          "price_eur": 17.99,
+          "delivered_eur": null,
+          "stock": "in_stock"
         }
       ],
       "gtin": "035368003899",
@@ -1543,6 +1781,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:07.323Z",
+          "price_eur": 15.69,
+          "delivered_eur": 20.68,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:16.952Z",
           "price_eur": 15.69,
           "delivered_eur": 20.68,
           "stock": "in_stock"
@@ -1582,6 +1827,13 @@
           "price_eur": 4.99,
           "delivered_eur": 11.94,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:28.078Z",
+          "price_eur": 4.99,
+          "delivered_eur": 11.94,
+          "stock": "in_stock"
         }
       ],
       "gtin": "4053032005594",
@@ -1613,6 +1865,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:08.299Z",
+          "price_eur": 3.75,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:18.263Z",
           "price_eur": 3.75,
           "delivered_eur": null,
           "stock": "in_stock"
@@ -1652,6 +1911,13 @@
           "price_eur": 12.95,
           "delivered_eur": 19.9,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:28.892Z",
+          "price_eur": 12.95,
+          "delivered_eur": 19.9,
+          "stock": "in_stock"
         }
       ],
       "gtin": "729849143562",
@@ -1683,6 +1949,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:21.384Z",
+          "price_eur": 13.99,
+          "delivered_eur": 21.98,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:28.277Z",
           "price_eur": 13.99,
           "delivered_eur": 21.98,
           "stock": "in_stock"
@@ -1721,6 +1994,13 @@
           "price_eur": 9.95,
           "delivered_eur": 16.9,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:29.681Z",
+          "price_eur": 9.95,
+          "delivered_eur": 16.9,
+          "stock": "in_stock"
         }
       ],
       "gtin": "679562707100",
@@ -1755,6 +2035,13 @@
           "price_eur": 13.99,
           "delivered_eur": 19.94,
           "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:28.405Z",
+          "price_eur": 13.99,
+          "delivered_eur": 19.94,
+          "stock": "in_stock"
         }
       ],
       "gtin": "0679562707100",
@@ -1786,6 +2073,13 @@
         {
           "day": "2026-11-27",
           "checked_at": "2026-11-27T14:02:09.352Z",
+          "price_eur": 6.45,
+          "delivered_eur": null,
+          "stock": "in_stock"
+        },
+        {
+          "day": "2026-11-28",
+          "checked_at": "2026-11-28T13:16:19.230Z",
           "price_eur": 6.45,
           "delivered_eur": null,
           "stock": "in_stock"
